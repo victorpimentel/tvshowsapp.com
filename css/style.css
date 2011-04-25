@@ -171,43 +171,67 @@ footer:after {
 	outline: 0;
 }
 #download a, #download a:visited {
-	background-color:#5ba027;
-	background-image: -moz-linear-gradient(top, #84c63c, #4b9817);
-	background-image: -ms-linear-gradient(top, #84c63c, #4b9817);
-	background-image: -o-linear-gradient(top, #84c63c, #4b9817);
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#84c63c), to(#4b9817));
-	background-image: -webkit-linear-gradient(top, #84c63c, #4b9817);
-	background-image: linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png) #5ba027;
+	background: -moz-linear-gradient(top, #84c63c, #4b9817);
+	background: -ms-linear-gradient(top, #84c63c, #4b9817);
+	background: -o-linear-gradient(top, #84c63c, #4b9817);
+	background: -webkit-gradient(linear, left top, left bottom, from(#84c63c), to(#4b9817));
+	background: -webkit-linear-gradient(top, #84c63c, #4b9817);
+	background: linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png), -moz-linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png), -ms-linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png), -o-linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png), -webkit-gradient(linear, left top, left bottom, from(#84c63c), to(#4b9817));
+	background: url(../img/noise.png), -webkit-linear-gradient(top, #84c63c, #4b9817);
+	background: url(../img/noise.png), linear-gradient(top, #84c63c, #4b9817);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#84c63c', EndColorStr='#4b9817');
 }
 #download a:hover {
-	background-color:#7bb947;
-	background-image: -moz-linear-gradient(top, #8BE041, #50B319);
-	background-image: -ms-linear-gradient(top, #8BE041, #50B319);
-	background-image: -o-linear-gradient(top, #8BE041, #50B319);
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#8BE041), to(#50B319));
-	background-image: -webkit-linear-gradient(top, #8BE041, #50B319);
-	background-image: linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png) #7bb947;
+	background: -moz-linear-gradient(top, #8BE041, #50B319);
+	background: -ms-linear-gradient(top, #8BE041, #50B319);
+	background: -o-linear-gradient(top, #8BE041, #50B319);
+	background: -webkit-gradient(linear, left top, left bottom, from(#8BE041), to(#50B319));
+	background: -webkit-linear-gradient(top, #8BE041, #50B319);
+	background: linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png), -moz-linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png), -ms-linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png), -o-linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png), -webkit-gradient(linear, left top, left bottom, from(#8BE041), to(#50B319));
+	background: url(../img/noise.png), -webkit-linear-gradient(top, #8BE041, #50B319);
+	background: url(../img/noise.png), linear-gradient(top, #8BE041, #50B319);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#8BE041', EndColorStr='#50B319');
 }
 #donate a, #donate a:visited {
-	background-color:#A17827;
-	background-image: -moz-linear-gradient(top, #C78D3C, #997217); 
-	background-image: -ms-linear-gradient(top, #C78D3C, #997217); 
-	background-image: -o-linear-gradient(top, #C78D3C, #997217); 
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#C78D3C), to(#997217)); 
-	background-image: -webkit-linear-gradient(top, #C78D3C, #997217); 
-	background-image: linear-gradient(top, #C78D3C, #997217);
+	background: url(../img/noise.png), #A17827;
+	background: -moz-linear-gradient(top, #C78D3C, #997217); 
+	background: -ms-linear-gradient(top, #C78D3C, #997217); 
+	background: -o-linear-gradient(top, #C78D3C, #997217); 
+	background: -webkit-gradient(linear, left top, left bottom, from(#C78D3C), to(#997217)); 
+	background: -webkit-linear-gradient(top, #C78D3C, #997217); 
+	background: linear-gradient(top, #C78D3C, #997217);
+	background: url(../img/noise.png), -moz-linear-gradient(top, #C78D3C, #997217); 
+	background: url(../img/noise.png), -ms-linear-gradient(top, #C78D3C, #997217); 
+	background: url(../img/noise.png), -o-linear-gradient(top, #C78D3C, #997217); 
+	background: url(../img/noise.png), -webkit-gradient(linear, left top, left bottom, from(#C78D3C), to(#997217)); 
+	background: url(../img/noise.png), -webkit-linear-gradient(top, #C78D3C, #997217); 
+	background: url(../img/noise.png), linear-gradient(top, #C78D3C, #997217);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#C78D3C', EndColorStr='#997217'); 
 }
 #donate a:hover {
-	background-color:#BA9247;
-	background-image: -moz-linear-gradient(top, #E0A641, #B38C19); 
-	background-image: -ms-linear-gradient(top, #E0A641, #B38C19); 
-	background-image: -o-linear-gradient(top, #E0A641, #B38C19); 
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#E0A641), to(#B38C19)); 
-	background-image: -webkit-linear-gradient(top, #E0A641, #B38C19); 
-	background-image: linear-gradient(top, #E0A641, #B38C19);
+	background: url(../img/noise.png), #BA9247;
+	background: -moz-linear-gradient(top, #E0A641, #B38C19); 
+	background: -ms-linear-gradient(top, #E0A641, #B38C19); 
+	background: -o-linear-gradient(top, #E0A641, #B38C19); 
+	background: -webkit-gradient(linear, left top, left bottom, from(#E0A641), to(#B38C19)); 
+	background: -webkit-linear-gradient(top, #E0A641, #B38C19); 
+	background: linear-gradient(top, #E0A641, #B38C19);
+	background: url(../img/noise.png), -moz-linear-gradient(top, #E0A641, #B38C19); 
+	background: url(../img/noise.png), -ms-linear-gradient(top, #E0A641, #B38C19); 
+	background: url(../img/noise.png), -o-linear-gradient(top, #E0A641, #B38C19); 
+	background: url(../img/noise.png), -webkit-gradient(linear, left top, left bottom, from(#E0A641), to(#B38C19)); 
+	background: url(../img/noise.png), -webkit-linear-gradient(top, #E0A641, #B38C19); 
+	background: url(../img/noise.png), linear-gradient(top, #E0A641, #B38C19);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#E0A641', EndColorStr='#B38C19'); 
 }
 
