@@ -1,20 +1,16 @@
 /* the humans responsible & colophon */
 /* humanstxt.org */
 
-
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
-
-/* THANKS */
-  Names (& URL): 
+  Developer & Maintainer: Víctor Pimentel
+  Site: http://victorpimentel.com
+  Twitter: @VictorPimentel
+  Location: Madrid, Spain
 
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software:
+  Software: TextMate
   
 
                                     
