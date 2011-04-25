@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>TVShows 2</title>
+      <link>http://victorpimentel.com/tvshows/tvshows.xml</link>
+      <description>New versions of TVShows</description>
+      <language>en</language>
+         <item>
+            <title>Version 2.0 (Beta 6) (5 bugs fixed; 3 new features)</title>
+            <sparkle:releaseNotesLink>
+              http://victorpimentel.com/tvshows/notes-395.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 24 Apr 2011 05:40:47 +0200</pubDate>
+            <enclosure url="http://victorpimentel.com/tvshows/TVShows_2.0b6.zip" sparkle:version="395" sparkle:shortVersionString="2.0b6" length="2427661" type="application/zip" sparkle:dsaSignature="MCwCFDprNuoSvNjaD+nIlqfYRmjaXsgvAhRbPX0/f2lUzxBKReYCw4wQPJgG1Q==" />
+         </item>
+         <item>
+            <title>Version 2.0 (Beta 5)</title>
+            <sparkle:releaseNotesLink>
+              http://victorpimentel.com/tvshows/notes-394.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 23 Apr 2011 04:38:20 +0200</pubDate>
+            <enclosure url="http://victorpimentel.com/tvshows/TVShows_2.0b5.zip" sparkle:version="394" sparkle:shortVersionString="2.0b5" length="2418841" type="application/zip" sparkle:dsaSignature="MCwCFC95WAMAAY0ywUSop0H1Jnt4GGKKAhRzPaLY9cd1qlmVZPyoBMbTRiAUwg==" />
+         </item>
+   </channel>
+</rss>
