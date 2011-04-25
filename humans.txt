@@ -9,7 +9,7 @@
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
+  Components: headjs, inuit.css, HTML5 boilerplate
   Software: TextMate
   
 
