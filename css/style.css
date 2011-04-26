@@ -41,10 +41,16 @@ body{
 	position:absolute;
 	top:0;
 	right:0;
+  width:149px;
+  height:149px;
 }
 .centred li,
 .centered li{
 	padding:0 12px;
+}
+.centred li:first-of-type,
+.centered li:first-of-type{
+	padding-left:0;
 }
 .centred li:after,
 .centred li::after,
@@ -323,21 +329,6 @@ Linearise it!
 		text-align:center;
 	}
 	nav {
-		margin-bottom:15px;
-	}
-	nav:after {
-		margin-top:-6px;
-	}
-	footer {
-		margin-top:30px;
-	}
-	footer:after {
-		margin-top:-47px;
-	}
-}
-/* Fix iPhone when in portrait */
-@media (max-width: 410px){
-	nav {
 		width:230px;
 		height:40px;
 		margin:0 auto 15px;
@@ -352,6 +343,12 @@ Linearise it!
 	nav li:nth-child(3):after,
 	nav li:nth-child(3)::after{
 		content:"";
+	}
+	footer {
+		margin-top:30px;
+	}
+	footer:after {
+		margin-top:-47px;
 	}
 }
 /*--- END MOBILE ---*/
