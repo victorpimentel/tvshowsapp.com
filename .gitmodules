@@ -1,3 +1,6 @@
 [submodule "js/libs/headjs"]
 	path = js/libs/headjs
 	url = git://github.com/headjs/headjs.git
+[submodule "shimmer"]
+	path = shimmer
+	url = git://github.com/shimmerapp/shimmer.git
