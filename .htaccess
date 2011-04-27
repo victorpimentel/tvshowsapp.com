@@ -478,6 +478,7 @@ php_value session.cookie_httponly true
 
 # Redirect TVShows appcast
 RewriteEngine On
+RewriteRule ^.git - [F,L]
 RewriteRule ^tvshows.xml/?$ shimmer/?appcast&appName=TVShows&%{QUERY_STRING}
 RewriteRule ^tvshows-beta.xml/?$ shimmer/?appcast&appName=TVShows&appVariant=Beta&%{QUERY_STRING}
 RewriteRule ^notes.html/?$ shimmer/?notes&appName=TVShows&%{QUERY_STRING}

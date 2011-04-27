@@ -26,7 +26,7 @@ if (array_key_exists('feedback', $_REQUEST)) {
     $email = $_REQUEST['email'];
     $name = $_REQUEST['name'];
   } else {
-    $email = 'tvshows.help@gmail.com';
+    $email = 'support@tvshowsapp.com';
     $name = 'Unknown Submitter';
   }
   $feedback = $_REQUEST['feedback'];
@@ -43,7 +43,7 @@ if (array_key_exists('feedback', $_REQUEST)) {
   $msg .= "Bundle ID: $bundleID\n";
   $msg .= "System Profile: $systemProfile\n";
 
-  mail("tvshows.help@gmail.com", "[$feedbackType] $appName $appVersion", $msg, $headers);
+  mail("support@tvshowsapp.com", "[$feedbackType] $appName $appVersion", $msg, $headers);
 }
 ?>
 
