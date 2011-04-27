@@ -257,6 +257,17 @@ a:hover {
 	color:white;
 }
 
+::-moz-selection {
+	background:white;
+	color:black;
+	text-shadow:none;
+}
+::selection {
+	background:white;
+	color:black;
+	text-shadow:none;
+}
+
 /*------------------------------------*\
 	IMAGES
 \*------------------------------------*/
@@ -343,10 +354,6 @@ Linearise it!
 	nav li:nth-child(3):after,
 	nav li:nth-child(3)::after{
 		content:"";
-	}
-	nav li:nth-child(4),
-	nav li:nth-child(4){
-		padding-left: 0;
 	}
 	footer {
 		margin-top:30px;
