@@ -12,11 +12,10 @@
   <link rel="shortcut icon" href="favicon.ico">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-	<link rel="stylesheet" href="css/inuit.css" />
+  <link rel="stylesheet" href="css/inuit.css" />
   <link rel="stylesheet" href="css/style.css">
 
   <script src="js/libs/headjs/dist/head.min.js"></script>
-
 </head>
 
 <body>
@@ -28,13 +27,13 @@
   <nav>
     <ul class="nav centred">
       <!-- <li><a title="Back to home" href="http://victorpimentel.com/tvshows/">Home</a></li> -->
-  	  <li><a title="Know more about the author" href="http://victorpimentel.com/">About</a></li>
-      <li><a title="See the release notes" href="notes.html">What's new</a></li>
+      <li><a id="about-link" title="Know more about the author" href="http://victorpimentel.com/">About</a></li>
+      <li><a id="notes-link" title="See the release notes" href="notes.html">What's new</a></li>
       <!-- <li><a title="Visit the blog" href="#">Blog</a></li> -->
-  	  <li><a title="Follow me on Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
-  	  <li><a title="Help translating TVShows" href="https://webtranslateit.com/en/projects/874-TVShows-2">Translate</a></li>
-  	  <li><a title="Fork me on GitHub" href="https://github.com/victorpimentel/TVShows">Source</a></li>
-  	  <li><a title="Email us" href="mailto:tvshows.help@gmail.com">Contact</a></li>
+      <li><a id="twitter-link" title="Follow us on Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
+      <li><a id="translate-link" title="Help translating TVShows" href="https://webtranslateit.com/en/projects/874-TVShows-2">Translate</a></li>
+      <li><a id="github-link" title="Fork us on GitHub" href="https://github.com/victorpimentel/TVShows">Source</a></li>
+      <li><a id="contact-link" title="Email us" href="mailto:tvshows.help@gmail.com">Contact</a></li>
     </ul>
   </nav>
 
@@ -43,17 +42,17 @@
       <img src="img/logo.png" alt="TVShows" />
     </div>
     <div id="info" class="grid grid-7">
-      <h1>TVShows 2</h1>
-      <p>TVShows is the easiest way to <strong>download your favorite shows automatically</strong> in your Mac.</p>
-      <p>When new episodes are released, your chosen <strong>torrent application</strong> will download them.</p>
+      <h1 id="big-title">TVShows 2</h1>
+      <p id="desc-1">TVShows is the easiest way to <strong>download your favorite shows automatically</strong> in your Mac.</p>
+      <p id="desc-2">When new episodes are released, your chosen <strong>torrent application</strong> will download them.</p>
       <div id="buttons" class="grids">
         <p id="download" class="grid grid-4">
-          <a title="Download TVShows 2.0b6r2" href="http://victorpimentel.com/tvshows/TVShows.zip" role="button" tabindex="1" class="grid-4">Download</a>
-          <small>Version 2.0b6r2 (Universal)</small>
+          <a id="download-button" title="Download the latest version of TVShows" href="http://victorpimentel.com/tvshows/TVShows.zip" role="button" tabindex="1" class="grid-4">Download</a>
+          <small>2.0b6r2 (Universal)</small>
           <small>Leopard <em>&amp;</em> Snow Leopard</small>
         </p>
         <p id="donate" class="grid grid-3">
-          <a title="Buy me a cup of coffee!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=2PARRGESKRQJ6&amp;item_name=TVShows2&amp;item_number=TVShows2&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button" tabindex="2" class="grid-3">Donate</a>
+          <a id="donate-button" title="Buy us a cup of coffee!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=2PARRGESKRQJ6&amp;item_name=TVShows2&amp;item_number=TVShows2&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button" tabindex="2" class="grid-3">Donate</a>
         </p>
       </div>
     </div>
@@ -61,18 +60,50 @@
 
   <footer>
     <ul class="nav centred">
-      <li><a title="Personal website" href="http://victorpimentel.com">Víctor Pimentel</a></li>
-      <li><a title="TVShows License" href="http://www.gnu.org/licenses/gpl.html">GPL3 2011</a></li>
+      <li><a id="credits-link" title="Personal website" href="http://victorpimentel.com">Víctor Pimentel</a></li>
+      <li><a id="license-link" title="TVShows License" href="http://www.gnu.org/licenses/gpl.html">GPL3 2011</a></li>
     </ul>
   </footer>
 
   <script>
+    // Translate the page
+    head.ready('dom', function() {
 
-    head.js('http://www.google-analytics.com/ga.js', function() {  
-      var tracker = _gat._getTracker('UA-59149-3');
-      tracker._trackPageview();  
+      // Get user language
+      var lang = navigator.browserLanguage || navigator.language;
+
+      // Translate the text and title (optional) of an element
+      var t = function(id, text, title) {
+        var el = document.getElementById(id);
+        el.innerHTML = text;
+        if (title) el.setAttribute('title', title);
+      }
+
+      // Translate to Spanish
+      if (lang.toLowerCase().indexOf('es') != -1) {
+        t("about-link", "Acerca de", "Conoce más sobre el autor");
+        t("notes-link", "Cambios", "Lee los últimos cambios en TVShows");
+        t("twitter-link", "Twitter", "Síguenos en Twitter");
+        t("translate-link", "Traduce", "Ayúdanos traduciendo TVShows");
+        t("github-link", "Código", "Ve el código fuente en GitHub");
+        t("contact-link", "Contacto", "Envíanos un correo");
+        t("desc-1", "TVShows es la forma más sencilla de <strong>descargar automáticamente tus series favoritas</strong> en tu Mac.");
+        t("desc-2", "Cuando se emitan nuevos episodios, tu <strong>aplicación de torrents</strong> los descargará.");
+        t("download-button", "Descarga", "Descarga la versión más reciente de TVShows");
+        t("donate-button", "Dona", "¡Invítanos a una cerveza!");
+        t("credits-link", "Víctor Pimentel", "Página personal del autor");
+        t("license-link", "GPL3 2011", "Licencia de TVShows");
+      }
+
     });
 
+    // Google Analytics (if in production)
+    if (location.host == 'victorpimentel.com') {
+      head.js('http://www.google-analytics.com/ga.js', function() {
+        var tracker = _gat._getTracker('UA-59149-3');
+        tracker._trackPageview();
+      });
+    }
   </script>
 
 </body>
