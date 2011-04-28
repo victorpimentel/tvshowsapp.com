@@ -285,7 +285,7 @@ a:hover {
 	margin:32% 0 0 20%;
 	border-radius:70px/45px;
 	background-image:url(../img/static-noise.gif);
-	background-image:-webkit-gradient(radial, center center, 50, center center, 175, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/tv-static.gif);
+	background-image:-webkit-gradient(radial, center center, 50, center center, 175, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
 	opacity:0.75;
 	color:#0AF;
 	-webkit-text-stroke:1px black;
