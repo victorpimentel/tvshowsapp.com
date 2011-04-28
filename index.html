@@ -81,6 +81,7 @@
 
       // Translate to Spanish
       if (lang.toLowerCase().indexOf('es') != -1) {
+        document.getElementsByTagName('html')[0].setAttribute('lang', 'es');
         t("about-link", "Acerca de", "Conoce más sobre el autor");
         t("notes-link", "Cambios", "Lee los últimos cambios en TVShows");
         t("twitter-link", "Twitter", "Síguenos en Twitter");
@@ -89,13 +90,20 @@
         t("contact-link", "Contacto", "Envíanos un correo");
         t("desc-1", "TVShows es la forma más sencilla de <strong>descargar automáticamente tus series favoritas</strong> en tu Mac.");
         t("desc-2", "Cuando se emitan nuevos episodios, tu <strong>aplicación de torrents</strong> los descargará.");
-        t("download-button", "Descarga", "Descarga la versión más reciente de TVShows");
-        t("donate-button", "Dona", "¡Invítanos a una cerveza!");
+        t("download-button", "Descargar", "Descarga la versión más reciente de TVShows");
+        t("donate-button", "Donar", "¡Invítanos a una cerveza!");
         t("credits-link", "Víctor Pimentel", "Página personal del autor");
         t("license-link", "GPL3 2011", "Licencia de TVShows");
       }
 
     });
+
+    // Add link to Shimmer for logged admins
+    if (document.cookie.indexOf('shimmer_session') != -1) {
+      head.ready('dom', function() {
+        document.getElementById('logo').innerHTML = '<a href="shimmer"><span id="shimmer">Shimmer!</span>' + document.getElementById('logo').innerHTML + '</a>';
+      });
+    }
 
     // Google Analytics (if in production)
     if (location.host == 'victorpimentel.com') {
