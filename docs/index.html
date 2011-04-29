@@ -9,57 +9,60 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="shortcut icon" href="favicon.ico">
-  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="shortcut icon" href="../favicon.ico">
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png">
 
-  <link rel="stylesheet" href="css/inuit.css" />
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/inuit.css" />
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="css/docs.css" >
 
-  <script src="js/libs/headjs/dist/head.min.js"></script>
+  <script src="../js/libs/headjs/dist/head.min.js"></script>
 </head>
 
 <body>
 
   <a id="ribbon" title="Fork me on GitHub" href="https://github.com/victorpimentel/TVShows">
-    <img src="img/github-ribbon.png" height="149" width="149" alt="Fork me on GitHub">
+    <img src="../img/github-ribbon.png" height="149" width="149" alt="Fork me on GitHub">
   </a>
 
   <nav>
     <ul class="nav centred">
-      <li><a id="wiki-link" title="Learn everything about TVShows" href="docs/">Wiki</a></li>
+      <li><a id="home-link" title="Back to home" href="../">Home</a></li>
       <li><a id="notes-link" title="See the release notes" href="notes.html">What's new</a></li>
       <!-- <li><a title="Visit the blog" href="#">Blog</a></li> -->
       <li><a id="twitter-link" title="Follow us on Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
-      <li><a id="contrib-link" title="Help us keep TVShows on track!" href="docs/#Contribute">Contribute</a></li>
+      <li><a id="contrib-link" title="Help us keep TVShows on track!" href="#Contribute">Contribute</a></li>
       <li><a id="contact-link" title="Email us" href="mailto:support@tvshowsapp.com">Contact</a></li>
     </ul>
   </nav>
 
-  <header class="grids">
-    <div id="logo" class="grid grid-9">
-      <img src="img/logo.png" alt="TVShows" />
+  <div id="container">
+  <div id="header" class="grids">
+    <div id="logo" class="grid grid-4">
+      <img src="../img/logo.png" alt="TVShows" />
     </div>
-    <div id="info" class="grid grid-7">
-      <h1 id="big-title">TVShows 2</h1>
-      <p id="desc-1">TVShows is the easiest way to <strong>download your favorite shows automatically</strong> in your Mac.</p>
-      <p id="desc-2">When new episodes are released, your chosen <strong>torrent application</strong> will download them.</p>
-      <div id="buttons" class="grids">
-        <p id="download" class="grid grid-4">
-          <a id="download-button" title="Download the latest version of TVShows" href="TVShows.zip" role="button" tabindex="1" class="grid-4">Download</a>
-          <small>2.0b6r2 (Universal)</small>
-          <small>Leopard <em>&amp;</em> Snow Leopard</small>
-        </p>
-        <p id="donate" class="grid grid-3">
-          <a id="donate-button" title="Buy us a cup of coffee!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=2PARRGESKRQJ6&amp;item_name=TVShows2&amp;item_number=TVShows2&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button" tabindex="2" class="grid-3">Donate</a>
-        </p>
-      </div>
+    <div id="info" class="grid grid-12">
+      <h1 id="big-title">TVShows 2</b></h1>
+      <h2 id="subtitle">Docs</h2>
     </div>
-  </header>
+  </div>
+
+  <div id="main" class="grids">
+    <div class="wikiconvertor-pages grid grid-4"></div>
+
+    <div class="wikiconvertor-content grid grid-12">
+      <span class="wait4it grid grid-16">Wait for it&hellip; or see the <a href="https://github.com/victorpimentel/TVShows/wiki/">docs on Github</a>.</span>
+    </div>
+  </div>
+  </div>
+
+  <!-- <div class="disqus-wrapper">
+    <a href="#dsq-content">{% blocktrans with "400+" as num_comments %}Show comments{% endblocktrans %}</a> 
+  </div> -->
 
   <footer>
     <ul class="nav centred">
       <li><a id="credits-link" title="Personal website" href="http://victorpimentel.com">Víctor Pimentel</a></li>
-      <li><a id="license-link" title="TVShows License" href="http://www.gnu.org/licenses/gpl.html">GPL3 2011</a></li>
     </ul>
   </footer>
 
@@ -82,11 +85,11 @@
       // Translate to Spanish
       if (lang.toLowerCase().indexOf('es') != -1) {
         document.getElementsByTagName('html')[0].setAttribute('lang', 'es');
+        t('home-link', 'Portada', 'Vuelve a la página principal');
         t('notes-link', 'Cambios', 'Lee los últimos cambios en TVShows');
         t('twitter-link', 'Twitter', 'Síguenos en Twitter');
         t('contrib-link', 'Contribuye', '¡Ayúdanos a mantener TVShows!');
         t('github-link', 'Código', 'Ve el código fuente en GitHub');
-        t('wiki-link', 'Wiki', 'Aprende todo sobre TVShows');
         t('contact-link', 'Contacto', 'Envíanos un correo');
         t('desc-1', 'TVShows es la forma más sencilla de <strong>descargar automáticamente tus series favoritas</strong> en tu Mac.');
         t('desc-2', 'Cuando se emitan nuevos episodios, tu <strong>aplicación de torrents</strong> los descargará.');
@@ -98,12 +101,8 @@
 
     });
 
-    // Add link to Shimmer for logged admins
-    if (document.cookie.indexOf('shimmer_session') != -1) {
-      head.ready('dom', function() {
-        document.getElementById('logo').innerHTML = '<a href="shimmer"><span id="shimmer">Shimmer!</span>' + document.getElementById('logo').innerHTML + '</a>';
-      });
-    }
+    // Load the content
+    head.js('js/require-jquery-1.4.4.js', 'js/script.js');
 
     // Google Analytics (if in production)
     if (location.host == 'victorpimentel.com') {

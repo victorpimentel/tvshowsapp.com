@@ -1,0 +1,190 @@
+/** Wiki **/
+#logo img{
+	width:220px;
+	height:220px;
+}
+#info{
+	margin-top:0;
+}
+#header h1{
+	font-size:2em;
+	opacity:0.75;
+	margin:75px 0 10px;
+}
+#header h2{
+	margin:0;
+	font-size:3.5em;
+}
+#header h2 a{
+	font-size:0.4em;
+	line-height:3.5em;
+	float:right;
+	display:inline-block;
+}
+.wait4it{
+	font-size:2em;
+	text-align:center;
+	display:block;
+	margin-bottom:25px;
+}
+#container a,
+#container a:active,
+#container a:visited{
+	color:#E0DB34;
+}
+#container h2 code,
+#container h3 code,
+#container h4 code{
+	background: transparent;
+}
+
+.wikiconvertor-pages ul{
+	margin-left:1em;
+	margin-right:1em;
+}
+.wikiconvertor-pages li{
+	margin-left:1em;
+	-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;
+}
+.wikiconvertor-pages li a{
+	color:inherit !important;
+}
+.wikiconvertor-pages .wikiconvertor-pages-active{
+	color:#E0DB34;
+}
+.wikiconvertor .wikiconvertor-error{
+	text-align:center;
+	height: 150px;
+}
+.wikiconvertor span.frown{
+	transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	display:inline-block;
+	font-size:10em;
+	line-height:1em;
+}
+
+/** disqus **/
+#dsq-content {font-size: 12px;line-height: 1.5em;}
+
+#dsq-content {text-align:left;}
+
+/** special care of syntax highlight **/
+.wikiconvertor .syntaxhighlighter{
+	overflow:auto;
+}
+.wikiconvertor .syntaxhighlighter .lines {
+	width: auto !important;
+}
+
+/** wikistyle,credits to github guys. **/
+.wikistyle h1,.wikistyle h2,.wikistyle h3,.wikistyle h4,.wikistyle h5,.wikistyle h6{border:0 !important;}
+.wikistyle h1{font-size:170% !important;border-top:4px solid #aaa !important;padding-top:.5em !important;margin-top:1em !important;margin-bottom: 0.5em !important;}
+.wikistyle h1:first-child, .wikistyle h2:first-child, .wikistyle h3:first-child{margin-top:0 !important;padding-top:.25em !important;border-top:none !important;}
+.wikistyle h2{font-size:150% !important;margin-top:1em !important;margin-bottom: 0.5em !important;padding-top:.5em !important;}
+.wikistyle h3{margin-top:0.75em !important;}
+.wikistyle h1, .wikistyle h2, .wikistyle h3, .wikistyle h4,.wikistyle h5, .wikistyle h6 { text-align: left!important; margin-right: 0;!important; margin-left: 0;!important; width: 100%!important; position:relative;}  
+.wikistyle a.absent{color:#a00;}
+.wikistyle ul,#wiki-form .content-body ul{margin:1em 0 1em 2em !important;}
+.wikistyle ol,#wiki-form .content-body ol{margin:1em 0 1em 2em !important;}
+.wikistyle ul li,#wiki-form .content-body ul li,.wikistyle ol li,#wiki-form .content-body ol li{margin-top:.5em;margin-bottom:.5em;}
+.wikistyle ul ul,.wikistyle ul ol,.wikistyle ol ol,.wikistyle ol ul,#wiki-form .content-body ul ul,#wiki-form .content-body ul ol,#wiki-form .content-body ol ol,#wiki-form .content-body ol ul{ margin: 0 !important; }
+.wikistyle blockquote{margin:1em 0 !important;border-left:5px solid #ddd !important;padding-left:.6em !important;color:#555 !important;}
+.wikistyle dt{font-weight:bold !important;margin-left:1em !important;}
+.wikistyle dd{margin-left:2em !important;margin-bottom:1em !important;}
+.wikistyle table{margin:1em 0 !important;}
+.wikistyle table th{border-bottom:1px solid #bbb !important;padding:.2em 1em !important;}
+.wikistyle table td{border-bottom:1px solid #ddd !important;padding:.2em 1em !important;}
+.wikistyle pre{margin:1em 0;font-size:12px;background-color:#eee;border:1px solid #ddd;padding:5px;line-height:1.5em;color:#444;overflow:auto;-webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+.wikistyle pre::-webkit-scrollbar{height:8px;width:8px;}
+.wikistyle pre::-webkit-scrollbar-track-piece{margin-bottom:10px;background-color:#e5e5e5;border-bottom-left-radius:4px 4px;border-bottom-right-radius:4px 4px;border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;}
+.wikistyle pre::-webkit-scrollbar-thumb:vertical{height:25px;background-color:#ccc;-webkit-border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(255,255,255,1);}
+.wikistyle pre::-webkit-scrollbar-thumb:horizontal{width:25px;background-color:#ccc;-webkit-border-radius:4px;}
+.wikistyle a code,.wikistyle a:link code,.wikistyle a:visited code{color:#4183c4 !important;}
+.wikistyle img{max-width:100%;}
+.wikistyle pre.console{margin:1em 0 !important;font-size:12px !important;background-color:black !important;padding:.5em !important;line-height:1.5em !important;color:white !important;}
+.wikistyle pre.console code{padding:0 !important;font-size:12px !important;background-color:black !important;border:none !important;color:white !important;}
+.wikistyle pre.console span{color:#888 !important;}
+.wikistyle pre.console span.command{color:yellow !important;}
+.wikistyle .frame{margin:0;display:inline-block;}
+.wikistyle .frame img{display:block;}
+.wikistyle .frame>span{display:block;border:1px solid #aaa;padding:4px;}
+.wikistyle .frame span span{display:block;font-size:10pt;margin:0;padding:4px 0 2px 0;text-align:center;line-height:10pt;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;}
+.wikistyle .float-left{float:left;padding:.5em 1em .25em 0;}
+.wikistyle .float-right{float:right;padding:.5em 0 .25em 1em;}
+.wikistyle .align-left{display:block;text-align:left;}
+.wikistyle .align-center{display:block;text-align:center;}
+.wikistyle .align-right{display:block;text-align:right;}
+
+.octothorpe { opacity: 0; font-weight: bold; margin-right: 10px; padding: 5px; position: absolute; left: -25px; top: 50%; margin-top: -0.5em;
+   -moz-transition: all 0.16s ease-out;  
+     -o-transition: all 0.16s ease-out;  
+-webkit-transition: all 0.16s ease-out;  
+        transition: all 0.16s ease-out;  
+}
+*:hover > .octothorpe { opacity: 1; }
+
+
+/*------------------------------------*\
+	NARROW
+\*------------------------------------*/
+/*
+CSS for tablets and narrower devices
+*/
+
+@media (min-width: 721px) and (max-width: 960px){
+	#logo img{
+		width:160px;
+		height:160px;
+	}
+	#logo{
+		margin-top:40px;
+		font-size:2em;
+		position:relative;
+	}
+}
+/*--- END NARROW ---*/
+
+/*------------------------------------*\
+	MOBILE
+\*------------------------------------*/
+/*
+CSS for mobile devices.
+Linearise it!
+*/
+
+@media (max-width: 720px){
+	body{
+		font-size:0.75em;
+	}
+	#logo{
+		width:128px;
+		height:128px;
+		float:right;
+	}
+	#logo img{
+		width:128px;
+		height:128px;
+	}
+	#info h1{
+		margin-top:50px;
+		font-size:1em;
+	}
+	#info h2{
+		font-size:1.75em;
+	}
+	#info h2 a{
+		display:none;
+	}
+	h1{
+		text-align:left;
+	}
+	.wait4it{
+		font-size:1.5em;
+		text-align:left;
+		display:block;
+		margin-bottom:25px;
+	}
+}
+/*--- END MOBILE ---*/

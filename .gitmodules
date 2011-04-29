@@ -4,3 +4,6 @@
 [submodule "shimmer"]
 	path = shimmer
 	url = git://github.com/shimmerapp/shimmer.git
+[submodule "docs/wiki-upstream"]
+	path = docs/wiki-upstream
+	url = git://github.com/victorpimentel/TVShows.wiki.git
