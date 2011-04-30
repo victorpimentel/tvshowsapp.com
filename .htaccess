@@ -483,6 +483,7 @@ RewriteRule ^tvshows.xml/?$ shimmer/?appcast&appName=TVShows&%{QUERY_STRING}
 RewriteRule ^tvshows-beta.xml/?$ shimmer/?appcast&appName=TVShows&appVariant=Beta&%{QUERY_STRING}
 RewriteRule ^notes.html/?$ shimmer/?notes&appName=TVShows&%{QUERY_STRING}
 RewriteRule ^notes-(.+).html/?$ shimmer/?notes&appName=TVShows&appVersion=$1&%{QUERY_STRING}
+RewriteRule ^notes-(.+)/?$ shimmer/?notes&appName=TVShows&appVersion=$1&%{QUERY_STRING}
 RewriteRule ^TVShows.zip/?$ shimmer/?download&appName=TVShows&appVersion=&appVariant=&%{QUERY_STRING}
 RewriteRule ^TVShows_2.0b5.zip/?$ shimmer/?download&appName=TVShows&appVersion=394&%{QUERY_STRING}
 RewriteRule ^TVShows_2.0b6.zip/?$ shimmer/?download&appName=TVShows&appVersion=395&%{QUERY_STRING}
