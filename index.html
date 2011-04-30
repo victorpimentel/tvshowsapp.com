@@ -56,6 +56,44 @@
     </div>
   </header>
 
+  <hr />
+
+  <div id="main" class="grids">
+    <div id="howto" class="grid grid-4">
+      <h2 id="howto-title">How To Use It?</h2>
+      <ul class="unindented">
+        <li id="howto-list1">Download a torrent application such as <a href="http://www.transmissionbt.com/">Transmission</a>.</li>
+        <li id="howto-list2">Open TVShows.</li>
+        <li id="howto-list3">Subscribe to your shows.</li>
+        <li id="howto-list4">Close and forget TVShows.</li>
+      </ul>
+      <p id="howto-then">Next time a <a href="http://showrss.karmorra.info/">new episode is aired</a>, your torrent application will download the video file automatically.</p>
+    </div>
+    <div id="screenshots" class="grid grid-8">
+      <h2 id="screenshots-title">Screenshots</h2>
+      <ul class="grids">
+        <li class="grid grid-4">
+          <a id="subs-image" href="img/tvshows2-subscriptions.png" title="Click to enlarge"><img src="img/tvshows2-subscriptions-thumb.png" alt="TVShows 2 Subscriptions Tab" width="220" height="110"></a>
+        </li>
+        <li class="grid grid-4">
+          <a id="pref-image" href="img/tvshows2-preferences.png" title="Click to enlarge"><img src="img/tvshows2-preferences-thumb.png" alt="TVShows 2 Preferences Tab" width="220" height="110"></a>
+        </li>
+        <li class="grid grid-4">
+          <a id="addshow-image" href="img/tvshows2-addshow.png" title="Click to enlarge"><img src="img/tvshows2-addshow-thumb.png" alt="TVShows 2 Add Show Dropdown" width="220" height="110"></a>
+        </li>
+        <li class="grid grid-4">
+          <a id="about-image" href="img/tvshows2-about.png" title="Click to enlarge"><img src="img/tvshows2-about-thumb.png" alt="TVShows 2 About Tab" width="220" height="110"></a>
+        </li>
+      </ul>
+    </div>
+    <div id="about" class="grid grid-4">
+      <h2 id="about-title">About</h2>
+      <p id="about-text1">TVShows is an <a href="https://github.com/victorpimentel/TVShows">open source</a> project built for <strong>Mac</strong>, designed to make it easier for you to find new episodes.</p>
+      <p id="about-text2">Its developers hold no commercial interest in the application whatsoever.</p>
+      <p id="about-text3">If you want to keep TVShows alive, please consider to <a href="docs/#Contribute">contribute to the project</a>.</p>
+    </div>
+  </div>
+
   <footer>
     <ul class="nav centred">
       <li><a id="credits-link" title="Personal website" href="http://victorpimentel.com">Víctor Pimentel</a></li>
@@ -74,13 +112,16 @@
       var t = function(id, text, title) {
         var el = document.getElementById(id);
         if (el) {
-          el.innerHTML = text;
+          if (text) el.innerHTML = text;
           if (title) el.setAttribute('title', title);
         }
       }
 
       // Translate to Spanish
-      if (lang.toLowerCase().indexOf('es') != -1) {
+      if (lang.toLowerCase().indexOf('es') != -1 ||
+          lang.toLowerCase().indexOf('ca') == 0 ||
+          lang.toLowerCase().indexOf('gl') == 0 ||
+          lang.toLowerCase().indexOf('eu') == 0) {
         document.getElementsByTagName('html')[0].setAttribute('lang', 'es');
         t('notes-link', 'Cambios', 'Lee los últimos cambios en TVShows');
         t('twitter-link', 'Twitter', 'Síguenos en Twitter');
@@ -92,6 +133,21 @@
         t('desc-2', 'Cuando se emitan nuevos episodios, tu <strong>aplicación de torrents</strong> los descargará.');
         t('download-button', 'Descargar', 'Descarga la versión más reciente de TVShows');
         t('donate-button', 'Donar', '¡Invítanos a una cerveza!');
+        t('howto-title', '¿Cómo se usa?');
+        t('howto-list1', 'Descarga una aplicación de torrents, ej. <a href="http://www.transmissionbt.com/">Transmission</a>.');
+        t('howto-list2', 'Abre TVShows.');
+        t('howto-list3', 'Suscríbete a tus series.');
+        t('howto-list4', 'Cierra y olvídate de TVShows.');
+        t('howto-then', 'Cuando <a href="http://showrss.karmorra.info/">emitan episodios nuevos</a>, tu aplicación de torrents los descargará automáticamente.');
+        t('screenshots-title', 'Capturas de pantalla');
+        t('subs-image', null, 'Haz click para ampliar');
+        t('pref-image', null, 'Haz click para ampliar');
+        t('addshow-image', null, 'Haz click para ampliar');
+        t('about-image', null, 'Haz click para ampliar');
+        t('about-title', 'Acerca de TVShows');
+        t('about-text1', 'TVShows es un proyecto de <a href="https://github.com/victorpimentel/TVShows">código abierto</a> para <strong>Mac</strong>, que intenta facilitarte la búsqueda de nuevos episodios.');
+        t('about-text2', 'Los desarrolladores de la aplicación no guardan ningún interés comercial.');
+        t('about-text3', 'Si quieres mantener TVShows vivo, por favor considera <a href="docs/#Contribute">contribuir al proyecto</a>.');
         t('credits-link', 'Víctor Pimentel', 'Página personal del autor');
         t('license-link', 'GPL3 2011', 'Licencia de TVShows');
       }
@@ -102,6 +158,15 @@
     if (document.cookie.indexOf('shimmer_session') != -1) {
       head.ready('dom', function() {
         document.getElementById('logo').innerHTML = '<a id="shimmer" href="shimmer">Shimmer!</a>' + document.getElementById('logo').innerHTML + '</a>';
+      });
+    }
+
+    // Load Fancy Zoom for non-mobile devices
+    var width = window.outerWidth ||
+                      document.documentElement.clientWidth;
+    if (width > 720) {
+      head.js('js/libs/FancyZoom.js', function() {
+        head.ready(setupZoom);
       });
     }
 

@@ -89,13 +89,15 @@ nav:before {
 	top:34px;
 	background:white;
 	background:rgba(255,255,255,0.5);
-	background: -moz-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -ms-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -o-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(0.5, rgba(255, 255, 255, 0.5)), to(rgba(255,255,255,0))) fixed;
-	background: -webkit-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -webkit-gradient(radial, center center, 0, center center, 100, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0)));
+	background: -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -webkit-gradient(linear, left top, right top, from(rgba(255,255,255,0)), color-stop(0.5, rgba(255, 255, 255, 0.5)), to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	box-shadow:0 1px 3px rgba(0,0,0,0.25);
 }
 nav:after {
 	content:"";
@@ -125,13 +127,15 @@ footer:after {
 	margin:-53px auto 0;
 	background:white;
 	background:rgba(255,255,255,0.5);
-	background: -moz-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -ms-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -o-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(0.5, rgba(255, 255, 255, 0.5)), to(rgba(255,255,255,0))) fixed;
-	background: -webkit-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0)) fixed;
-	background: -webkit-gradient(radial, center center, 0, center center, 100, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0))) transparent;
+	background: -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -webkit-gradient(linear, left top, right top, from(rgba(255,255,255,0)), color-stop(0.5, rgba(255, 255, 255, 0.5)), to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	box-shadow:0 1px 3px rgba(0,0,0,0.25);
 }
 
 /*------------------------------------*\
@@ -169,6 +173,8 @@ footer:after {
 	box-shadow: 0 0 10px rgba(255,255,255,0.5), 0 1px 3px rgba(0,0,0,0.5);
 }
 #buttons a:focus {
+	background-color:#111;
+	color:#fff;
 	-moz-box-shadow: 0 0 10px rgba(255,255,255,0.5);
 	-webkit-box-shadow: 0 0 10px rgba(255,255,255,0.5);
 	box-shadow: 0 0 10px rgba(255,255,255,0.5);
@@ -259,7 +265,24 @@ a{
 a:hover {
 	color:white;
 }
-
+hr{
+	display:block;
+	margin:20px auto;
+	height:1px;
+	width:200px;
+	border:0;
+	background:white;
+	background:rgba(255,255,255,0.5);
+	background: -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: -webkit-gradient(linear, left top, right top, from(rgba(255,255,255,0)), color-stop(0.5, rgba(255, 255, 255, 0.5)), to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	background: linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.5), rgba(255,255,255,0));
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.25);
+	box-shadow:0 1px 3px rgba(0,0,0,0.25);
+}
 ::-moz-selection {
 	background:white;
 	color:black;
@@ -276,7 +299,6 @@ a:hover {
 \*------------------------------------*/
 #logo{
 	position:relative;
-	margin-bottom:0.5em;
 	font-size:4em;
 }
 #shimmer {
@@ -298,6 +320,50 @@ a:hover {
 #shimmer:focus{
 	top:0px;
 }
+#main a{
+	color: #E0DB34;
+}
+#screenshots ul{
+	overflow:visible;
+}
+#screenshots li{
+	overflow:visible;
+	margin-bottom:20px;
+}
+#screenshots a:active,
+#screenshots a:focus{
+	top:0;
+}
+#screenshots img{
+	border:solid 6px #87a;
+	border:solid 6px rgba(255,255,255,0.2);
+	border-radius:6px;
+	height:98px;
+	width:208px;
+	-moz-background-clip:padding;
+	-webkit-background-clip:padding-box;
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	-moz-transition:all 0.1s ease-out;
+	-o-transition:all 0.1s ease-out;  
+	-webkit-transition:all 0.1s ease-out;  
+	-ms-transition:all 0.1s ease-out;  
+	transition:all 0.1s ease-out;  
+}
+#screenshots a:hover img{
+	border:solid 6px #87a;
+	border:solid 6px rgba(255,255,255,0.5);
+	-moz-transform: scale(1.05);  
+	-o-transform: scale(1.05);  
+	-webkit-transform: scale(1.05);  
+	-ms-transform: scale(1.05);  
+	transform: scale(1.05);  
+}
+#screenshots a:active img,
+#screenshots a:focus img{
+	top:1px;
+}
 
 /*------------------------------------*\
 	NARROW
@@ -307,10 +373,6 @@ CSS for tablets and narrower devices
 */
 
 @media (min-width: 721px) and (max-width: 960px){
-	#logo img{
-		width:256px;
-		height:256px;
-	}
 	#logo{
 		margin-top:70px;
 		font-size:2em;
@@ -321,6 +383,10 @@ CSS for tablets and narrower devices
 		margin:30% 0 0 22%;
 		border-radius:35px/22px;
 		background-image:-webkit-gradient(radial, center center, 25, center center, 85, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
+	}
+	#screenshots img{
+		height:110px;
+		width:148px;
 	}
 	#info{
 		margin-top:30px;
@@ -372,16 +438,15 @@ Linearise it!
 		border-radius:17px/11px;
 		background-image:-webkit-gradient(radial, center center, 15, center center, 50, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
 	}
-	h1{
-		text-align:center;
-	}
 	#info{
 		margin-top:0;
 	}
 	#ribbon{
 		display:none;
 	}
-	#buttons {
+	h1,
+	#buttons,
+	#screenshots{
 		text-align:center;
 	}
 	nav {

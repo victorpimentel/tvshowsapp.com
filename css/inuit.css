@@ -158,7 +158,6 @@ Your logo is an image, not a h1: http://csswizardry.com/2010/10/your-logo-is-an-
 #logo,
 #logo img{
 	display:block;
-	margin:0 auto;
 	width:520px; /* Width of your logo in pixels (ideally a round grid-number) */
 	height:512px; /* Height of your logo in pixels */
 }
@@ -274,7 +273,11 @@ a:focus{
 /*--- LISTS ---*/
 ul,
 ol{
-	margin:0 0 1.5em 60px;
+	margin:0 0 0.75em 60px;
+}
+ul.unindented,
+ol.unindented{
+	margin-left:20px;
 }
 ul ul,
 ol ol,
@@ -718,6 +721,7 @@ body{
 }
 #logo,
 #logo img{
+	margin:0 auto;
 	width:128px; /* Width of your logo in pixels (ideally a round grid-number) */
 	height:128px; /* Height of your logo in pixels */
 }

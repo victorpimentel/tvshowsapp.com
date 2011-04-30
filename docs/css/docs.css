@@ -1,7 +1,9 @@
 /** Wiki **/
-#logo img{
+#logo{
 	width:220px;
 	height:220px;
+	background:url(../../img/logo-128.png) center right no-repeat;
+	margin-top:14px;
 }
 #info{
 	margin-top:0;
@@ -134,14 +136,14 @@ CSS for tablets and narrower devices
 */
 
 @media (min-width: 721px) and (max-width: 960px){
-	#logo img{
+	#logo{
 		width:160px;
 		height:160px;
+		background:url(../../img/logo-128.png) bottom right no-repeat;
+		margin-top:0px;
 	}
-	#logo{
-		margin-top:40px;
-		font-size:2em;
-		position:relative;
+	#header h1{
+		margin-top:50px;
 	}
 }
 /*--- END NARROW ---*/
@@ -159,16 +161,14 @@ Linearise it!
 		font-size:0.75em;
 	}
 	#logo{
-		width:128px;
-		height:128px;
 		float:right;
-	}
-	#logo img{
 		width:128px;
 		height:128px;
+		background:url(../../img/logo-128.png) center center no-repeat;
+		margin-top:0px;
 	}
 	#info h1{
-		margin-top:50px;
+		margin-top:40px;
 		font-size:1em;
 	}
 	#info h2{
