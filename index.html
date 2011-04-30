@@ -101,7 +101,7 @@
     // Add link to Shimmer for logged admins
     if (document.cookie.indexOf('shimmer_session') != -1) {
       head.ready('dom', function() {
-        document.getElementById('logo').innerHTML = '<a href="shimmer"><span id="shimmer">Shimmer!</span>' + document.getElementById('logo').innerHTML + '</a>';
+        document.getElementById('logo').innerHTML = '<a id="shimmer" href="shimmer">Shimmer!</a>' + document.getElementById('logo').innerHTML + '</a>';
       });
     }
 

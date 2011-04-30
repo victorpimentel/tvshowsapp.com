@@ -285,7 +285,7 @@ a:hover {
 	width:61%;
 	height:48%;
 	line-height:3.75em;
-	margin:32% 0 0 20%;
+	margin:32.5% 0 0 20%;
 	border-radius:70px/45px;
 	background-image:url(../img/static-noise.gif);
 	background-image:-webkit-gradient(radial, center center, 50, center center, 175, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
@@ -294,9 +294,9 @@ a:hover {
 	-webkit-text-stroke:1px black;
 	text-align:center;
 }
-#logo a:active,
-#logo a:focus{
-	position:static;
+#shimmer:active,
+#shimmer:focus{
+	top:0px;
 }
 
 /*------------------------------------*\
@@ -318,8 +318,9 @@ CSS for tablets and narrower devices
 	}
 	#shimmer {
 		width:53%;
-		margin:32% 0 0 24%;
+		margin:30% 0 0 22%;
 		border-radius:35px/22px;
+		background-image:-webkit-gradient(radial, center center, 25, center center, 85, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
 	}
 	#info{
 		margin-top:30px;
@@ -366,9 +367,10 @@ Linearise it!
 	#shimmer {
 		position:absolute;
 		width:78px;
-		margin:32% 0 0 50%;
+		margin:30% 0 0 51%;
 		left:-39px;
 		border-radius:17px/11px;
+		background-image:-webkit-gradient(radial, center center, 15, center center, 50, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 1))), url(../img/static-noise.gif);
 	}
 	h1{
 		text-align:center;

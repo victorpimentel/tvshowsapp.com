@@ -155,11 +155,20 @@ ul.grids{
 /*
 Your logo is an image, not a h1: http://csswizardry.com/2010/10/your-logo-is-an-image-not-a-h1/
 */
+#logo,
 #logo img{
 	display:block;
 	margin:0 auto;
-	width:512px; /* Width of your logo in pixels (ideally a round grid-number) */
+	width:520px; /* Width of your logo in pixels (ideally a round grid-number) */
 	height:512px; /* Height of your logo in pixels */
+}
+/* Based on the fact that we need to use an <img /> in our markup, let’s hide the actual image and use a background on the <a>--this gives us sematically sound markup and the ability to use sprites for hover effects! */
+#logo{
+	background:url(../img/logo.png) center center no-repeat;
+}
+#logo img{
+	position:absolute;
+	left:-99999px;
 }
 
 /*------------------------------------*\
@@ -630,6 +639,14 @@ body{
 .debug body {
 	background:url(../img/css/grid-720.png) top center repeat-y; /* Swap these two lines around to turn grid on/off */
 }
+#logo,
+#logo img{
+	width:295px; /* Width of your logo in pixels (ideally a round grid-number) */
+	height:256px; /* Height of your logo in pixels */
+}
+#logo{
+	background:url(../img/logo-256.png) center center no-repeat;
+}
 
 /*------------------------------------*\
 	GRIDS
@@ -699,6 +716,14 @@ body{
 	width:auto;
 	float:none;
 }
+#logo,
+#logo img{
+	width:128px; /* Width of your logo in pixels (ideally a round grid-number) */
+	height:128px; /* Height of your logo in pixels */
+}
+#logo{
+	background:url(../img/logo-128.png) center center no-repeat;
+}
 
 /*------------------------------------*\
 	TYPE
@@ -725,4 +750,5 @@ dd{
 img.left,
 img.right	{ max-width:50%; height:auto; }
 }
+
 /*--- END MOBILE ---*/
