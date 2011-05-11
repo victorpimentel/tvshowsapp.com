@@ -26,9 +26,9 @@
 
   <nav>
     <ul class="nav centred">
+      <li><a id="blog-link" title="Visit the blog" href="http://blog.tvshowsapp.com">Blog</a></li>
       <li><a id="wiki-link" title="Learn everything about TVShows" href="docs/">Wiki</a></li>
       <li><a id="notes-link" title="See the release notes" href="notes.html">What's new</a></li>
-      <!-- <li><a title="Visit the blog" href="#">Blog</a></li> -->
       <li><a id="twitter-link" title="Follow us on Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
       <li><a id="contrib-link" title="Help us keep TVShows on track!" href="docs/#Contribute">Contribute</a></li>
       <li><a id="contact-link" title="Email us" href="mailto:support@tvshowsapp.com">Contact</a></li>
@@ -123,6 +123,7 @@
           lang.toLowerCase().indexOf('gl') == 0 ||
           lang.toLowerCase().indexOf('eu') == 0) {
         document.getElementsByTagName('html')[0].setAttribute('lang', 'es');
+        t('blog-link', 'Blog', 'Visita el blog de TVShows');
         t('notes-link', 'Cambios', 'Lee los últimos cambios en TVShows');
         t('twitter-link', 'Twitter', 'Síguenos en Twitter');
         t('contrib-link', 'Contribuye', '¡Ayúdanos a mantener TVShows!');
