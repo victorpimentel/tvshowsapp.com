@@ -162,6 +162,17 @@
       });
     }
 
+    // Lets infer the currency of the user
+    head.ready('dom', function() {
+      var gmtHours = -new Date().getTimezoneOffset()/60;
+
+      // If the user is not from "Europe", set the paypal link to USD
+      if (gmtHours > 4 || gmtHours < -1) {
+        var donateButton = document.getElementById('donate-button');
+        donateButton.href = donateButton.href.replace('EUR', 'USD');
+      }
+    });
+
     // Load Fancy Zoom for non-mobile devices
     var width = window.outerWidth ||
                       document.documentElement.clientWidth;
