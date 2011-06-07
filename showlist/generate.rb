@@ -376,7 +376,7 @@ class TVShowsIndex
     @shows.each do |id, show|
       name = TPB_CORRECTIONS[show.name] || show.name + " eztv"
       user = TPB_USER[show.name] || "eztv"
-      show.mirrors |= [YAHOO_PIPE.sub("{name}", name).sub("{user}", user).gsub(/&/, "").gsub(/\s+/, "%20")]
+      show.mirrors |= [YAHOO_PIPE.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
     end
   end
 
