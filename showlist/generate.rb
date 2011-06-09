@@ -33,7 +33,8 @@ FIX_SHOW = {
   "MonsterQuest" => "Monster Quest",
   "Parenthood" => "Parenthood (2010)",
   "Parks & Recreation" => "Parks and Recreation",
-  "Shameless (UK)" => "Shameless",
+  "Shameless" => "Shameless (US)",
+  "Shameless US" => "Shameless (US)",
   "Spicks & Specks" => "Spicks and Specks",
   "The Office" => "The Office (US)",
   "The Daily Show" => "The Daily Show with Jon Stewart",
@@ -213,11 +214,12 @@ TPB_CORRECTIONS = {
   "The Colbert Report" => "The Colbert Report",
   "King" => "King 2HD eztv",
   "Mad" => "REMOVE FROM THE LIST eztv",
-  "Shameless" => "Shameless -US",
-  "Skins" => "Skins -US"
+  "Skins" => "Skins -US",
+  "Shameless (US)" => "Shameless"
 }
 
 TPB_USER = {
+  "Shameless (US)" => "vtv",
   "The Daily Show with Jon Stewart" => "vtv",
   "The Colbert Report" => "vtv"
 }

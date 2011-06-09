@@ -1552,22 +1552,15 @@
   </mirrors>
  </show>
  <show>
-  <name>Shameless</name>
-  <tvdbid>78846</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Shameless&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/Shameless</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Shameless%20-US&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Shameless US</name>
+  <name>Shameless (US)</name>
   <tvdbid>161511</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/326.rss</mirror>
+   <mirror>http://ezrss.it/search/index.php?show_name=Shameless&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Shameless+US&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/Shameless</mirror>
    <mirror>http://hamsterspit.com/rss/Shameless_US</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Shameless%20US%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Shameless&amp;userName=vtv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1727,6 +1720,7 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Switched+at+Birth&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Switched%20at%20Birth%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/SwitchedAtBirth</mirror>
   </mirrors>
  </show>
  <show>
@@ -1735,6 +1729,7 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Teen+Wolf&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Teen%20Wolf%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/TeenWolf</mirror>
   </mirrors>
  </show>
  <show>
