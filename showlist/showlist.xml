@@ -342,6 +342,7 @@
    <mirror>http://showrss.karmorra.info/feeds/339.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Chaos&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Chaos%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/Chaos</mirror>
   </mirrors>
  </show>
  <show>
@@ -1579,6 +1580,7 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Single+Ladies&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Single%20Ladies%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/SingleLadies</mirror>
   </mirrors>
  </show>
  <show>
