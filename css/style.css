@@ -346,23 +346,118 @@ hr{
 	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
 	box-shadow:0 1px 3px rgba(0,0,0,0.5);
 	-moz-transition:all 0.1s ease-out;
-	-o-transition:all 0.1s ease-out;  
-	-webkit-transition:all 0.1s ease-out;  
-	-ms-transition:all 0.1s ease-out;  
-	transition:all 0.1s ease-out;  
+	-o-transition:all 0.1s ease-out;
+	-webkit-transition:all 0.1s ease-out;
+	-ms-transition:all 0.1s ease-out;
+	transition:all 0.1s ease-out;
 }
 #screenshots a:hover img{
 	border:solid 6px #87a;
 	border:solid 6px rgba(255,255,255,0.5);
-	-moz-transform: scale(1.05);  
-	-o-transform: scale(1.05);  
-	-webkit-transform: scale(1.05);  
-	-ms-transform: scale(1.05);  
-	transform: scale(1.05);  
+	-moz-transform: scale(1.05);
+	-o-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
 }
 #screenshots a:active img,
 #screenshots a:focus img{
 	top:1px;
+}
+
+/*------------------------------------*\
+	SOCIAL
+\*------------------------------------*/
+#social {
+	min-height: 310px;
+}
+.twtr-widget {
+	margin: 0 0 20px;
+}
+#tweets .twtr-widget p {
+	font-size: 1.2em;
+	line-height: 1.33em !important;
+}
+.twtr-hd,
+.twtr-ft,
+.twtr-user {
+	display: none !important;
+}
+.twtr-bd {
+	padding: 0 !important;
+}
+.twtr-widget * {
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.twtr-widget .twtr-tweet {
+	width: 230px;
+	height: 120px;
+	float: left;
+	border-bottom: 0 none !important;
+}
+.twtr-avatar {
+	padding-top: 5px;
+}
+.twtr-img img {
+	border:solid 3px #87a;
+	border:solid 3px rgba(255,255,255,0.2);
+	border-radius:3px;
+	-moz-background-clip:padding;
+	-webkit-background-clip:padding-box;
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	box-shadow:0 1px 3px rgba(0,0,0,0.5);
+}
+.tumblr_body {
+	display: none;
+}
+#tumblr ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-align: center;
+}
+#tumblr a {
+	color: #E0DB34 !important;
+}
+#tumblr li:nth-child(1) {
+	font-size: 1.3em;
+	opacity: 1;
+}
+#tumblr li:nth-child(2) {
+	font-size: 1.2em;
+	opacity: 0.95;
+}
+#tumblr li:nth-child(3) {
+	font-size: 1.1em;
+	opacity: 0.9;
+}
+#tumblr li:nth-child(4) {
+	font-size: 1em;
+	opacity: 0.85;
+}
+#tumblr li:nth-child(5) {
+	font-size: 0.95em;
+	opacity: 0.8;
+}
+#tumblr li:nth-child(6) {
+	font-size: 0.9em;
+	opacity: 0.75;
+}
+#tumblr li:nth-child(7) {
+	font-size: 0.85em;
+	opacity: 0.7;
+}
+#tumblr li:nth-child(8) {
+	font-size: 0.8em;
+	opacity: 0.65;
+}
+#tumblr li:nth-child(9) {
+	font-size: 0.75em;
+	opacity: 0.6;
+}
+#tumblr li:nth-child(10) {
+	font-size: 0.7em;
 }
 
 /*------------------------------------*\
@@ -405,6 +500,13 @@ CSS for tablets and narrower devices
 	}
 	#buttons .grid-3 {
 		width:160px;
+	}
+	.twtr-doc {
+		width: 340px !important;
+	}
+	.twtr-widget .twtr-tweet {
+		width: 170px;
+		height: 140px;
 	}
 }
 /*--- END NARROW ---*/
@@ -470,6 +572,13 @@ Linearise it!
 	}
 	footer:after {
 		margin-top:-47px;
+	}
+	.twtr-doc {
+		width: 100% !important;
+	}
+	.twtr-widget .twtr-tweet {
+		width: 100%;
+		height: auto;
 	}
 }
 /*--- END MOBILE ---*/

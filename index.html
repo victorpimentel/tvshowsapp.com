@@ -94,6 +94,49 @@
     </div>
   </div>
 
+  <hr />
+
+  <aside id="social" class="grids">
+    <div id="tweets" class="grid grid-8">
+      <h2 id="tweets-title">Our Awesome Users Love TVShows!</h2>
+      <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+      <script>
+        new TWTR.Widget({
+          version: 2,
+          type: 'favs',
+          rpp: 4,
+          interval: 6000,
+          width: 460,
+          height: 'auto',
+          theme: {
+            shell: {
+              background: 'transparent',
+              color: '#E4EEF6'
+            },
+            tweets: {
+              background: 'transparent',
+              color: '#E4EEF6',
+              links: '#E0DB34'
+            }
+          },
+          features: {
+            scrollbar: false,
+            loop: true,
+            live: false,
+            hashtags: false,
+            timestamp: false,
+            avatars: true,
+            behavior: 'all'
+          }
+        }).render().setUser('TVShows2').start();
+      </script>
+    </div>
+    <div id="tumblr" class="grid grid-8">
+      <h2 id="tumblr-title">Latest Entries In Our Blog</h2>
+      <div id="tumblr-content"></div>
+    </div>
+  </aside>
+
   <footer>
     <ul class="nav centred">
       <li><a id="credits-link" title="Personal website" href="http://victorpimentel.com">Víctor Pimentel</a></li>
@@ -115,7 +158,7 @@
           if (text) el.innerHTML = text;
           if (title) el.setAttribute('title', title);
         }
-      }
+      };
 
       // Translate to Spanish
       if (lang.toLowerCase().indexOf('es') != -1 ||
@@ -149,6 +192,8 @@
         t('about-text1', 'TVShows es un proyecto de <a href="https://github.com/victorpimentel/TVShows">código abierto</a> para <strong>Mac</strong>, que intenta facilitarte la búsqueda de nuevos episodios.');
         t('about-text2', 'Los desarrolladores de la aplicación no guardan ningún interés comercial.');
         t('about-text3', 'Si quieres mantener TVShows vivo, por favor considera <a href="docs/#Contribute">contribuir al proyecto</a>.');
+        t('tweets-title', '¡Nuestros usuarios lo adoran!');
+        t('tumblr-title', 'Últimas entradas en el blog');
         t('credits-link', 'Víctor Pimentel', 'Página personal del autor');
         t('license-link', 'GPL3 2011', 'Licencia de TVShows');
       }
@@ -181,6 +226,24 @@
         head.ready(setupZoom);
       });
     }
+
+    // Load Tumblr content
+    window.tumblrCallback = function(response) {
+      var content = '<ul>\n';
+      var link;
+      for (var i = 0; i < response.posts.length && i < 10; i++) {
+        link = response.posts[i];
+        if (link['regular-title']) {
+          content += '<li><a href="' + link.url + '">';
+          content += link['regular-title'] + '</a></li>\n';
+        }
+      }
+      content += '</ul>\n';
+      head.ready('dom', function() {
+        document.getElementById('tumblr-content').innerHTML = content;
+      });
+    }
+    head.js('http://blog.tvshowsapp.com/api/read/json?callback=tumblrCallback');
 
     // Google Analytics (if in production)
     if (location.host == 'tvshowsapp.com') {
