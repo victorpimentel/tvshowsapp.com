@@ -1034,6 +1034,15 @@
   </mirrors>
  </show>
  <show>
+  <name>Love Bites (2011)</name>
+  <tvdbid>163551</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Love+Bites&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/LoveBites</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Love%20Bites%20(2011)%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Luther</name>
   <tvdbid>159591</tvdbid>
   <mirrors>
@@ -1404,6 +1413,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Project+Runway&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ProjectRunway</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Project%20Runway%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Protector</name>
+  <tvdbid>248929</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=The+Protector&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Protector%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
