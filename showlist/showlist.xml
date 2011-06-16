@@ -643,6 +643,7 @@
   <name>Franklin &amp; Bash</name>
   <tvdbid>164041</tvdbid>
   <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Franklin+%26+Bash&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/FranklinAndBash</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Franklin%20Bash%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
@@ -791,16 +792,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=How+I+Met+Your+Mother&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HowIMetYourMother</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=How%20I%20Met%20Your%20Mother%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>How Not To Live Your Life</name>
-  <tvdbid>82825</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/210.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=How+Not+To+Live+Your+Life&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/HowNottoLiveYourLife</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=How%20Not%20To%20Live%20Your%20Life%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1611,15 +1602,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Skins US</name>
-  <tvdbid>174991</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Skins+US&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/Skins_US</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Skins%20US%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
   <name>So You Think You Can Dance</name>
   <tvdbid>78956</tvdbid>
   <mirrors>
@@ -1975,6 +1957,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Middle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Middle</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Middle%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Nine Lives of Chloe King</name>
+  <tvdbid>247774</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/NineLivesOfChloeKing</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Nine%20Lives%20of%20Chloe%20King%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
