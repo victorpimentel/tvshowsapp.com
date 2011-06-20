@@ -610,6 +610,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Falling Skies</name>
+  <tvdbid>205281</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Falling+Skies&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Falling%20Skies%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Family Guy</name>
   <tvdbid>75978</tvdbid>
   <mirrors>
@@ -706,6 +714,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Greys+Anatomy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GreysAnatomy</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Grey's%20Anatomy%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Happily Divorced</name>
+  <tvdbid>248330</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/HappilyDivorced</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Happily%20Divorced%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -877,15 +893,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Its+Always+Sunny+in+Philadelphia&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ItsAlwaysSunnyinPhiladelphia</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=It's%20Always%20Sunny%20in%20Philadelphia%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>James Mays Man Lab</name>
-  <tvdbid>202351</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=James+Mays+Man+Lab&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/JamesMaysManLab</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=James%20Mays%20Man%20Lab%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1404,14 +1411,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Project+Runway&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ProjectRunway</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Project%20Runway%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>The Protector</name>
-  <tvdbid>248929</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=The+Protector&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Protector%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1975,6 +1974,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Office&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Office_US</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Office%20(US)%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Protector</name>
+  <tvdbid>248929</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=The+Protector&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Protector%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/Protector</mirror>
   </mirrors>
  </show>
  <show>
