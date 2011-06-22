@@ -13,7 +13,9 @@ HAMSTER_LIST = "http://hamsterspit.com/shows/"
 HAMSTER_SHOW = "http://hamsterspit.com{id}"
 TVDB_SEARCH = "http://www.thetvdb.com/api/GetSeries.php?seriesname={name}"
 TVDB_DETAILS = "http://www.thetvdb.com/data/series/{id}/en.xml"
-YAHOO_PIPE = "http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=5460d9047c41d2716eea73a27399b27a&_render=rss"
+YAHOO_PIPE = ["http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=5460d9047c41d2716eea73a27399b27a&_render=rss",
+              "http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=003cff7595039a2474159edaee32a431&_render=rss",
+              "http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=89ef38aab752e16f22222401a6e50d50&_render=rss"]
 
 FIX_SHOW = {
   "30 Seconds AU" => "30 Seconds",
@@ -380,7 +382,8 @@ class TVShowsIndex
     @shows.each do |id, show|
       name = TPB_CORRECTIONS[show.name] || show.name + " eztv"
       user = TPB_USER[show.name] || "eztv"
-      show.mirrors |= [YAHOO_PIPE.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
+      pipe = YAHOO_PIPE[id.to_i % 3]
+      show.mirrors |= [pipe.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
     end
   end
 
