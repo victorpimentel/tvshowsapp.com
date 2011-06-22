@@ -476,6 +476,14 @@ Options -Indexes
 php_value session.cookie_httponly true
 </IfModule>
 
+# Avoid old TVShows from trying to download it
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b3 [OR]
+RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b4 [OR]
+RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b5 [OR]
+RewriteCond %{HTTP_USER_AGENT} ^TVShows/0.4
+RewriteRule .* - [F,L]
+
 # Redirect TVShows appcast
 RewriteEngine On
 RewriteRule ^.git - [F,L]
