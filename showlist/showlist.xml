@@ -731,6 +731,7 @@
   <mirrors>
    <mirror>http://hamsterspit.com/rss/HappilyDivorced</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Happily%20Divorced%20eztv&amp;userName=eztv&amp;_id=89ef38aab752e16f22222401a6e50d50&amp;_render=rss</mirror>
+   <mirror>http://ezrss.it/search/index.php?show_name=Happily+Divorced&amp;show_name_exact=true&amp;mode=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1706,6 +1707,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Suits</name>
+  <tvdbid>247808</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/Suits</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Suits%20eztv&amp;userName=eztv&amp;_id=89ef38aab752e16f22222401a6e50d50&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Supernatural</name>
   <tvdbid>78901</tvdbid>
   <mirrors>
@@ -2252,6 +2261,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Who+Do+You+Think+You+Are+US&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/WhoDoYouThinkYouAre_US</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Who%20Do%20You%20Think%20You%20Are%20(US)%20eztv&amp;userName=eztv&amp;_id=89ef38aab752e16f22222401a6e50d50&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wilfred (US)</name>
+  <tvdbid>239761</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/Wilfred</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Wilfred%20(US)%20eztv&amp;userName=eztv&amp;_id=003cff7595039a2474159edaee32a431&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
