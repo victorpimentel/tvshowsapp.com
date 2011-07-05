@@ -307,16 +307,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Camelot</name>
-  <tvdbid>208791</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/341.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=Camelot&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/Camelot</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Camelot%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Campus</name>
   <tvdbid>247101</tvdbid>
   <mirrors>
@@ -973,16 +963,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Law &amp; Order: Criminal Intent</name>
-  <tvdbid>71489</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/106.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=Law+%26+Order:+Criminal+Intent&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/LawandOrderCriminalIntent</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Law%20Order:%20Criminal%20Intent%20eztv&amp;userName=eztv&amp;_id=89ef38aab752e16f22222401a6e50d50&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Law &amp; Order: Special Victims Unit</name>
   <tvdbid>75692</tvdbid>
   <mirrors>
@@ -1032,8 +1012,9 @@
   </mirrors>
  </show>
  <show>
-  <name>Louie</name>
-  <tvdbid>80732</tvdbid>
+ <show>
+  <name>Louie (2010)</name>
+  <tvdbid>155201</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/278.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Louie&amp;show_name_exact=true&amp;mode=rss</mirror>
@@ -1194,6 +1175,15 @@
   </mirrors>
  </show>
  <show>
+  <name>Mock The Week</name>
+  <tvdbid>79761</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Mock+The+Week&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/MockTheWeek</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Mock%20The%20Week%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Modern Family</name>
   <tvdbid>95011</tvdbid>
   <mirrors>
@@ -1257,6 +1247,15 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=National+Geographic+Extreme+Universe&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=National%20Geographic%20Extreme%20Universe%20eztv&amp;userName=eztv&amp;_id=003cff7595039a2474159edaee32a431&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Necessary Roughness</name>
+  <tvdbid>247809</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Necessary+Roughness&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/NecessaryRoughness</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Necessary%20Roughness%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1699,6 +1698,15 @@
   </mirrors>
  </show>
  <show>
+  <name>State of Georgia</name>
+  <tvdbid>248448</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=State+of+Georgia&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/StateOfGeorgia</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=State%20of%20Georgia%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Strike Back</name>
   <tvdbid>148581</tvdbid>
   <mirrors>
@@ -1982,6 +1990,7 @@
   <mirrors>
    <mirror>http://hamsterspit.com/rss/NineLivesOfChloeKing</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Nine%20Lives%20of%20Chloe%20King%20eztv&amp;userName=eztv&amp;_id=003cff7595039a2474159edaee32a431&amp;_render=rss</mirror>
+   <mirror>http://ezrss.it/search/index.php?show_name=The+Nine+Lives+of+Chloe+King&amp;show_name_exact=true&amp;mode=rss</mirror>
   </mirrors>
  </show>
  <show>
