@@ -1135,12 +1135,12 @@
  </show>
  <show>
   <name>Merlin</name>
-  <tvdbid>137061</tvdbid>
+  <tvdbid>83123</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/45.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Merlin&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Merlin</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Merlin%20eztv&amp;userName=eztv&amp;_id=5460d9047c41d2716eea73a27399b27a&amp;_render=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Merlin%20eztv&amp;userName=eztv&amp;_id=89ef38aab752e16f22222401a6e50d50&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>

@@ -483,6 +483,8 @@ class Show
     if @name == "Shameless" && @mirrors[0] =~ /showrss/ # Fix Shameless
       @name = "Shameless US"
       @tvdbID = "161511"
+    elsif @name == "Merlin" # Fix Merlin
+      @tvdbID = "83123"
     end
 
     return @tvdbID
