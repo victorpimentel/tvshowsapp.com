@@ -38,6 +38,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Alphas</name>
+  <tvdbid>210841</tvdbid>
+  <mirrors>
+   <mirror>http://ezrss.it/search/index.php?show_name=Alphas&amp;show_name_exact=true&amp;mode=rss</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Alphas%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>American Dad</name>
   <tvdbid>73141</tvdbid>
   <mirrors>
