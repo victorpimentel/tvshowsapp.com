@@ -38,11 +38,21 @@
   </mirrors>
  </show>
  <show>
+  <name>Against the Wall</name>
+  <tvdbid>249881</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/AgainstTheWall</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Against%20the%20Wall%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/352.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Alphas&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Alphas%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://hamsterspit.com/rss/Alphas</mirror>
   </mirrors>
  </show>
  <show>
@@ -102,6 +112,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Archer+2009&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Archer</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Archer%20(2009)%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Awkward.</name>
+  <tvdbid>249882</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/Awkward</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Awkward.%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -293,6 +311,8 @@
    <mirror>http://ezrss.it/search/index.php?show_name=CSI:+Miami&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSIMiami</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=CSI:%20Miami%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://showrss.karmorra.info/feeds/19.rss</mirror>
+   <mirror>http://hamsterspit.com/rss/CSI</mirror>
   </mirrors>
  </show>
  <show>
@@ -312,15 +332,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Californication&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Californication</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Californication%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Campus</name>
-  <tvdbid>247101</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Campus&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/Campus</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Campus%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -365,6 +376,7 @@
   <name>Combat Hospital</name>
   <tvdbid>248799</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/356.rss</mirror>
    <mirror>http://hamsterspit.com/rss/CombatHospital</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Combat%20Hospital%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
@@ -619,6 +631,7 @@
   <name>Falling Skies</name>
   <tvdbid>205281</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/351.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Falling+Skies&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/FallingSkies</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Falling%20Skies%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
@@ -658,9 +671,18 @@
   <name>Franklin &amp; Bash</name>
   <tvdbid>164041</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/360.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Franklin+%26+Bash&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/FranklinAndBash</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Franklin%20Bash%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Friends with Benefits</name>
+  <tvdbid>163571</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/FriendsWithBenefits</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Friends%20with%20Benefits%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -727,6 +749,7 @@
   <name>Happily Divorced</name>
   <tvdbid>248330</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/359.rss</mirror>
    <mirror>http://hamsterspit.com/rss/HappilyDivorced</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Happily+Divorced&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Happily%20Divorced%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
@@ -781,9 +804,19 @@
   </mirrors>
  </show>
  <show>
+  <name>Hell's Kitchen</name>
+  <tvdbid>74897</tvdbid>
+  <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/120.rss</mirror>
+   <mirror>http://hamsterspit.com/rss/HellsKitchen</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hell's%20Kitchen%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Hiccups</name>
   <tvdbid>142001</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/354.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hiccups&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hiccups</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hiccups%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
@@ -883,14 +916,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=InSecurity&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/InSecurity</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=InSecurity%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Injustice</name>
-  <tvdbid>249225</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Injustice&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Injustice%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1030,15 +1055,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Love Bites (2011)</name>
-  <tvdbid>163551</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Love+Bites&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/LoveBites</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Love%20Bites%20(2011)%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Luther</name>
   <tvdbid>159591</tvdbid>
   <mirrors>
@@ -1129,16 +1145,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Memphis+Beat&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MemphisBeat</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Memphis%20Beat%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Men Of A Certain Age</name>
-  <tvdbid>121431</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/241.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=Men+Of+A+Certain+Age&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://hamsterspit.com/rss/MenofaCertainAge</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Men%20Of%20A%20Certain%20Age%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1260,6 +1266,7 @@
   <name>Necessary Roughness</name>
   <tvdbid>247809</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/358.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Necessary+Roughness&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NecessaryRoughness</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Necessary%20Roughness%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
@@ -1601,6 +1608,7 @@
   <name>Single Ladies</name>
   <tvdbid>226881</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/353.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Single+Ladies&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SingleLadies</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Single%20Ladies%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
@@ -1751,6 +1759,7 @@
   <name>Switched at Birth</name>
   <tvdbid>247773</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/363.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Switched+at+Birth&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SwitchedAtBirth</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Switched%20at%20Birth%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
@@ -1760,6 +1769,7 @@
   <name>Teen Wolf</name>
   <tvdbid>175001</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/364.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Teen+Wolf&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TeenWolf</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Teen%20Wolf%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
@@ -1995,6 +2005,7 @@
   <name>The Nine Lives of Chloe King</name>
   <tvdbid>247774</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/355.rss</mirror>
    <mirror>http://hamsterspit.com/rss/NineLivesOfChloeKing</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Nine+Lives+of+Chloe+King&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Nine%20Lives%20of%20Chloe%20King%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
@@ -2014,6 +2025,7 @@
   <name>The Protector</name>
   <tvdbid>248929</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/361.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Protector&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Protector</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Protector%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
@@ -2047,14 +2059,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Secret+Life+of+the+American+Teenager&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SecretLifeoftheAmericanTeenager</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Secret%20Life%20of%20the%20American%20Teenager%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>The Shadow Line</name>
-  <tvdbid>248484</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=The+Shadow+Line&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Shadow%20Line%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -2132,6 +2136,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+X+Factor&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/XFactor</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20X%20Factor%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Thundercats (2011)</name>
+  <tvdbid>241431</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/Thundercats_2011</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Thundercats%20(2011)%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://showrss.karmorra.info/feeds/365.rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -2250,6 +2263,15 @@
   </mirrors>
  </show>
  <show>
+  <name>Web Therapy</name>
+  <tvdbid>144201</tvdbid>
+  <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/357.rss</mirror>
+   <mirror>http://hamsterspit.com/rss/WebTherapy</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Web%20Therapy%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Weeds</name>
   <tvdbid>74845</tvdbid>
   <mirrors>
@@ -2283,6 +2305,7 @@
   <name>Wilfred (US)</name>
   <tvdbid>239761</tvdbid>
   <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/362.rss</mirror>
    <mirror>http://hamsterspit.com/rss/Wilfred</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Wilfred%20(US)%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
   </mirrors>
