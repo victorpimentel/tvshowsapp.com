@@ -123,6 +123,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Beaver Falls</name>
+  <tvdbid>250203</tvdbid>
+  <mirrors>
+   <mirror>http://hamsterspit.com/rss/BeaverFalls</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Beaver%20Falls%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Bedlam</name>
   <tvdbid>220801</tvdbid>
   <mirrors>
@@ -159,23 +167,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Being+Human+US&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BeingHuman_US</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Being%20Human%20(US)%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Big Brother</name>
-  <tvdbid>76706</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/171.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=Big+Brother+US&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Big%20Brother%20US%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Big Brother (UK)</name>
-  <tvdbid>72549</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Big+Brother+Uk&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Big%20Brother%20(UK)%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1505,6 +1496,15 @@
   </mirrors>
  </show>
  <show>
+  <name>Rizzoli &amp; Isles</name>
+  <tvdbid>161461</tvdbid>
+  <mirrors>
+   <mirror>http://showrss.karmorra.info/feeds/289.rss</mirror>
+   <mirror>http://hamsterspit.com/rss/RizzoliandIsles</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rizzoli%20Isles%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Robot Chicken</name>
   <tvdbid>75734</tvdbid>
   <mirrors>
@@ -2333,15 +2333,6 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Worlds+Crazy+Fools&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Worlds%20Crazy%20Fools%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>You Have Been Watching</name>
-  <tvdbid>103021</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/195.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=You+Have+Been+Watching&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=You%20Have%20Been%20Watching%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
   </mirrors>
  </show>
 </shows>
