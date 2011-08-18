@@ -478,7 +478,6 @@ php_value session.cookie_httponly true
 
 # Avoid old TVShows from trying to download it
 RewriteEngine on
-RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b1 [OR]
 RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b2 [OR]
 RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b3 [OR]
 RewriteCond %{HTTP_USER_AGENT} ^TVShows/2.0b4 [OR]
