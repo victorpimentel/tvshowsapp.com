@@ -44,6 +44,7 @@ FIX_SHOW = {
   "The Office" => "The Office (US)",
   "The Daily Show" => "The Daily Show with Jon Stewart",
   "The Killing" => "The Killing (2011)",
+  "The Lying Game (2011)" => "The Lying Game",
   "Thundercats" => "Thundercats (2011)",
   "Two & a Half Men" => "Two and a Half Men",
   "Undercover Boss" => "Undercover Boss (US)",
