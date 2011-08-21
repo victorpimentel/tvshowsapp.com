@@ -54,7 +54,7 @@ FIX_SHOW = {
   "Who Do You Think You Are US" => "Who Do You Think You Are (US)",
   "Wilfred" => "Wilfred (US)",
 
-  # This shows are removed from the EZTV list,
+  # These shows are removed from the EZTV list,
   # mostly ongoing shows not supported anymore by EZTV
   "Accidental Heroes" => "REMOVE FROM THE LIST",
   "After the Catch" => "REMOVE FROM THE LIST",
