@@ -547,6 +547,7 @@
   <tvdbid>78804</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20(2005)%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20(2005)%20vtv&amp;userName=vtv</mirror>
   </mirrors>
   <mirrors2>
    <mirror>http://bitsnoop.com/tvrss.xml?shows=209</mirror>
@@ -676,6 +677,7 @@
   <tvdbid>163571</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Friends%20with%20Benefits%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Friends%20with%20Benefits&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -693,6 +695,7 @@
   <tvdbid>73871</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Futurama%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Futurama&amp;userName=scenebalance</mirror>
   </mirrors>
   <mirrors2>
    <mirror>http://bitsnoop.com/tvrss.xml?shows=142</mirror>
@@ -1058,6 +1061,7 @@
   <tvdbid>155201</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Louie%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Louie&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -1697,6 +1701,7 @@
   <tvdbid>247808</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Suits%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Suits&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -2239,6 +2244,7 @@
   <tvdbid>239761</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
