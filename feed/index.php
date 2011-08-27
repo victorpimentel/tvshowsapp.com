@@ -17,6 +17,7 @@ if ($_SERVER['QUERY_STRING']!='') {
 // Serve from the cache if it is younger than $cachetime
 if (file_exists($cachefile) && (time() - $cachetime < filemtime($cachefile))) {
   readfile($cachefile);
+  echo "<!-- Cached: " . str_replace(dirname($cachefile)."/cache_","",$cachefile) . " -->";
   exit;
 }
 
