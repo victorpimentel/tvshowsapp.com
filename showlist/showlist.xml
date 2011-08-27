@@ -11,7 +11,6 @@
   <name>30 Rock</name>
   <tvdbid>79488</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/2.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=30%20Rock%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -19,7 +18,6 @@
   <name>30 Seconds</name>
   <tvdbid>114461</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/225.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=30%20Seconds%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -27,7 +25,6 @@
   <name>90210</name>
   <tvdbid>82716</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/3.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=90210%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -42,7 +39,6 @@
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/352.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Alphas%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -50,7 +46,6 @@
   <name>American Dad</name>
   <tvdbid>73141</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/4.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=American%20Dad%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -58,7 +53,6 @@
   <name>American Idol</name>
   <tvdbid>70814</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/84.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=American%20Idol%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -66,7 +60,6 @@
   <name>Americas Next Top Model</name>
   <tvdbid>71721</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/113.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Americas%20Next%20Top%20Model%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -74,7 +67,6 @@
   <name>An Idiot Abroad</name>
   <tvdbid>187071</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/321.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=An%20Idiot%20Abroad%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -89,7 +81,6 @@
   <name>Archer (2009)</name>
   <tvdbid>110381</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/213.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Archer%20(2009)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -111,7 +102,6 @@
   <name>Bedlam</name>
   <tvdbid>220801</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/332.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Bedlam%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -119,7 +109,6 @@
   <name>Being Erica</name>
   <tvdbid>84414</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/119.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Erica%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -127,7 +116,6 @@
   <name>Being Human</name>
   <tvdbid>81386</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/139.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Human%20-US%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -142,7 +130,6 @@
   <name>Black Gold</name>
   <tvdbid>82297</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/198.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Black%20Gold%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -150,7 +137,6 @@
   <name>Blue Bloods</name>
   <tvdbid>164981</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/311.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Blue%20Bloods%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -158,7 +144,6 @@
   <name>Boardwalk Empire</name>
   <tvdbid>84947</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/292.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Boardwalk%20Empire%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -166,7 +151,6 @@
   <name>Bob's Burgers</name>
   <tvdbid>194031</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/323.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Bob's%20Burgers%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -174,7 +158,6 @@
   <name>Body of Proof</name>
   <tvdbid>167591</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/342.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Body%20of%20Proof%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -182,7 +165,6 @@
   <name>Bones</name>
   <tvdbid>75682</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/6.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Bones%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -190,7 +172,6 @@
   <name>Bored to Death</name>
   <tvdbid>104641</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/214.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Bored%20to%20Death%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -205,7 +186,6 @@
   <name>Breaking Bad</name>
   <tvdbid>81189</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/77.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Breaking%20Bad%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -213,7 +193,6 @@
   <name>Breakout Kings</name>
   <tvdbid>219341</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/343.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Breakout%20Kings%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -228,7 +207,6 @@
   <name>Burn Notice</name>
   <tvdbid>80270</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/101.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Burn%20Notice%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -236,7 +214,6 @@
   <name>CSI: Crime Scene Investigation</name>
   <tvdbid>72546</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/19.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20Crime%20Scene%20Investigation%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -244,7 +221,6 @@
   <name>CSI: Miami</name>
   <tvdbid>78310</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/20.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20Miami%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -252,7 +228,6 @@
   <name>CSI: NY</name>
   <tvdbid>73696</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/21.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20NY%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -260,7 +235,6 @@
   <name>Californication</name>
   <tvdbid>80349</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/8.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Californication%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -268,7 +242,6 @@
   <name>Castle (2009)</name>
   <tvdbid>83462</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/109.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Castle%20(2009)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -276,7 +249,6 @@
   <name>Chaos</name>
   <tvdbid>193801</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/339.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Chaos%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -284,7 +256,6 @@
   <name>Chase</name>
   <tvdbid>78498</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/317.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Chase%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -292,7 +263,6 @@
   <name>Chuck</name>
   <tvdbid>80348</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/10.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Chuck%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -300,7 +270,6 @@
   <name>Combat Hospital</name>
   <tvdbid>248799</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/356.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Combat%20Hospital%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -308,7 +277,6 @@
   <name>Come Fly With Me</name>
   <tvdbid>212571</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/322.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Come%20Fly%20With%20Me%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -316,7 +284,6 @@
   <name>Community</name>
   <tvdbid>94571</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/215.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Community%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -324,7 +291,6 @@
   <name>Conan (2010)</name>
   <tvdbid>194751</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/319.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Conan%20(2010)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -332,7 +298,6 @@
   <name>Cops</name>
   <tvdbid>74709</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/125.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Cops%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -340,7 +305,6 @@
   <name>Cougar Town</name>
   <tvdbid>94991</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/218.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Cougar%20Town%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -348,7 +312,6 @@
   <name>Covert Affairs</name>
   <tvdbid>104281</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/285.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Covert%20Affairs%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -356,7 +319,6 @@
   <name>Craig Ferguson</name>
   <tvdbid>73387</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/261.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Craig%20Ferguson%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -364,7 +326,6 @@
   <name>Criminal Minds</name>
   <tvdbid>75710</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/18.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Criminal%20Minds%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -372,7 +333,6 @@
   <name>Curb Your Enthusiasm</name>
   <tvdbid>76203</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/147.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Curb%20Your%20Enthusiasm%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -380,7 +340,6 @@
   <name>Damages</name>
   <tvdbid>80367</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/22.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Damages%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -388,7 +347,6 @@
   <name>Dan For Mayor</name>
   <tvdbid>144621</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/262.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Dan%20For%20Mayor%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -396,7 +354,6 @@
   <name>Dancing With The Stars</name>
   <tvdbid>79590</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/140.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Dancing%20With%20The%20Stars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -404,7 +361,6 @@
   <name>Deadliest Catch</name>
   <tvdbid>78957</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/78.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Deadliest%20Catch%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -412,7 +368,6 @@
   <name>Desperate Housewives</name>
   <tvdbid>73800</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/23.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Desperate%20Housewives%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -420,7 +375,6 @@
   <name>Dexter</name>
   <tvdbid>79349</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/24.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Dexter%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -428,7 +382,6 @@
   <name>Dirty Jobs</name>
   <tvdbid>78904</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/85.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Dirty%20Jobs%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -436,7 +389,6 @@
   <name>Doctor Who (2005)</name>
   <tvdbid>78804</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/103.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20(2005)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -444,7 +396,6 @@
   <name>Doctor Who Confidential</name>
   <tvdbid>79298</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/269.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20Confidential%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -452,7 +403,6 @@
   <name>Drop Dead Diva</name>
   <tvdbid>95771</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/183.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Drop%20Dead%20Diva%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -460,7 +410,6 @@
   <name>Eastbound &amp; Down</name>
   <tvdbid>82467</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/159.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Eastbound%20Down%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -468,7 +417,6 @@
   <name>Entourage</name>
   <tvdbid>74543</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/88.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Entourage%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -476,7 +424,6 @@
   <name>Episodes</name>
   <tvdbid>123581</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/325.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Episodes%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -484,7 +431,6 @@
   <name>Eureka</name>
   <tvdbid>79334</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/108.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Eureka%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -499,7 +445,6 @@
   <name>Fairly Legal</name>
   <tvdbid>175011</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/333.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Fairly%20Legal%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -507,7 +452,6 @@
   <name>Falling Skies</name>
   <tvdbid>205281</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/351.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Falling%20Skies%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -515,7 +459,6 @@
   <name>Family Guy</name>
   <tvdbid>75978</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/27.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Family%20Guy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -523,7 +466,6 @@
   <name>Fifth Gear</name>
   <tvdbid>78998</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/155.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Fifth%20Gear%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -531,7 +473,6 @@
   <name>Flashpoint</name>
   <tvdbid>82438</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/87.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Flashpoint%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -539,7 +480,6 @@
   <name>Franklin &amp; Bash</name>
   <tvdbid>164041</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/360.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Franklin%20Bash%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -554,7 +494,6 @@
   <name>Fringe</name>
   <tvdbid>82066</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/28.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Fringe%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -562,7 +501,6 @@
   <name>Futurama</name>
   <tvdbid>73871</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/276.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Futurama%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -570,7 +508,6 @@
   <name>Game of Thrones</name>
   <tvdbid>121361</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/350.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Game%20of%20Thrones%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -578,7 +515,6 @@
   <name>Glee</name>
   <tvdbid>83610</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/31.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Glee%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -586,7 +522,6 @@
   <name>Gossip Girl</name>
   <tvdbid>80547</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/32.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Gossip%20Girl%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -594,7 +529,6 @@
   <name>Grey's Anatomy</name>
   <tvdbid>73762</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/34.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Grey's%20Anatomy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -602,7 +536,6 @@
   <name>Happily Divorced</name>
   <tvdbid>248330</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/359.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Happily%20Divorced%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -617,7 +550,6 @@
   <name>Harry's Law</name>
   <tvdbid>163581</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/337.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Harry's%20Law%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -625,7 +557,6 @@
   <name>Haven</name>
   <tvdbid>158661</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/284.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Haven%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -633,7 +564,6 @@
   <name>Hawaii Five-0</name>
   <tvdbid>164541</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/306.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hawaii%20Five-0%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -641,7 +571,6 @@
   <name>Hawthorne</name>
   <tvdbid>95741</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/186.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hawthorne%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -649,7 +578,6 @@
   <name>Hell's Kitchen</name>
   <tvdbid>74897</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/120.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hell's%20Kitchen%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -657,7 +585,6 @@
   <name>Hiccups</name>
   <tvdbid>142001</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/354.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hiccups%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -665,7 +592,6 @@
   <name>Hot in Cleveland</name>
   <tvdbid>162071</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/287.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hot%20in%20Cleveland%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -673,7 +599,6 @@
   <name>House</name>
   <tvdbid>73255</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/36.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=House%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -681,7 +606,6 @@
   <name>How I Met Your Mother</name>
   <tvdbid>75760</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/37.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=How%20I%20Met%20Your%20Mother%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -689,7 +613,6 @@
   <name>How to Make It in America</name>
   <tvdbid>134231</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/253.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=How%20to%20Make%20It%20in%20America%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -697,7 +620,6 @@
   <name>Human Target</name>
   <tvdbid>76857</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/246.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Human%20Target%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -705,7 +627,6 @@
   <name>Hung</name>
   <tvdbid>82091</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/181.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hung%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -713,7 +634,6 @@
   <name>Hustle</name>
   <tvdbid>73028</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/174.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hustle%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -728,7 +648,6 @@
   <name>In Plain Sight</name>
   <tvdbid>82155</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/104.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=In%20Plain%20Sight%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -736,7 +655,6 @@
   <name>InSecurity</name>
   <tvdbid>217961</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/345.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=InSecurity%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -744,7 +662,6 @@
   <name>It's Always Sunny in Philadelphia</name>
   <tvdbid>75805</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/114.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=It's%20Always%20Sunny%20in%20Philadelphia%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -752,7 +669,6 @@
   <name>Jay Leno</name>
   <tvdbid>70336</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/263.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Jay%20Leno%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -760,7 +676,6 @@
   <name>Justified</name>
   <tvdbid>134241</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/260.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Justified%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -775,7 +690,6 @@
   <name>Kitchen Nightmares</name>
   <tvdbid>80552</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/165.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Kitchen%20Nightmares%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -783,7 +697,6 @@
   <name>Last Comic Standing</name>
   <tvdbid>72673</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/272.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Last%20Comic%20Standing%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -791,7 +704,6 @@
   <name>Late Show with David Letterman</name>
   <tvdbid>75088</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/248.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Late%20Show%20with%20David%20Letterman%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -799,7 +711,6 @@
   <name>Law &amp; Order: Special Victims Unit</name>
   <tvdbid>75692</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/129.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Law%20Order:%20Special%20Victims%20Unit%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -807,7 +718,6 @@
   <name>Law &amp; Order: UK</name>
   <tvdbid>85228</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/244.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Law%20Order:%20UK%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -815,7 +725,6 @@
   <name>Leverage</name>
   <tvdbid>82339</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/86.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Leverage%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -823,7 +732,6 @@
   <name>Little Mosque on the Prairie</name>
   <tvdbid>79701</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/222.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Little%20Mosque%20on%20the%20Prairie%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -831,7 +739,6 @@
   <name>Lost Girl</name>
   <tvdbid>182061</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/296.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Lost%20Girl%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -839,7 +746,6 @@
   <name>Louie (2010)</name>
   <tvdbid>155201</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/278.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Louie%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -875,7 +781,6 @@
   <name>Mad Men</name>
   <tvdbid>80337</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/42.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Mad%20Men%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -883,7 +788,6 @@
   <name>Make It or Break It</name>
   <tvdbid>95751</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/254.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Make%20It%20or%20Break%20It%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -891,7 +795,6 @@
   <name>Man vs. Wild</name>
   <tvdbid>79545</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/126.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Man%20vs.%20Wild%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -906,7 +809,6 @@
   <name>Melissa &amp; Joey</name>
   <tvdbid>168621</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/315.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Melissa%20Joey%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -914,7 +816,6 @@
   <name>Memphis Beat</name>
   <tvdbid>157621</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/282.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Memphis%20Beat%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -922,7 +823,6 @@
   <name>Merlin</name>
   <tvdbid>83123</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/45.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Merlin%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -930,7 +830,6 @@
   <name>Midsomer Murders</name>
   <tvdbid>76846</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/303.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Midsomer%20Murders%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -938,7 +837,6 @@
   <name>Mike &amp; Molly</name>
   <tvdbid>164501</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/313.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Mike%20Molly%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -946,7 +844,6 @@
   <name>Misfits</name>
   <tvdbid>124051</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/243.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Misfits%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -961,7 +858,6 @@
   <name>Modern Family</name>
   <tvdbid>95011</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/221.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Modern%20Family%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -969,7 +865,6 @@
   <name>Monster Quest</name>
   <tvdbid>80828</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/189.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Monster%20Quest%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -977,7 +872,6 @@
   <name>Mythbusters</name>
   <tvdbid>73388</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/46.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Mythbusters%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -985,7 +879,6 @@
   <name>NCIS</name>
   <tvdbid>72108</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/47.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=NCIS%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -993,7 +886,6 @@
   <name>NCIS: Los Angeles</name>
   <tvdbid>95441</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/207.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=NCIS:%20Los%20Angeles%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1015,7 +907,6 @@
   <name>Necessary Roughness</name>
   <tvdbid>247809</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/358.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Necessary%20Roughness%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1023,7 +914,6 @@
   <name>New Tricks</name>
   <tvdbid>78823</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/191.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=New%20Tricks%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1038,7 +928,6 @@
   <name>Nikita</name>
   <tvdbid>164301</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/297.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Nikita%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1046,7 +935,6 @@
   <name>Nurse Jackie</name>
   <tvdbid>95731</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/169.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Nurse%20Jackie%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1054,7 +942,6 @@
   <name>One Tree Hill</name>
   <tvdbid>72158</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/51.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=One%20Tree%20Hill%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1062,7 +949,6 @@
   <name>Onion News Network</name>
   <tvdbid>85342</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/346.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Onion%20News%20Network%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1070,7 +956,6 @@
   <name>Packed To The Rafters</name>
   <tvdbid>82820</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/203.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Packed%20To%20The%20Rafters%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1078,7 +963,6 @@
   <name>Parenthood (2010)</name>
   <tvdbid>94551</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/255.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Parenthood%20(2010)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1086,7 +970,6 @@
   <name>Parks and Recreation</name>
   <tvdbid>84912</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/138.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Parks%20and%20Recreation%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1115,7 +998,6 @@
   <name>Portlandia</name>
   <tvdbid>213221</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/329.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Portlandia%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1123,7 +1005,6 @@
   <name>Pretty Little Liars</name>
   <tvdbid>146711</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/283.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Pretty%20Little%20Liars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1131,7 +1012,6 @@
   <name>Primeval</name>
   <tvdbid>79809</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/320.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Primeval%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1139,7 +1019,6 @@
   <name>Private Practice</name>
   <tvdbid>80542</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/99.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Private%20Practice%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1147,7 +1026,6 @@
   <name>Project Runway</name>
   <tvdbid>74285</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/157.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Project%20Runway%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1155,7 +1033,6 @@
   <name>Psych</name>
   <tvdbid>79335</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/111.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Psych%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1163,7 +1040,6 @@
   <name>Psychoville</name>
   <tvdbid>99101</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/180.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Psychoville%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1171,7 +1047,6 @@
   <name>QI</name>
   <tvdbid>72716</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/240.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=QI%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1179,7 +1054,6 @@
   <name>Raising Hope</name>
   <tvdbid>164021</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/302.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Raising%20Hope%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1187,7 +1061,6 @@
   <name>Real Time with Bill Maher</name>
   <tvdbid>72231</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/97.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Real%20Time%20with%20Bill%20Maher%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1195,7 +1068,6 @@
   <name>Rescue Me</name>
   <tvdbid>73741</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/118.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Rescue%20Me%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1210,7 +1082,6 @@
   <name>Rizzoli &amp; Isles</name>
   <tvdbid>161461</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/289.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Rizzoli%20Isles%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1218,7 +1089,6 @@
   <name>Robot Chicken</name>
   <tvdbid>75734</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/83.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Robot%20Chicken%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1226,7 +1096,6 @@
   <name>Rookie Blue</name>
   <tvdbid>157631</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/279.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Rookie%20Blue%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1234,7 +1103,6 @@
   <name>Royal Pains</name>
   <tvdbid>92411</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/163.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Royal%20Pains%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1242,7 +1110,6 @@
   <name>Rules of Engagement</name>
   <tvdbid>79842</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/141.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Rules%20of%20Engagement%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1257,7 +1124,6 @@
   <name>Rush</name>
   <tvdbid>82881</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/190.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Rush%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1265,7 +1131,6 @@
   <name>Sanctuary</name>
   <tvdbid>80159</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/145.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Sanctuary%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1273,7 +1138,6 @@
   <name>Saturday Night Live</name>
   <tvdbid>76177</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/91.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Saturday%20Night%20Live%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1281,7 +1145,6 @@
   <name>Shameless (US)</name>
   <tvdbid>161511</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/326.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1289,7 +1152,6 @@
   <name>Sherlock</name>
   <tvdbid>176941</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/286.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Sherlock%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1297,7 +1159,6 @@
   <name>Single Ladies</name>
   <tvdbid>226881</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/353.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Single%20Ladies%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1305,7 +1166,6 @@
   <name>Skins</name>
   <tvdbid>79773</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/58.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Skins%20-US&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1313,7 +1173,6 @@
   <name>So You Think You Can Dance</name>
   <tvdbid>78956</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/92.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=So%20You%20Think%20You%20Can%20Dance%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1321,7 +1180,6 @@
   <name>Sons of Anarchy</name>
   <tvdbid>82696</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/200.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Sons%20of%20Anarchy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1329,7 +1187,6 @@
   <name>South Park</name>
   <tvdbid>75897</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/60.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=South%20Park%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1337,7 +1194,6 @@
   <name>Southland</name>
   <tvdbid>84645</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/75.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Southland%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1345,7 +1201,6 @@
   <name>Spartacus</name>
   <tvdbid>129261</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/249.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Spartacus%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1353,7 +1208,6 @@
   <name>Spicks and Specks</name>
   <tvdbid>81358</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/158.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Spicks%20and%20Specks%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1361,7 +1215,6 @@
   <name>Spooks</name>
   <tvdbid>78890</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/124.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Spooks%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1376,7 +1229,6 @@
   <name>Star Wars: The Clone Wars</name>
   <tvdbid>83268</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/61.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Star%20Wars:%20The%20Clone%20Wars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1405,7 +1257,6 @@
   <name>Supernatural</name>
   <tvdbid>78901</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/62.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Supernatural%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1413,7 +1264,6 @@
   <name>Survivor</name>
   <tvdbid>76733</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/90.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Survivor%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1421,7 +1271,6 @@
   <name>Switched at Birth</name>
   <tvdbid>247773</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/363.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Switched%20at%20Birth%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1429,7 +1278,6 @@
   <name>Teen Wolf</name>
   <tvdbid>175001</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/364.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Teen%20Wolf%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1437,7 +1285,6 @@
   <name>The Amazing Race</name>
   <tvdbid>77666</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/122.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1445,7 +1292,6 @@
   <name>The Apprentice</name>
   <tvdbid>72829</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/172.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Apprentice%20-UK%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1453,7 +1299,6 @@
   <name>The Apprentice UK</name>
   <tvdbid>75795</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/173.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Apprentice%20UK%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1461,7 +1306,6 @@
   <name>The Big Bang Theory</name>
   <tvdbid>80379</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/5.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Big%20Bang%20Theory%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1469,7 +1313,6 @@
   <name>The Big C</name>
   <tvdbid>161501</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/290.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Big%20C%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1477,7 +1320,6 @@
   <name>The Borgias</name>
   <tvdbid>187881</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/338.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Borgias%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1492,7 +1334,6 @@
   <name>The Cleveland Show</name>
   <tvdbid>93991</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/224.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Cleveland%20Show%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1500,7 +1341,6 @@
   <name>The Closer</name>
   <tvdbid>74875</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/14.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Closer%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1508,7 +1348,6 @@
   <name>The Colbert Report</name>
   <tvdbid>79274</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/15.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Colbert%20Report%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1516,7 +1355,6 @@
   <name>The Daily Show with Jon Stewart</name>
   <tvdbid>71256</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/82.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Daily%20Show%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1524,7 +1362,6 @@
   <name>The Fixer</name>
   <tvdbid>81499</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/206.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Fixer%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1539,7 +1376,6 @@
   <name>The Glades</name>
   <tvdbid>168941</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/288.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Glades%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1547,7 +1383,6 @@
   <name>The Good Wife</name>
   <tvdbid>95451</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/208.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Good%20Wife%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1555,7 +1390,6 @@
   <name>The IT Crowd</name>
   <tvdbid>79216</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/38.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20IT%20Crowd%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1563,7 +1397,6 @@
   <name>The Killing (2011)</name>
   <tvdbid>210171</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/347.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Killing%20(2011)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1571,7 +1404,6 @@
   <name>The League</name>
   <tvdbid>114701</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/238.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20League%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1579,7 +1411,6 @@
   <name>The Life &amp; Times of Tim</name>
   <tvdbid>83130</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/259.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Life%20Times%20of%20Tim%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1587,7 +1418,6 @@
   <name>The Listener</name>
   <tvdbid>85358</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/156.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Listener%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1602,7 +1432,6 @@
   <name>The Marriage Ref</name>
   <tvdbid>145541</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/267.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Marriage%20Ref%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1610,7 +1439,6 @@
   <name>The Mentalist</name>
   <tvdbid>82459</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/44.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Mentalist%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1618,7 +1446,6 @@
   <name>The Middle</name>
   <tvdbid>95021</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/227.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Middle%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1626,7 +1453,6 @@
   <name>The Nine Lives of Chloe King</name>
   <tvdbid>247774</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/355.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Nine%20Lives%20of%20Chloe%20King%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1634,7 +1460,6 @@
   <name>The Office (US)</name>
   <tvdbid>73244</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/50.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Office%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1642,7 +1467,6 @@
   <name>The Protector</name>
   <tvdbid>248929</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/361.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Protector%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1650,7 +1474,6 @@
   <name>The Ricky Gervais Show</name>
   <tvdbid>142581</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/256.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Ricky%20Gervais%20Show%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1658,7 +1481,6 @@
   <name>The Sarah Jane Adventures</name>
   <tvdbid>79708</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/234.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Sarah%20Jane%20Adventures%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1666,7 +1488,6 @@
   <name>The Secret Life of the American Teenager</name>
   <tvdbid>82422</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/149.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Secret%20Life%20of%20the%20American%20Teenager%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1674,7 +1495,6 @@
   <name>The Simpsons</name>
   <tvdbid>71663</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/57.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Simpsons%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1682,7 +1502,6 @@
   <name>The Ultimate Fighter</name>
   <tvdbid>75382</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/76.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Ultimate%20Fighter%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1690,7 +1509,6 @@
   <name>The Universe</name>
   <tvdbid>80198</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/199.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Universe%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1698,7 +1516,6 @@
   <name>The Vampire Diaries</name>
   <tvdbid>95491</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/205.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Vampire%20Diaries%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1706,7 +1523,6 @@
   <name>The Venture Bros</name>
   <tvdbid>72306</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/233.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Venture%20Bros%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1721,7 +1537,6 @@
   <name>The Walking Dead</name>
   <tvdbid>153021</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/318.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Walking%20Dead%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1729,7 +1544,6 @@
   <name>The X Factor</name>
   <tvdbid>74626</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/197.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20X%20Factor%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1737,7 +1551,6 @@
   <name>Thundercats (2011)</name>
   <tvdbid>241431</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/365.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Thundercats%20(2011)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1745,7 +1558,6 @@
   <name>Top Chef</name>
   <tvdbid>79313</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/100.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1753,7 +1565,6 @@
   <name>Top Gear</name>
   <tvdbid>74608</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/117.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1761,7 +1572,6 @@
   <name>Torchwood</name>
   <tvdbid>79511</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/201.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Torchwood%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1776,7 +1586,6 @@
   <name>Treme</name>
   <tvdbid>84946</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/268.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Treme%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1784,7 +1593,6 @@
   <name>True Blood</name>
   <tvdbid>82283</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/79.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=True%20Blood%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1792,7 +1600,6 @@
   <name>Two and a Half Men</name>
   <tvdbid>72227</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/63.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Two%20and%20a%20Half%20Men%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1800,7 +1607,6 @@
   <name>Ugly Americans</name>
   <tvdbid>150051</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/264.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Ugly%20Americans%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1808,7 +1614,6 @@
   <name>Underbelly</name>
   <tvdbid>81346</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/65.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Underbelly%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1816,7 +1621,6 @@
   <name>Undercover Boss (US)</name>
   <tvdbid>140141</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/258.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Undercover%20Boss%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1831,7 +1635,6 @@
   <name>Warehouse 13</name>
   <tvdbid>84676</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/182.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Warehouse%2013%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1839,7 +1642,6 @@
   <name>Web Therapy</name>
   <tvdbid>144201</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/357.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Web%20Therapy%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
@@ -1847,7 +1649,6 @@
   <name>Weeds</name>
   <tvdbid>74845</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/68.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Weeds%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1855,7 +1656,6 @@
   <name>White Collar</name>
   <tvdbid>108611</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/236.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=White%20Collar%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1863,7 +1663,6 @@
   <name>Who Do You Think You Are (US)</name>
   <tvdbid>146651</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/266.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Who%20Do%20You%20Think%20You%20Are%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -1871,7 +1670,6 @@
   <name>Wilfred (US)</name>
   <tvdbid>239761</tvdbid>
   <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/362.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
