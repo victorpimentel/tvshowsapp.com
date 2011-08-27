@@ -14,7 +14,6 @@
    <mirror>http://showrss.karmorra.info/feeds/2.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=30+Rock&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/30Rock/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=57</mirror>
   </mirrors>
  </show>
  <show>
@@ -32,7 +31,6 @@
    <mirror>http://showrss.karmorra.info/feeds/3.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=90210&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/90210/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=49</mirror>
   </mirrors>
  </show>
  <show>
@@ -40,13 +38,6 @@
   <tvdbid>249881</tvdbid>
   <mirrors>
    <mirror>http://hamsterspit.com/rss/AgainstTheWall/</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Agatha Christie's Poirot</name>
-  <tvdbid>76133</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=271</mirror>
   </mirrors>
  </show>
  <show>
@@ -65,7 +56,6 @@
    <mirror>http://showrss.karmorra.info/feeds/4.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=American+Dad&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmericanDad/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=60</mirror>
   </mirrors>
  </show>
  <show>
@@ -84,7 +74,6 @@
    <mirror>http://showrss.karmorra.info/feeds/113.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Americas+Next+Top+Model&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmericasNextTopModel/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=59</mirror>
   </mirrors>
  </show>
  <show>
@@ -114,31 +103,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Are We There Yet?</name>
-  <tvdbid>161491</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=294</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Army Wives</name>
-  <tvdbid>80231</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=122</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Awkward.</name>
   <tvdbid>249882</tvdbid>
   <mirrors>
    <mirror>http://hamsterspit.com/rss/Awkward/</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Batman: The Brave &amp; the Bold</name>
-  <tvdbid>82824</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=157</mirror>
   </mirrors>
  </show>
  <show>
@@ -164,7 +132,6 @@
    <mirror>http://showrss.karmorra.info/feeds/119.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Being+Erica&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BeingErica/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=253</mirror>
   </mirrors>
  </show>
  <show>
@@ -199,14 +166,6 @@
    <mirror>http://showrss.karmorra.info/feeds/311.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Blue+Bloods&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BlueBloods/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=336</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Blue Mountain State</name>
-  <tvdbid>134511</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=349</mirror>
   </mirrors>
  </show>
  <show>
@@ -216,7 +175,6 @@
    <mirror>http://showrss.karmorra.info/feeds/292.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Boardwalk+Empire&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BoardwalkEmpire/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=335</mirror>
   </mirrors>
  </show>
  <show>
@@ -226,7 +184,6 @@
    <mirror>http://showrss.karmorra.info/feeds/323.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Bobs+Burgers&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BobsBurgers/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=357</mirror>
   </mirrors>
  </show>
  <show>
@@ -236,7 +193,6 @@
    <mirror>http://showrss.karmorra.info/feeds/342.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Body+Of+Proof&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BodyOfProof/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=352</mirror>
   </mirrors>
  </show>
  <show>
@@ -246,7 +202,6 @@
    <mirror>http://showrss.karmorra.info/feeds/6.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Bones&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Bones/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=33</mirror>
   </mirrors>
  </show>
  <show>
@@ -272,7 +227,6 @@
    <mirror>http://showrss.karmorra.info/feeds/77.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Breaking+Bad&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BreakingBad/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=66</mirror>
   </mirrors>
  </show>
  <show>
@@ -282,13 +236,6 @@
    <mirror>http://showrss.karmorra.info/feeds/343.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Breakout+Kings&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BreakoutKings/</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Britain's Got Talent</name>
-  <tvdbid>80727</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=210</mirror>
   </mirrors>
  </show>
  <show>
@@ -305,7 +252,6 @@
    <mirror>http://showrss.karmorra.info/feeds/101.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Burn+Notice&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BurnNotice/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=94</mirror>
   </mirrors>
  </show>
  <show>
@@ -315,7 +261,6 @@
    <mirror>http://showrss.karmorra.info/feeds/19.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=CSI&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSI/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=70</mirror>
   </mirrors>
  </show>
  <show>
@@ -325,7 +270,6 @@
    <mirror>http://showrss.karmorra.info/feeds/20.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=CSI:+Miami&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSIMiami/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=68</mirror>
   </mirrors>
  </show>
  <show>
@@ -334,7 +278,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/21.rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSINY/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=69</mirror>
   </mirrors>
  </show>
  <show>
@@ -344,7 +287,6 @@
    <mirror>http://showrss.karmorra.info/feeds/8.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Californication&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Californication/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=118</mirror>
   </mirrors>
  </show>
  <show>
@@ -354,14 +296,6 @@
    <mirror>http://showrss.karmorra.info/feeds/109.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Castle+2009&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Castle/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=97</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Celebrity Rehab with Dr. Drew</name>
-  <tvdbid>81230</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=261</mirror>
   </mirrors>
  </show>
  <show>
@@ -387,7 +321,6 @@
    <mirror>http://showrss.karmorra.info/feeds/10.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Chuck&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Chuck/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=112</mirror>
   </mirrors>
  </show>
  <show>
@@ -414,7 +347,6 @@
    <mirror>http://showrss.karmorra.info/feeds/215.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Community&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Community/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=240</mirror>
   </mirrors>
  </show>
  <show>
@@ -433,7 +365,6 @@
    <mirror>http://showrss.karmorra.info/feeds/125.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Cops&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Cops/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=192</mirror>
   </mirrors>
  </show>
  <show>
@@ -443,7 +374,6 @@
    <mirror>http://showrss.karmorra.info/feeds/218.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Cougar+Town&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CougarTown/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=98</mirror>
   </mirrors>
  </show>
  <show>
@@ -453,7 +383,6 @@
    <mirror>http://showrss.karmorra.info/feeds/285.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Covert+Affairs&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CovertAffairs/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=320</mirror>
   </mirrors>
  </show>
  <show>
@@ -472,7 +401,6 @@
    <mirror>http://showrss.karmorra.info/feeds/18.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Criminal+Minds&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CriminalMinds/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=39</mirror>
   </mirrors>
  </show>
  <show>
@@ -482,7 +410,6 @@
    <mirror>http://showrss.karmorra.info/feeds/147.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Curb+your+Enthusiasm&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CurbYourEnthusiasm/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=321</mirror>
   </mirrors>
  </show>
  <show>
@@ -492,7 +419,6 @@
    <mirror>http://showrss.karmorra.info/feeds/22.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Damages&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Damages/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=141</mirror>
   </mirrors>
  </show>
  <show>
@@ -510,7 +436,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/140.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Dancing+With+The+Stars&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=133</mirror>
   </mirrors>
  </show>
  <show>
@@ -519,7 +444,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/78.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Deadliest+Catch&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=225</mirror>
   </mirrors>
  </show>
  <show>
@@ -529,7 +453,6 @@
    <mirror>http://showrss.karmorra.info/feeds/23.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Desperate+Housewives&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DesperateHousewives/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=21</mirror>
   </mirrors>
  </show>
  <show>
@@ -539,7 +462,6 @@
    <mirror>http://showrss.karmorra.info/feeds/24.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Dexter&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Dexter/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=19</mirror>
   </mirrors>
  </show>
  <show>
@@ -549,7 +471,6 @@
    <mirror>http://showrss.karmorra.info/feeds/85.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Dirty+Jobs&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DirtyJobs/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=287</mirror>
   </mirrors>
  </show>
  <show>
@@ -559,7 +480,6 @@
    <mirror>http://showrss.karmorra.info/feeds/103.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Doctor+Who+(2005)&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DoctorWho_2005/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=209</mirror>
   </mirrors>
  </show>
  <show>
@@ -569,7 +489,6 @@
    <mirror>http://showrss.karmorra.info/feeds/269.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Doctor+Who+Confidential&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DoctorWhoConfidential/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=208</mirror>
   </mirrors>
  </show>
  <show>
@@ -579,7 +498,6 @@
    <mirror>http://showrss.karmorra.info/feeds/183.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Drop+Dead+Diva&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DropDeadDiva/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=291</mirror>
   </mirrors>
  </show>
  <show>
@@ -598,7 +516,6 @@
    <mirror>http://showrss.karmorra.info/feeds/88.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Entourage&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Entourage/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=72</mirror>
   </mirrors>
  </show>
  <show>
@@ -617,7 +534,6 @@
    <mirror>http://showrss.karmorra.info/feeds/108.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Eureka&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Eureka/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=109</mirror>
   </mirrors>
  </show>
  <show>
@@ -652,7 +568,6 @@
    <mirror>http://showrss.karmorra.info/feeds/27.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Family+Guy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/FamilyGuy/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=37</mirror>
   </mirrors>
  </show>
  <show>
@@ -671,14 +586,6 @@
    <mirror>http://showrss.karmorra.info/feeds/87.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Flashpoint&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Flashpoint/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=322</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Foyle's War</name>
-  <tvdbid>78837</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=216</mirror>
   </mirrors>
  </show>
  <show>
@@ -704,7 +611,6 @@
    <mirror>http://showrss.karmorra.info/feeds/28.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Fringe&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Fringe/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=30</mirror>
   </mirrors>
  </show>
  <show>
@@ -714,7 +620,6 @@
    <mirror>http://showrss.karmorra.info/feeds/276.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Futurama&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Futurama/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=142</mirror>
   </mirrors>
  </show>
  <show>
@@ -724,28 +629,6 @@
    <mirror>http://showrss.karmorra.info/feeds/350.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Game+of+Thrones&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GameOfThrones/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=360</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Gene Simmons: Family Jewels</name>
-  <tvdbid>79406</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=213</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Ghost Hunters</name>
-  <tvdbid>77949</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=137</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Ghost Hunters International</name>
-  <tvdbid>81120</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=199</mirror>
   </mirrors>
  </show>
  <show>
@@ -755,14 +638,6 @@
    <mirror>http://showrss.karmorra.info/feeds/31.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Glee&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Glee/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=74</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Good Eats</name>
-  <tvdbid>73067</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=264</mirror>
   </mirrors>
  </show>
  <show>
@@ -772,7 +647,6 @@
    <mirror>http://showrss.karmorra.info/feeds/32.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Gossip+Girl&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GossipGirl/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=35</mirror>
   </mirrors>
  </show>
  <show>
@@ -782,7 +656,6 @@
    <mirror>http://showrss.karmorra.info/feeds/34.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Greys+Anatomy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GreysAnatomy/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=24</mirror>
   </mirrors>
  </show>
  <show>
@@ -809,7 +682,6 @@
    <mirror>http://showrss.karmorra.info/feeds/337.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Harrys+Law&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HarrysLaw/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=354</mirror>
   </mirrors>
  </show>
  <show>
@@ -827,7 +699,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/306.rss</mirror>
    <mirror>http://hamsterspit.com/rss/HawaiiFiveO_2010/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=332</mirror>
   </mirrors>
  </show>
  <show>
@@ -837,7 +708,6 @@
    <mirror>http://showrss.karmorra.info/feeds/186.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hawthorne&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hawthorne/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=296</mirror>
   </mirrors>
  </show>
  <show>
@@ -846,7 +716,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/120.rss</mirror>
    <mirror>http://hamsterspit.com/rss/HellsKitchen/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=299</mirror>
   </mirrors>
  </show>
  <show>
@@ -856,7 +725,6 @@
    <mirror>http://showrss.karmorra.info/feeds/354.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hiccups&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hiccups/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=230</mirror>
   </mirrors>
  </show>
  <show>
@@ -866,7 +734,6 @@
    <mirror>http://showrss.karmorra.info/feeds/287.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hot+in+Cleveland&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HotinCleveland/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=306</mirror>
   </mirrors>
  </show>
  <show>
@@ -875,7 +742,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/36.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=House&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=23</mirror>
   </mirrors>
  </show>
  <show>
@@ -885,7 +751,6 @@
    <mirror>http://showrss.karmorra.info/feeds/37.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=How+I+Met+Your+Mother&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HowIMetYourMother/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=47</mirror>
   </mirrors>
  </show>
  <show>
@@ -912,7 +777,6 @@
    <mirror>http://showrss.karmorra.info/feeds/181.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hung&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hung/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=99</mirror>
   </mirrors>
  </show>
  <show>
@@ -922,13 +786,6 @@
    <mirror>http://showrss.karmorra.info/feeds/174.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hustle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hustle/</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Ideal</name>
-  <tvdbid>74345</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=282</mirror>
   </mirrors>
  </show>
  <show>
@@ -945,7 +802,6 @@
    <mirror>http://showrss.karmorra.info/feeds/104.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=In+Plain+Sight&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/InPlainSight/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=174</mirror>
   </mirrors>
  </show>
  <show>
@@ -958,20 +814,12 @@
   </mirrors>
  </show>
  <show>
-  <name>Iron Chef America</name>
-  <tvdbid>74325</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=176</mirror>
-  </mirrors>
- </show>
- <show>
   <name>It's Always Sunny in Philadelphia</name>
   <tvdbid>75805</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/114.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Its+Always+Sunny+in+Philadelphia&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ItsAlwaysSunnyinPhiladelphia/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=323</mirror>
   </mirrors>
  </show>
  <show>
@@ -983,20 +831,12 @@
   </mirrors>
  </show>
  <show>
-  <name>Jersey Shore</name>
-  <tvdbid>127351</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=315</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Justified</name>
   <tvdbid>134241</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/260.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Justified&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Justified/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=274</mirror>
   </mirrors>
  </show>
  <show>
@@ -1013,14 +853,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/165.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Kitchen+Nightmares&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=238</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Ladies of Letters</name>
-  <tvdbid>87341</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=217</mirror>
   </mirrors>
  </show>
  <show>
@@ -1065,7 +897,6 @@
    <mirror>http://showrss.karmorra.info/feeds/86.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Leverage&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Leverage/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=288</mirror>
   </mirrors>
  </show>
  <show>
@@ -1084,7 +915,6 @@
    <mirror>http://showrss.karmorra.info/feeds/296.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Lost+Girl&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/LostGirl/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=344</mirror>
   </mirrors>
  </show>
  <show>
@@ -1102,7 +932,6 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Luther&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Luther/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=278</mirror>
   </mirrors>
  </show>
  <show>
@@ -1134,7 +963,6 @@
    <mirror>http://showrss.karmorra.info/feeds/42.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Mad+Men&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MadMen/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=316</mirror>
   </mirrors>
  </show>
  <show>
@@ -1144,7 +972,6 @@
    <mirror>http://showrss.karmorra.info/feeds/254.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Make+It+or+Break+It&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MakeItOrBreakIt/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=300</mirror>
   </mirrors>
  </show>
  <show>
@@ -1180,7 +1007,6 @@
    <mirror>http://showrss.karmorra.info/feeds/282.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Memphis+Beat&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MemphisBeat/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=317</mirror>
   </mirrors>
  </show>
  <show>
@@ -1190,14 +1016,6 @@
    <mirror>http://showrss.karmorra.info/feeds/45.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Merlin&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Merlin/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=95</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Metalocalypse</name>
-  <tvdbid>79563</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=169</mirror>
   </mirrors>
  </show>
  <show>
@@ -1216,7 +1034,6 @@
    <mirror>http://showrss.karmorra.info/feeds/313.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Mike+and+Molly&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MikeandMolly/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=339</mirror>
   </mirrors>
  </show>
  <show>
@@ -1243,7 +1060,6 @@
    <mirror>http://showrss.karmorra.info/feeds/221.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Modern+Family&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ModernFamily/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=77</mirror>
   </mirrors>
  </show>
  <show>
@@ -1261,7 +1077,6 @@
    <mirror>http://showrss.karmorra.info/feeds/46.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Mythbusters&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Mythbusters/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=14</mirror>
   </mirrors>
  </show>
  <show>
@@ -1271,7 +1086,6 @@
    <mirror>http://showrss.karmorra.info/feeds/47.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=NCIS&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NCIS/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=31</mirror>
   </mirrors>
  </show>
  <show>
@@ -1281,7 +1095,6 @@
    <mirror>http://showrss.karmorra.info/feeds/207.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=NCIS+Los+Angeles&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NCISLosAngeles/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=32</mirror>
   </mirrors>
  </show>
  <show>
@@ -1332,7 +1145,6 @@
    <mirror>http://showrss.karmorra.info/feeds/297.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Nikita&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Nikita/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=333</mirror>
   </mirrors>
  </show>
  <show>
@@ -1342,7 +1154,6 @@
    <mirror>http://showrss.karmorra.info/feeds/169.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Nurse+Jackie&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NurseJackie/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=231</mirror>
   </mirrors>
  </show>
  <show>
@@ -1352,7 +1163,6 @@
    <mirror>http://showrss.karmorra.info/feeds/51.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=One+Tree+Hill&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/OneTreeHill/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=42</mirror>
   </mirrors>
  </show>
  <show>
@@ -1362,13 +1172,6 @@
    <mirror>http://showrss.karmorra.info/feeds/346.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Onion+News+Network&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/OnionNewsNetwork/</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Outnumbered</name>
-  <tvdbid>80592</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=138</mirror>
   </mirrors>
  </show>
  <show>
@@ -1387,7 +1190,6 @@
    <mirror>http://showrss.karmorra.info/feeds/255.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Parenthood+2010&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Parenthood_2010/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=132</mirror>
   </mirrors>
  </show>
  <show>
@@ -1397,7 +1199,6 @@
    <mirror>http://showrss.karmorra.info/feeds/138.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Parks+and+Recreation&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ParksandRecreation/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=250</mirror>
   </mirrors>
  </show>
  <show>
@@ -1423,13 +1224,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Pioneer One</name>
-  <tvdbid>170551</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=290</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Portlandia</name>
   <tvdbid>213221</tvdbid>
   <mirrors>
@@ -1445,7 +1239,6 @@
    <mirror>http://showrss.karmorra.info/feeds/283.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Pretty+Little+Liars&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/PrettyLittleLiars/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=295</mirror>
   </mirrors>
  </show>
  <show>
@@ -1464,7 +1257,6 @@
    <mirror>http://showrss.karmorra.info/feeds/99.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Private+Practice&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/PrivatePractice/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=44</mirror>
   </mirrors>
  </show>
  <show>
@@ -1474,7 +1266,6 @@
    <mirror>http://showrss.karmorra.info/feeds/157.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Project+Runway&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ProjectRunway/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=90</mirror>
   </mirrors>
  </show>
  <show>
@@ -1484,7 +1275,6 @@
    <mirror>http://showrss.karmorra.info/feeds/111.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Psych&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Psych/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=81</mirror>
   </mirrors>
  </show>
  <show>
@@ -1494,7 +1284,6 @@
    <mirror>http://showrss.karmorra.info/feeds/180.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Psychoville&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Psychoville/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=273</mirror>
   </mirrors>
  </show>
  <show>
@@ -1513,7 +1302,6 @@
    <mirror>http://showrss.karmorra.info/feeds/302.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Raising+Hope&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RaisingHope/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=325</mirror>
   </mirrors>
  </show>
  <show>
@@ -1531,7 +1319,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/118.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Rescue+Me&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=308</mirror>
   </mirrors>
  </show>
  <show>
@@ -1548,14 +1335,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/289.rss</mirror>
    <mirror>http://hamsterspit.com/rss/RizzoliandIsles/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=346</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Rob Dyrdek's Fantasy Factory</name>
-  <tvdbid>85038</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=314</mirror>
   </mirrors>
  </show>
  <show>
@@ -1565,7 +1344,6 @@
    <mirror>http://showrss.karmorra.info/feeds/83.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Robot+Chicken&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RobotChicken/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=152</mirror>
   </mirrors>
  </show>
  <show>
@@ -1575,7 +1353,6 @@
    <mirror>http://showrss.karmorra.info/feeds/279.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Rookie+Blue&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RookieBlue/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=297</mirror>
   </mirrors>
  </show>
  <show>
@@ -1585,7 +1362,6 @@
    <mirror>http://showrss.karmorra.info/feeds/163.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Royal+Pains&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RoyalPains/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=285</mirror>
   </mirrors>
  </show>
  <show>
@@ -1595,7 +1371,6 @@
    <mirror>http://showrss.karmorra.info/feeds/141.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Rules+Of+Engagement&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RulesofEngagement/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=228</mirror>
   </mirrors>
  </show>
  <show>
@@ -1630,7 +1405,6 @@
    <mirror>http://showrss.karmorra.info/feeds/91.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Saturday+Night+Live&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SaturdayNightLive/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=130</mirror>
   </mirrors>
  </show>
  <show>
@@ -1642,7 +1416,6 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Shameless+US&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Shameless/</mirror>
    <mirror>http://hamsterspit.com/rss/Shameless_US/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=248</mirror>
   </mirrors>
  </show>
  <show>
@@ -1670,7 +1443,6 @@
    <mirror>http://showrss.karmorra.info/feeds/58.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Skins&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Skins/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=134</mirror>
   </mirrors>
  </show>
  <show>
@@ -1680,7 +1452,6 @@
    <mirror>http://showrss.karmorra.info/feeds/92.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=So+You+Think+You+Can+Dance&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SoYouThinkYouCanDance/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=309</mirror>
   </mirrors>
  </show>
  <show>
@@ -1690,7 +1461,6 @@
    <mirror>http://showrss.karmorra.info/feeds/200.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Sons+of+Anarchy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SonsofAnarchy/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=108</mirror>
   </mirrors>
  </show>
  <show>
@@ -1700,7 +1470,6 @@
    <mirror>http://showrss.karmorra.info/feeds/60.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=South+Park&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SouthPark/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=11</mirror>
   </mirrors>
  </show>
  <show>
@@ -1753,7 +1522,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/61.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Star+Wars+The+Clone+Wars&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=22</mirror>
   </mirrors>
  </show>
  <show>
@@ -1769,7 +1537,6 @@
   <tvdbid>148581</tvdbid>
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Strike+Back&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=283</mirror>
   </mirrors>
  </show>
  <show>
@@ -1785,7 +1552,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/62.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Supernatural&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=25</mirror>
   </mirrors>
  </show>
  <show>
@@ -1794,7 +1560,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/90.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Survivor&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=115</mirror>
   </mirrors>
  </show>
  <show>
@@ -1822,7 +1587,6 @@
    <mirror>http://showrss.karmorra.info/feeds/122.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Amazing+Race&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmazingRace/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=58</mirror>
   </mirrors>
  </show>
  <show>
@@ -1831,7 +1595,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/172.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Apprentice&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=239</mirror>
   </mirrors>
  </show>
  <show>
@@ -1850,7 +1613,6 @@
    <mirror>http://showrss.karmorra.info/feeds/5.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Big+Bang+Theory&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BigBangTheory/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=13</mirror>
   </mirrors>
  </show>
  <show>
@@ -1886,7 +1648,6 @@
    <mirror>http://showrss.karmorra.info/feeds/224.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Cleveland+Show&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ClevelandShow/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=117</mirror>
   </mirrors>
  </show>
  <show>
@@ -1895,7 +1656,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/14.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Closer&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=341</mirror>
   </mirrors>
  </show>
  <show>
@@ -1940,7 +1700,6 @@
    <mirror>http://showrss.karmorra.info/feeds/288.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Glades&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Glades/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=319</mirror>
   </mirrors>
  </show>
  <show>
@@ -1950,7 +1709,6 @@
    <mirror>http://showrss.karmorra.info/feeds/208.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Good+Wife&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GoodWife/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=75</mirror>
   </mirrors>
  </show>
  <show>
@@ -1960,7 +1718,6 @@
    <mirror>http://showrss.karmorra.info/feeds/38.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+IT+Crowd&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ITCrowd/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=102</mirror>
   </mirrors>
  </show>
  <show>
@@ -1979,7 +1736,6 @@
    <mirror>http://showrss.karmorra.info/feeds/238.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+League&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/League/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=340</mirror>
   </mirrors>
  </show>
  <show>
@@ -1989,7 +1745,6 @@
    <mirror>http://showrss.karmorra.info/feeds/259.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Life+and+Times+of+Tim&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/LifeandTimesofTim/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=202</mirror>
   </mirrors>
  </show>
  <show>
@@ -2024,7 +1779,6 @@
    <mirror>http://showrss.karmorra.info/feeds/44.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Mentalist&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Mentalist/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=16</mirror>
   </mirrors>
  </show>
  <show>
@@ -2034,7 +1788,6 @@
    <mirror>http://showrss.karmorra.info/feeds/227.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Middle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Middle/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=207</mirror>
   </mirrors>
  </show>
  <show>
@@ -2053,7 +1806,6 @@
    <mirror>http://showrss.karmorra.info/feeds/50.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Office&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Office_US/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=96</mirror>
   </mirrors>
  </show>
  <show>
@@ -2072,7 +1824,6 @@
    <mirror>http://showrss.karmorra.info/feeds/256.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Ricky+Gervais+Show&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RickyGervaisShow/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=203</mirror>
   </mirrors>
  </show>
  <show>
@@ -2091,7 +1842,6 @@
    <mirror>http://showrss.karmorra.info/feeds/149.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Secret+Life+of+the+American+Teenager&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SecretLifeoftheAmericanTeenager/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=286</mirror>
   </mirrors>
  </show>
  <show>
@@ -2101,7 +1851,6 @@
    <mirror>http://showrss.karmorra.info/feeds/57.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Simpsons&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Simpsons/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=43</mirror>
   </mirrors>
  </show>
  <show>
@@ -2111,7 +1860,6 @@
    <mirror>http://showrss.karmorra.info/feeds/76.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Ultimate+Fighter&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UltimateFighter/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=266</mirror>
   </mirrors>
  </show>
  <show>
@@ -2130,7 +1878,6 @@
    <mirror>http://showrss.karmorra.info/feeds/205.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Vampire+Diaries&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/VampireDiaries/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=29</mirror>
   </mirrors>
  </show>
  <show>
@@ -2155,7 +1902,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/318.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Walking+Dead&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=343</mirror>
   </mirrors>
  </show>
  <show>
@@ -2165,7 +1911,6 @@
    <mirror>http://showrss.karmorra.info/feeds/197.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+X+Factor&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/XFactor/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=252</mirror>
   </mirrors>
  </show>
  <show>
@@ -2183,14 +1928,6 @@
    <mirror>http://showrss.karmorra.info/feeds/100.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Chef&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TopChef/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=175</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Top Chef Masters</name>
-  <tvdbid>98821</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=177</mirror>
   </mirrors>
  </show>
  <show>
@@ -2199,14 +1936,6 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/117.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Gear&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=258</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Top Shot</name>
-  <tvdbid>165841</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=293</mirror>
   </mirrors>
  </show>
  <show>
@@ -2216,7 +1945,6 @@
    <mirror>http://showrss.karmorra.info/feeds/201.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Torchwood&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Torchwood/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=303</mirror>
   </mirrors>
  </show>
  <show>
@@ -2233,7 +1961,6 @@
    <mirror>http://showrss.karmorra.info/feeds/268.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Treme&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Treme/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=123</mirror>
   </mirrors>
  </show>
  <show>
@@ -2243,7 +1970,6 @@
    <mirror>http://showrss.karmorra.info/feeds/79.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=True+Blood&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TrueBlood/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=46</mirror>
   </mirrors>
  </show>
  <show>
@@ -2253,7 +1979,6 @@
    <mirror>http://showrss.karmorra.info/feeds/63.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Two+and+a+Half+Men&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TwoandaHalfMen/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=85</mirror>
   </mirrors>
  </show>
  <show>
@@ -2263,7 +1988,6 @@
    <mirror>http://showrss.karmorra.info/feeds/264.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Ugly+Americans&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UglyAmericans/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=194</mirror>
   </mirrors>
  </show>
  <show>
@@ -2273,7 +1997,6 @@
    <mirror>http://showrss.karmorra.info/feeds/65.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Underbelly&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Underbelly/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=125</mirror>
   </mirrors>
  </show>
  <show>
@@ -2283,7 +2006,6 @@
    <mirror>http://showrss.karmorra.info/feeds/258.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Undercover+Boss+US&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UndercoverBoss/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=131</mirror>
   </mirrors>
  </show>
  <show>
@@ -2300,7 +2022,6 @@
    <mirror>http://showrss.karmorra.info/feeds/182.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Warehouse+13&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Warehouse13/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=107</mirror>
   </mirrors>
  </show>
  <show>
@@ -2318,7 +2039,6 @@
    <mirror>http://showrss.karmorra.info/feeds/68.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Weeds&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Weeds/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=87</mirror>
   </mirrors>
  </show>
  <show>
@@ -2328,7 +2048,6 @@
    <mirror>http://showrss.karmorra.info/feeds/236.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=White+Collar&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/WhiteCollar/</mirror>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=305</mirror>
   </mirrors>
  </show>
  <show>
@@ -2353,13 +2072,6 @@
   <tvdbid>80708</tvdbid>
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Wired+Science&amp;show_name_exact=true&amp;mode=rss</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Wizards of Waverly Place</name>
-  <tvdbid>80726</tvdbid>
-  <mirrors>
-   <mirror>http://bitsnoop.com/tvrss.xml?shows=88</mirror>
   </mirrors>
  </show>
  <show>

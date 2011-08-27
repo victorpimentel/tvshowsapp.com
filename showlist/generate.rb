@@ -570,7 +570,7 @@ index.loadPreviousData
 #index.parseShowRSS
 #index.parseEZRSS
 #index.parseHamsterspit
-index.parseBitSnoop
+#index.parseBitSnoop
 index.addTPBCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS
