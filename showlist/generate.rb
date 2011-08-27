@@ -15,9 +15,7 @@ BITSNOOP_LIST = "http://bitsnoop.com/tvrss/"
 BITSNOOP_SHOW = "http://bitsnoop.com/tvrss.xml?shows={id}"
 TVDB_SEARCH = "http://www.thetvdb.com/api/GetSeries.php?seriesname={name}"
 TVDB_DETAILS = "http://www.thetvdb.com/data/series/{id}/en.xml"
-YAHOO_PIPE = ["http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=1e5e5ce05d10f37a30dcc45cd32a01fc&_render=rss",
-              "http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=e2bcfec671b35e60bef9c40f7e962e73&_render=rss",
-              "http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=55dec363b8abf012f46a316a55363bc0&_render=rss"]
+YAHOO_PIPE_BRIDGE = "http://tvshowsapp.com/feed/?filter={name}&userName={user}"
 
 FIX_SHOW = {
   "30 Seconds AU" => "30 Seconds",
@@ -256,9 +254,23 @@ TPB_CORRECTIONS = {
 }
 
 TPB_USER = {
+  "Burn Notice" => "vtv",
   "Shameless (US)" => "vtv",
   "The Daily Show with Jon Stewart" => "vtv",
-  "The Colbert Report" => "vtv"
+  "The Colbert Report" => "vtv",
+  "Torchwood" => "vtv",
+  "Rizzoli & Isles" => "vtv",
+  "New Tricks" => "vtv",
+  "Web Therapy" => "vtv",
+  "Alphas" => "vtv",
+  "The Closer" => "vtv",
+  "Warehouse 13" => "vtv",
+  "Flashpoint" => "vtv",
+  "Suits" => "vtv",
+  "Wilfred (US)" => "vtv",
+  "Franklin & Bash" => "vtv",
+  "Real Time with Bill Maher" => "vtv",
+  "Chaos" => "vtv"
 }
 
 class TVShowsIndex
@@ -431,13 +443,12 @@ class TVShowsIndex
     end
   end
 
-  def addTPBCustomFeeds
+  def addCustomFeeds
     # Each show add the yahoo pipe feed for eztv
     @shows.each do |id, show|
-      name = TPB_CORRECTIONS[show.name] || show.name + " eztv"
       user = TPB_USER[show.name] || "eztv"
-      pipe = YAHOO_PIPE[id.to_i % 3]
-      show.mirrors |= [pipe.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
+      name = TPB_CORRECTIONS[show.name] || show.name + " " + TPB_USER[show.name]
+      show.mirrors |= [YAHOO_PIPE_BRIDGE.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
     end
   end
 
@@ -571,6 +582,6 @@ index.loadPreviousData
 #index.parseEZRSS
 #index.parseHamsterspit
 #index.parseBitSnoop
-index.addTPBCustomFeeds
+index.addCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS

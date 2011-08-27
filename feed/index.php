@@ -8,7 +8,7 @@ $cachetime = 6 * 60 * 60; // 6 hours
 if ($_SERVER['QUERY_STRING']!='') {
   $cachefile = dirname($_SERVER['SCRIPT_FILENAME']).'/cache/cache_'.md5($_SERVER['QUERY_STRING']).".xml";
 } else {
-  print_r($_SERVER);
+  echo "Nothing to see here";
   exit;
 }
 
