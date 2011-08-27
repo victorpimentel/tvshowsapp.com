@@ -13,6 +13,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=30%20Rock%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=57</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>30 Seconds</name>
@@ -27,6 +30,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=90210%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=49</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Against the Wall</name>
@@ -39,7 +45,7 @@
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Alphas%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Alphas%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -48,6 +54,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=American%20Dad%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=60</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>American Idol</name>
@@ -62,6 +71,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Americas%20Next%20Top%20Model%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=59</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>An Idiot Abroad</name>
@@ -85,11 +97,41 @@
   </mirrors>
  </show>
  <show>
+  <name>Are We There Yet?</name>
+  <tvdbid>161491</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Are%20We%20There%20Yet?&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=294</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Army Wives</name>
+  <tvdbid>80231</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Army%20Wives&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=122</mirror>
+  </mirrors2>
+ </show>
+ <show>
   <name>Awkward.</name>
   <tvdbid>249882</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Awkward.%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+ </show>
+ <show>
+  <name>Batman: The Brave &amp; the Bold</name>
+  <tvdbid>82824</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Batman:%20The%20Brave%20the%20Bold&amp;userName=despo1ler</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=157</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Beaver Falls</name>
@@ -111,6 +153,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Erica%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=253</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Being Human</name>
@@ -139,6 +184,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Blue%20Bloods%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=336</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Blue Mountain State</name>
+  <tvdbid>134511</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Blue%20Mountain%20State&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=349</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Boardwalk Empire</name>
@@ -146,13 +204,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Boardwalk%20Empire%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=335</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Bob's Burgers</name>
   <tvdbid>194031</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Bob's%20Burgers%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bobs%20Burgers%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=357</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Body of Proof</name>
@@ -160,6 +224,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Body%20of%20Proof%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=352</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Bones</name>
@@ -167,6 +234,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Bones%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=33</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Bored to Death</name>
@@ -188,12 +258,15 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Breaking%20Bad%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=66</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Breaking In</name>
   <tvdbid>206751</tvdbid>
   <mirrors>
-    <mirror>http://tvshowsapp.com/feed/?filter=Breaking%20In%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Breaking%20In%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -202,6 +275,16 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Breakout%20Kings%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+ </show>
+ <show>
+  <name>Britain's Got Talent</name>
+  <tvdbid>80727</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Britains%20Got%20Talent&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=210</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Brothers (2009)</name>
@@ -214,8 +297,11 @@
   <name>Burn Notice</name>
   <tvdbid>80270</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Burn%20Notice%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Burn%20Notice%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=94</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>CSI: Crime Scene Investigation</name>
@@ -223,6 +309,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=CSI%20-miami%20-ny%20-new%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=70</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>CSI: Miami</name>
@@ -230,13 +319,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20Miami%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=68</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>CSI: NY</name>
   <tvdbid>73696</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20New%20York%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=CSI%20New%20York%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=69</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Californication</name>
@@ -244,6 +339,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Californication%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=118</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Castle (2009)</name>
@@ -251,12 +349,25 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Castle%20(2009)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=97</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Celebrity Rehab with Dr. Drew</name>
+  <tvdbid>81230</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Celebrity%20Rehab%20with%20Dr.%20Drew&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=261</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Chaos</name>
   <tvdbid>193801</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Chaos%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Chaos%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -272,6 +383,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Chuck%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=112</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Combat Hospital</name>
@@ -293,6 +407,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Community%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=240</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Conan (2010)</name>
@@ -307,6 +424,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Cops%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=192</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Cougar Town</name>
@@ -314,6 +434,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Cougar%20Town%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=98</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Covert Affairs</name>
@@ -321,6 +444,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Covert%20Affairs%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=320</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Craig Ferguson</name>
@@ -335,6 +461,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Criminal%20Minds%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=39</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Curb Your Enthusiasm</name>
@@ -342,13 +471,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Curb%20Your%20Enthusiasm%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=321</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Damages</name>
   <tvdbid>80367</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Damages%20fredyr&amp;userName=fredyr</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Damages&amp;userName=fredyr</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=141</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Dan For Mayor</name>
@@ -363,6 +498,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Dancing%20With%20The%20Stars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=133</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Deadliest Catch</name>
@@ -370,6 +508,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Deadliest%20Catch%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=225</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Desperate Housewives</name>
@@ -377,6 +518,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Desperate%20Housewives%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=21</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Dexter</name>
@@ -384,6 +528,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Dexter%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=19</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Dirty Jobs</name>
@@ -391,6 +538,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Dirty%20Jobs%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=287</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Doctor Who (2005)</name>
@@ -398,6 +548,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20(2005)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=209</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Doctor Who Confidential</name>
@@ -405,6 +558,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Doctor%20Who%20Confidential%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=208</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Drop Dead Diva</name>
@@ -412,6 +568,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Drop%20Dead%20Diva%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=291</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Eastbound &amp; Down</name>
@@ -426,6 +585,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Entourage%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=72</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Episodes</name>
@@ -440,6 +602,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Eureka%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=109</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Eurovision Song Contest</name>
@@ -468,6 +633,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Family%20Guy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=37</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Fifth Gear</name>
@@ -480,14 +648,27 @@
   <name>Flashpoint</name>
   <tvdbid>82438</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Flashpoint%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Flashpoint%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=322</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Foyle's War</name>
+  <tvdbid>78837</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Foyles%20War&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=216</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Franklin &amp; Bash</name>
   <tvdbid>164041</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Franklin%20Bash%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Franklin%20Bash%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -503,6 +684,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Fringe%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=30</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Futurama</name>
@@ -510,6 +694,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Futurama%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=142</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Game of Thrones</name>
@@ -517,6 +704,39 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Game%20of%20Thrones%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=360</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Gene Simmons: Family Jewels</name>
+  <tvdbid>79406</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Gene%20Simmons:%20Family%20Jewels&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=213</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Ghost Hunters</name>
+  <tvdbid>77949</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ghost%20Hunters%20-International%20avi&amp;userName=trialNerror</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=137</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Ghost Hunters International</name>
+  <tvdbid>81120</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ghost%20Hunters%20International&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=199</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Glee</name>
@@ -524,6 +744,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Glee%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=74</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Gossip Girl</name>
@@ -531,13 +754,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Gossip%20Girl%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=35</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Grey's Anatomy</name>
   <tvdbid>73762</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Grey's%20Anatomy%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Greys%20Anatomy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=24</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Happily Divorced</name>
@@ -557,8 +786,11 @@
   <name>Harry's Law</name>
   <tvdbid>163581</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Harry's%20Law%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Harrys%20Law%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=354</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Haven</name>
@@ -573,6 +805,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hawaii%20Five-0%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=332</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Hawthorne</name>
@@ -580,13 +815,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hawthorne%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=296</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Hell's Kitchen</name>
   <tvdbid>74897</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Hell's%20Kitchen%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Hells%20Kitchen%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=299</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Hiccups</name>
@@ -594,6 +835,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hiccups%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=230</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Hot in Cleveland</name>
@@ -601,6 +845,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hot%20in%20Cleveland%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=306</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>House</name>
@@ -608,13 +855,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=House%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=23</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>How I Met Your Mother</name>
   <tvdbid>75760</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=How%20I%20Met%20Your%20Mother%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=How%20I%20Met%20Your%20Mother%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=47</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>How to Make It in America</name>
@@ -636,6 +889,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hung%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=99</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Hustle</name>
@@ -643,6 +899,16 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hustle%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+ </show>
+ <show>
+  <name>Ideal</name>
+  <tvdbid>74345</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ideal&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=282</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>In Harms Way</name>
@@ -657,6 +923,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=In%20Plain%20Sight%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=174</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>InSecurity</name>
@@ -666,11 +935,24 @@
   </mirrors>
  </show>
  <show>
+  <name>Iron Chef America</name>
+  <tvdbid>74325</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Iron%20Chef%20America&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=176</mirror>
+  </mirrors2>
+ </show>
+ <show>
   <name>It's Always Sunny in Philadelphia</name>
   <tvdbid>75805</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=It's%20Always%20Sunny%20in%20Philadelphia%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Its%20Always%20Sunny%20in%20Philadelphia%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=323</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Jay Leno</name>
@@ -680,11 +962,24 @@
   </mirrors>
  </show>
  <show>
+  <name>Jersey Shore</name>
+  <tvdbid>127351</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Jersey%20Shore&amp;userName=scenebalance</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=315</mirror>
+  </mirrors2>
+ </show>
+ <show>
   <name>Justified</name>
   <tvdbid>134241</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Justified%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=274</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>King (2011)</name>
@@ -699,6 +994,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Kitchen%20Nightmares%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=238</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Last Comic Standing</name>
@@ -734,6 +1032,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Leverage%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=288</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Little Mosque on the Prairie</name>
@@ -748,6 +1049,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Lost%20Girl%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=344</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Louie (2010)</name>
@@ -762,6 +1066,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Luther%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=278</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>MTV Movie Awards</name>
@@ -790,6 +1097,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Mad%20Men%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=316</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Make It or Break It</name>
@@ -797,6 +1107,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Make%20It%20or%20Break%20It%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=300</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Man vs. Wild</name>
@@ -825,6 +1138,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Memphis%20Beat%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=317</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Merlin</name>
@@ -832,6 +1148,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Merlin%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=95</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Metalocalypse</name>
+  <tvdbid>79563</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Metalocalypse&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=169</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Midsomer Murders</name>
@@ -846,6 +1175,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Mike%20Molly%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=339</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Misfits</name>
@@ -867,6 +1199,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Modern%20Family%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=77</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Monster Quest</name>
@@ -881,6 +1216,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Mythbusters%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=14</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>NCIS</name>
@@ -888,6 +1226,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=NCIS%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=31</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>NCIS: Los Angeles</name>
@@ -895,6 +1236,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=NCIS:%20Los%20Angeles%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=32</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>NOVA scienceNOW</name>
@@ -921,7 +1265,7 @@
   <name>New Tricks</name>
   <tvdbid>78823</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=New%20Tricks%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=New%20Tricks%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -937,6 +1281,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Nikita%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=333</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Nurse Jackie</name>
@@ -944,6 +1291,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Nurse%20Jackie%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=231</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>One Tree Hill</name>
@@ -951,6 +1301,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=One%20Tree%20Hill%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=42</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Onion News Network</name>
@@ -958,6 +1311,16 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Onion%20News%20Network%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+ </show>
+ <show>
+  <name>Outnumbered</name>
+  <tvdbid>80592</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Outnumbered&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=138</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Packed To The Rafters</name>
@@ -972,6 +1335,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Parenthood%20(2010)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=132</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Parks and Recreation</name>
@@ -979,6 +1345,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Parks%20and%20Recreation%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=250</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Paul Merton In Europe</name>
@@ -1014,6 +1383,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Pretty%20Little%20Liars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=295</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Primeval</name>
@@ -1028,6 +1400,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Private%20Practice%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=44</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Project Runway</name>
@@ -1035,6 +1410,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Project%20Runway%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=90</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Psych</name>
@@ -1042,6 +1420,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Psych%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=81</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Psychoville</name>
@@ -1049,6 +1430,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Psychoville%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=273</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>QI</name>
@@ -1063,12 +1447,15 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Raising%20Hope%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=325</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Real Time with Bill Maher</name>
   <tvdbid>72231</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Real%20Time%20with%20Bill%20Maher%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Real%20Time%20with%20Bill%20Maher%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1077,6 +1464,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rescue%20Me%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=308</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Rev</name>
@@ -1089,8 +1479,21 @@
   <name>Rizzoli &amp; Isles</name>
   <tvdbid>161461</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Rizzoli%20Isles%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Rizzoli%20Isles%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=346</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Rob Dyrdek's Fantasy Factory</name>
+  <tvdbid>85038</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Rob%20Dyrdeks%20Fantasy%20Factory&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=314</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Robot Chicken</name>
@@ -1098,6 +1501,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Robot%20Chicken%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=152</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Rookie Blue</name>
@@ -1105,6 +1511,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rookie%20Blue%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=297</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Royal Pains</name>
@@ -1112,6 +1521,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Royal%20Pains%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=285</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Rules of Engagement</name>
@@ -1119,6 +1531,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rules%20of%20Engagement%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=228</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Runs House</name>
@@ -1147,6 +1562,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Saturday%20Night%20Live%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=130</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Shameless (US)</name>
@@ -1154,6 +1572,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=248</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Sherlock</name>
@@ -1173,8 +1594,11 @@
   <name>Skins</name>
   <tvdbid>79773</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Skins%20-US&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Skins%20-US%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=134</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>So You Think You Can Dance</name>
@@ -1182,6 +1606,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=So%20You%20Think%20You%20Can%20Dance%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=309</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Sons of Anarchy</name>
@@ -1189,6 +1616,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Sons%20of%20Anarchy%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=108</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>South Park</name>
@@ -1196,6 +1626,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=South%20Park%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=11</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Southland</name>
@@ -1238,6 +1671,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Star%20Wars:%20The%20Clone%20Wars%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=22</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>State of Georgia</name>
@@ -1252,12 +1688,15 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Strike%20Back%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=283</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Suits</name>
   <tvdbid>247808</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Suits%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Suits%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1266,6 +1705,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Supernatural%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=25</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Survivor</name>
@@ -1273,6 +1715,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Survivor%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=115</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Switched at Birth</name>
@@ -1294,6 +1739,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=58</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Apprentice</name>
@@ -1301,6 +1749,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Apprentice%20-UK%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=239</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Apprentice UK</name>
@@ -1315,6 +1766,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Big%20Bang%20Theory%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=13</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Big C</name>
@@ -1343,13 +1797,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Cleveland%20Show%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=117</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Closer</name>
   <tvdbid>74875</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Closer%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Closer%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=341</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Colbert Report</name>
@@ -1385,6 +1845,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Glades%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=319</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Good Wife</name>
@@ -1392,6 +1855,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Good%20Wife%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=75</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The IT Crowd</name>
@@ -1399,6 +1865,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20IT%20Crowd%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=102</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Killing (2011)</name>
@@ -1413,6 +1882,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20League%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=340</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Life &amp; Times of Tim</name>
@@ -1420,6 +1892,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Life%20Times%20of%20Tim%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=202</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Listener</name>
@@ -1448,6 +1923,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Mentalist%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=16</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Middle</name>
@@ -1455,6 +1933,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Middle%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=207</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Nine Lives of Chloe King</name>
@@ -1469,6 +1950,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Office%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=96</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Protector</name>
@@ -1483,6 +1967,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Ricky%20Gervais%20Show%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=203</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Sarah Jane Adventures</name>
@@ -1497,6 +1984,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Secret%20Life%20of%20the%20American%20Teenager%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=286</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Simpsons</name>
@@ -1504,6 +1994,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Simpsons%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=43</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Ultimate Fighter</name>
@@ -1511,6 +2004,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Ultimate%20Fighter%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=266</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Universe</name>
@@ -1525,6 +2021,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Vampire%20Diaries%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=29</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The Venture Bros</name>
@@ -1546,6 +2045,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Walking%20Dead%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=343</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>The X Factor</name>
@@ -1553,6 +2055,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20X%20Factor%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=252</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Thundercats (2011)</name>
@@ -1567,6 +2072,19 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=175</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Top Chef Masters</name>
+  <tvdbid>98821</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20Masters&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=177</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Top Gear</name>
@@ -1574,13 +2092,29 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=258</mirror>
+  </mirrors2>
+ </show>
+ <show>
+  <name>Top Shot</name>
+  <tvdbid>165841</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Shot&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=293</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Torchwood</name>
   <tvdbid>79511</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Torchwood%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Torchwood%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=303</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>TorrentFreak TV</name>
@@ -1595,6 +2129,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Treme%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=123</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>True Blood</name>
@@ -1602,6 +2139,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=True%20Blood%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=46</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Two and a Half Men</name>
@@ -1609,6 +2149,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Two%20and%20a%20Half%20Men%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=85</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Ugly Americans</name>
@@ -1616,6 +2159,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Ugly%20Americans%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=194</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Underbelly</name>
@@ -1623,6 +2169,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Underbelly%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=125</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Undercover Boss (US)</name>
@@ -1630,6 +2179,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Undercover%20Boss%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=131</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Upstairs, Downstairs (2010)</name>
@@ -1642,14 +2194,17 @@
   <name>Warehouse 13</name>
   <tvdbid>84676</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Warehouse%2013%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Warehouse%2013%20vtv&amp;userName=vtv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=107</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Web Therapy</name>
   <tvdbid>144201</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Web%20Therapy%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Web%20Therapy%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1658,6 +2213,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Weeds%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=87</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>White Collar</name>
@@ -1665,6 +2223,9 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=White%20Collar%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=305</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Who Do You Think You Are (US)</name>
@@ -1677,7 +2238,7 @@
   <name>Wilfred (US)</name>
   <tvdbid>239761</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1686,6 +2247,16 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Wired%20Science%20eztv&amp;userName=eztv</mirror>
   </mirrors>
+ </show>
+ <show>
+  <name>Wizards of Waverly Place</name>
+  <tvdbid>80726</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wizards%20of%20Waverly%20Place&amp;userName=TvTeam</mirror>
+  </mirrors>
+  <mirrors2>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=88</mirror>
+  </mirrors2>
  </show>
  <show>
   <name>Workaholics</name>

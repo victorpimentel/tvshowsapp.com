@@ -43,7 +43,6 @@ FIX_SHOW = {
   "NCIS LA" => "NCIS: Los Angeles",
   "Parenthood" => "Parenthood (2010)",
   "Parks & Recreation" => "Parks and Recreation",
-  "Poirot (Agatha Christie's)" => "Agatha Christie's Poirot",
   "Shameless" => "Shameless (US)",
   "Shameless (UK)" => "Shameless (US)",
   "Shameless US" => "Shameless (US)",
@@ -128,6 +127,7 @@ FIX_SHOW = {
   "Get Lost" => "REMOVE FROM THE LIST",
   "The Girls Next Door" => "REMOVE FROM THE LIST",
   "Glamour Girls" => "REMOVE FROM THE LIST",
+  "Good Eats" => "REMOVE FROM THE LIST",
   "Good Game" => "REMOVE FROM THE LIST",
   "Good Luck Charlie" => "REMOVE FROM THE LIST",
   "The Guard" => "REMOVE FROM THE LIST",
@@ -191,9 +191,11 @@ FIX_SHOW = {
   "Pen & Teller Fool Us" => "REMOVE FROM THE LIST",
   "Penn And Teller Fool Us" => "REMOVE FROM THE LIST",
   "Person of Interest" => "REMOVE FROM THE LIST",
+  "Pioneer One" => "REMOVE FROM THE LIST",
   "Phenomenon" => "REMOVE FROM THE LIST",
   "Phineas & Ferb" => "REMOVE FROM THE LIST",
   "Phoenix Mars Mission Ashes to Ice" => "REMOVE FROM THE LIST",
+  "Poirot (Agatha Christie's)" => "REMOVE FROM THE LIST",
   "The Poker Star" => "REMOVE FROM THE LIST",
   "Poker Superstars" => "REMOVE FROM THE LIST",
   "Pretty Handsome" => "REMOVE FROM THE LIST",
@@ -241,16 +243,17 @@ FIX_SHOW = {
 }
 
 TPB_CORRECTIONS = {
-  "The Apprentice" => "The Apprentice -UK eztv",
-  "Being Human" => "Being Human -US eztv",
-  "Big Brother" => "Big Brother US eztv",
-  "CSI: Crime Scene Investigation" => "CSI -miami -ny -new eztv",
-  "CSI: NY" => "CSI New York eztv",
-  "Louie (2010)" => "Louie eztv",
+  "The Apprentice" => "The Apprentice -UK",
+  "Being Human" => "Being Human -US",
+  "Big Brother" => "Big Brother US",
+  "Britain's Got Talent" => "Britains Got Talent",
+  "CSI: Crime Scene Investigation" => "CSI -miami -ny -new",
+  "CSI: NY" => "CSI New York",
+  "Ghost Hunters" => "Ghost Hunters -International avi",
+  "Louie (2010)" => "Louie",
   "The Daily Show with Jon Stewart" => "The Daily Show",
-  "The Colbert Report" => "The Colbert Report",
-  "King" => "King 2HD eztv",
-  "Mad" => "REMOVE FROM THE LIST eztv",
+  "King" => "King 2HD",
+  "Mad" => "REMOVE FROM THE LIST",
   "Skins" => "Skins -US",
   "Shameless (US)" => "Shameless"
 }
@@ -266,6 +269,7 @@ TPB_USER = {
   "Web Therapy" => "vtv",
   "Alphas" => "vtv",
   "The Closer" => "vtv",
+  "How I Met Your Mother" => "vtv",
   "Warehouse 13" => "vtv",
   "Flashpoint" => "vtv",
   "Suits" => "vtv",
@@ -273,7 +277,26 @@ TPB_USER = {
   "Franklin & Bash" => "vtv",
   "Real Time with Bill Maher" => "vtv",
   "Chaos" => "vtv",
-  "Damages" => "fredyr"
+  "Damages" => "fredyr",
+  "Batman: The Brave & the Bold" => "despo1ler",
+  "Ghost Hunters" => "trialNerror",
+  "Jersey Shore" => "scenebalance",
+  "Are We There Yet?" => "TvTeam",
+  "Army Wives" => "TvTeam",
+  "Blue Mountain State" => "TvTeam",
+  "Britain's Got Talent" => "TvTeam",
+  "Celebrity Rehab with Dr. Drew" => "TvTeam",
+  "Foyle's War" => "TvTeam",
+  "Gene Simmons: Family Jewels" => "TvTeam",
+  "Ghost Hunters International" => "TvTeam",
+  "Ideal" => "TvTeam",
+  "Iron Chef America" => "TvTeam",
+  "Metalocalypse" => "TvTeam",
+  "Outnumbered" => "TvTeam",
+  "Rob Dyrdek's Fantasy Factory" => "TvTeam",
+  "Top Chef Masters" => "TvTeam",
+  "Top Shot" => "TvTeam",
+  "Wizards of Waverly Place" => "TvTeam"
 }
 
 class TVShowsIndex
@@ -450,8 +473,9 @@ class TVShowsIndex
     # Each show add the yahoo pipe feed for eztv
     @shows.each do |id, show|
       user = TPB_USER[show.name] || "eztv"
-      name = TPB_CORRECTIONS[show.name] || show.name + " " + TPB_USER[show.name]
-      show.mirrors |= [YAHOO_PIPE_BRIDGE.sub("{name}", name.gsub(/&/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
+      name = TPB_CORRECTIONS[show.name] || show.name
+      name = name + " " + user if user == "eztv" || user == "vtv"
+      show.mirrors |= [YAHOO_PIPE_BRIDGE.sub("{name}", name.gsub(/[&']/, "")).sub("{user}", user).gsub(/\s+/, "%20")]
     end
   end
 
@@ -469,7 +493,14 @@ class TVShowsIndex
           xml.tvdbid show.tvdbID
           xml.mirrors do
             show.mirrors.each do |mirror|
-              xml.mirror mirror
+              xml.mirror mirror unless mirror =~ /bitsnoop/
+            end
+          end
+          if show.mirrors.select{|m| m =~ /bitsnoop/}.size > 0
+            xml.mirrors2 do
+              show.mirrors.each do |mirror|
+                xml.mirror mirror if mirror =~ /bitsnoop/
+              end
             end
           end
         end
@@ -584,7 +615,7 @@ index.loadPreviousData
 #index.parseShowRSS
 #index.parseEZRSS
 #index.parseHamsterspit
-#index.parseBitSnoop
+index.parseBitSnoop
 index.addCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS
