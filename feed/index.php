@@ -1,5 +1,7 @@
 <?php
 
+header('Content-Type: application/rss+xml; charset=ISO-8859-1');
+
 ob_start();   // start the output buffer
 
 $cachetime = 6 * 60 * 60; // 6 hours
