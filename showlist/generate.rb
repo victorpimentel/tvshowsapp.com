@@ -272,7 +272,8 @@ TPB_USER = {
   "Wilfred (US)" => "vtv",
   "Franklin & Bash" => "vtv",
   "Real Time with Bill Maher" => "vtv",
-  "Chaos" => "vtv"
+  "Chaos" => "vtv",
+  "Damages" => "fredyr"
 }
 
 class TVShowsIndex

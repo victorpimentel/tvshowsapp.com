@@ -214,7 +214,7 @@
   <name>CSI: Crime Scene Investigation</name>
   <tvdbid>72546</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20Crime%20Scene%20Investigation%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=CSI%20-miami%20-ny%20-new%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -228,7 +228,7 @@
   <name>CSI: NY</name>
   <tvdbid>73696</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20NY%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=CSI:%20New%20York%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -340,7 +340,7 @@
   <name>Damages</name>
   <tvdbid>80367</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Damages%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Damages%20fredyr&amp;userName=fredyr</mirror>
   </mirrors>
  </show>
  <show>
