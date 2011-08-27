@@ -11,6 +11,8 @@ EZRSS_LIST = "http://ezrss.it/shows/"
 EZRSS_SHOW = "http://ezrss.it/search/index.php?show_name={name}&show_name_exact=true&mode=rss"
 HAMSTER_LIST = "http://hamsterspit.com/shows/"
 HAMSTER_SHOW = "http://hamsterspit.com{id}"
+BITSNOOP_LIST = "http://bitsnoop.com/tvrss/"
+BITSNOOP_SHOW = "http://bitsnoop.com/tvrss.xml?shows={id}"
 TVDB_SEARCH = "http://www.thetvdb.com/api/GetSeries.php?seriesname={name}"
 TVDB_DETAILS = "http://www.thetvdb.com/data/series/{id}/en.xml"
 YAHOO_PIPE = ["http://pipes.yahoo.com/pipes/pipe.run?filter={name}&userName={user}&_id=1e5e5ce05d10f37a30dcc45cd32a01fc&_render=rss",
@@ -25,21 +27,32 @@ FIX_SHOW = {
   "Brothers 2009" => "Brothers (2009)",
   "Castle" => "Castle (2009)",
   "Conan" => "Conan (2010)",
+  "COPS" => "Cops",
+  "CSI" => "CSI: Crime Scene Investigation",
   "Doctor Who" => "Doctor Who (2005)",
   "David Letterman" => "Late Show with David Letterman",
   "Hells Kitchen" => "Hell's Kitchen",
   "Hells Kitchen US" => "Hell's Kitchen",
   "Hell's Kitchen (US)" =>  "Hell's Kitchen",
+  "House M.D." => "House",
+  "House, M.D." => "House",
+  "Iron Chef America: The Series" => "Iron Chef America",
   "King" => "King (2011)",
   "Love Bites" => "Love Bites (2011)",
   "Louie" => "Louie (2010)",
   "MonsterQuest" => "Monster Quest",
+  "Navy NCIS: Naval Criminal Investigative Service" => "NCIS",
+  "NCIS LA" => "NCIS: Los Angeles",
   "Parenthood" => "Parenthood (2010)",
   "Parks & Recreation" => "Parks and Recreation",
+  "Poirot (Agatha Christie's)" => "Agatha Christie's Poirot",
   "Shameless" => "Shameless (US)",
   "Shameless (UK)" => "Shameless (US)",
   "Shameless US" => "Shameless (US)",
   "Spicks & Specks" => "Spicks and Specks",
+  "Star Wars The Clone Wars 2008" => "Star Wars: The Clone Wars",
+  "Star Wars: Clone Wars" => "Star Wars: The Clone Wars",
+  "Star Wars: The Clone Wars (2008)" => "Star Wars: The Clone Wars",
   "Teen Wolf (2011)" => "Teen Wolf",
   "The Office" => "The Office (US)",
   "The Daily Show" => "The Daily Show with Jon Stewart",
@@ -69,6 +82,7 @@ FIX_SHOW = {
   "Big Brother US" => "REMOVE FROM THE LIST",
   "Big Brother Uk" => "REMOVE FROM THE LIST",
   "The Bachelor" => "REMOVE FROM THE LIST",
+  "The Backyardigans" => "REMOVE FROM THE LIST",
   "Bad Universe" => "REMOVE FROM THE LIST",
   "BBC This World" => "REMOVE FROM THE LIST",
   "BET Hip Hop Awards" => "REMOVE FROM THE LIST",
@@ -107,14 +121,17 @@ FIX_SHOW = {
   "Early Renaissance Painting" => "REMOVE FROM THE LIST",
   "Extreme Makeover Home Edition" => "REMOVE FROM THE LIST",
   "Factory" => "REMOVE FROM THE LIST",
+  "The Fairly OddParents" => "REMOVE FROM THE LIST",
   "The Family" => "REMOVE FROM THE LIST",
   "Flash Gordon" => "REMOVE FROM THE LIST",
   "Frank TV" => "REMOVE FROM THE LIST",
+  "Gangland" => "REMOVE FROM THE LIST",
   "Gene Simmons Family Jewels" => "REMOVE FROM THE LIST",
   "Get Lost" => "REMOVE FROM THE LIST",
   "The Girls Next Door" => "REMOVE FROM THE LIST",
   "Glamour Girls" => "REMOVE FROM THE LIST",
   "Good Game" => "REMOVE FROM THE LIST",
+  "Good Luck Charlie" => "REMOVE FROM THE LIST",
   "The Guard" => "REMOVE FROM THE LIST",
   "Halfway Home" => "REMOVE FROM THE LIST",
   "The Hard Times of RJ Berger" => "REMOVE FROM THE LIST",
@@ -124,6 +141,7 @@ FIX_SHOW = {
   "How Stuff Works" => "REMOVE FROM THE LIST",
   "How To Look Good Naked" => "REMOVE FROM THE LIST",
   "Hows Your News" => "REMOVE FROM THE LIST",
+  "iCarly" => "REMOVE FROM THE LIST",
   "In Hamrs Way" => "REMOVE FROM THE LIST",
   "The Increasingly Poor Decisions of Todd Margaret" => "REMOVE FROM THE LIST",
   "Inked" => "REMOVE FROM THE LIST",
@@ -171,10 +189,12 @@ FIX_SHOW = {
   "Paris Hilton British Best Friend" => "REMOVE FROM THE LIST",
   "Paris Hiltons British Best Friend" => "REMOVE FROM THE LIST",
   "The Penguins Of Madagascar" => "REMOVE FROM THE LIST",
+  "The Penguins of Madagascar" => "REMOVE FROM THE LIST",
   "Pen & Teller Fool Us" => "REMOVE FROM THE LIST",
   "Penn And Teller Fool Us" => "REMOVE FROM THE LIST",
   "Person of Interest" => "REMOVE FROM THE LIST",
   "Phenomenon" => "REMOVE FROM THE LIST",
+  "Phineas & Ferb" => "REMOVE FROM THE LIST",
   "Phoenix Mars Mission Ashes to Ice" => "REMOVE FROM THE LIST",
   "The Poker Star" => "REMOVE FROM THE LIST",
   "Poker Superstars" => "REMOVE FROM THE LIST",
@@ -182,6 +202,9 @@ FIX_SHOW = {
   "The Price is Right" => "REMOVE FROM THE LIST",
   "Professional Poker Tour" => "REMOVE FROM THE LIST",
   "Prototype This" => "REMOVE FROM THE LIST",
+  "Project Catwalk" => "REMOVE FROM THE LIST",
+  "Project Runway Australia" => "REMOVE FROM THE LIST",
+  "Project Runway Canada" => "REMOVE FROM THE LIST",
   "Pulse" => "REMOVE FROM THE LIST",
   "QI XL" => "REMOVE FROM THE LIST",
   "Reagan" => "REMOVE FROM THE LIST",
@@ -200,6 +223,9 @@ FIX_SHOW = {
   "Snapped" => "REMOVE FROM THE LIST",
   "Snoop Doggs Father Hood" => "REMOVE FROM THE LIST",
   "Somebodies" => "REMOVE FROM THE LIST",
+  "So You Think You Can Dance (UK)" => "REMOVE FROM THE LIST",
+  "So You Think You Can Dance Canada" => "REMOVE FROM THE LIST",
+  "SpongeBob SquarePants" => "REMOVE FROM THE LIST",
   "Street Customs" => "REMOVE FROM THE LIST",
   "Tell Me You Love Me" => "REMOVE FROM THE LIST",
   "Things We Love To Hate" => "REMOVE FROM THE LIST",
@@ -365,6 +391,27 @@ class TVShowsIndex
     end
   end
 
+  def parseBitSnoop
+    # Parse the ShowRSS page
+    doc = Nokogiri::HTML(open(BITSNOOP_LIST))
+    shows = doc.css("[name='shows'] option")
+
+    # Each show...
+    shows.each do |s|
+
+      # Get the data
+      show = Show.new s.inner_text.gsub(/(.+), The/, "The \\1")
+      show.mirrors.push BITSNOOP_SHOW.sub("{id}", s["value"])
+
+      puts "Found show #{show.name}" if DEBUG
+      puts "URL #{show.mirrors[0]}" if DEBUG
+
+      # Add the show to the array
+      addShow(show)
+
+    end
+  end
+
   def addShow(show, ended=false)
     # If the show is ended or we already know it, put it on the ended shows array
     if ended || @endedShows[show.name]
@@ -520,9 +567,10 @@ end
 
 index = TVShowsIndex.new
 index.loadPreviousData
-index.parseShowRSS
-index.parseEZRSS
-index.parseHamsterspit
+#index.parseShowRSS
+#index.parseEZRSS
+#index.parseHamsterspit
+index.parseBitSnoop
 index.addTPBCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS

@@ -16,6 +16,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=30+Rock&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/30Rock</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=30%20Rock%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=57</mirror>
   </mirrors>
  </show>
  <show>
@@ -35,6 +36,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=90210&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/90210</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=90210%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=49</mirror>
   </mirrors>
  </show>
  <show>
@@ -43,6 +45,14 @@
   <mirrors>
    <mirror>http://hamsterspit.com/rss/AgainstTheWall</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Against%20the%20Wall%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Agatha Christie's Poirot</name>
+  <tvdbid>76133</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=271</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Agatha%20Christie's%20Poirot%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -63,6 +73,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=American+Dad&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmericanDad</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=American%20Dad%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=60</mirror>
   </mirrors>
  </show>
  <show>
@@ -83,6 +94,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Americas+Next+Top+Model&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmericasNextTopModel</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Americas%20Next%20Top%20Model%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=59</mirror>
   </mirrors>
  </show>
  <show>
@@ -115,11 +127,35 @@
   </mirrors>
  </show>
  <show>
+  <name>Are We There Yet?</name>
+  <tvdbid>161491</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=294</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Are%20We%20There%20Yet?%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Army Wives</name>
+  <tvdbid>80231</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=122</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Army%20Wives%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Awkward.</name>
   <tvdbid>249882</tvdbid>
   <mirrors>
    <mirror>http://hamsterspit.com/rss/Awkward</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Awkward.%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Batman: The Brave &amp; the Bold</name>
+  <tvdbid>82824</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=157</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Batman:%20The%20Brave%20the%20Bold%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -148,6 +184,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Being+Erica&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BeingErica</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Being%20Erica%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=253</mirror>
   </mirrors>
  </show>
  <show>
@@ -186,6 +223,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Blue+Bloods&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BlueBloods</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Blue%20Bloods%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=336</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Blue Mountain State</name>
+  <tvdbid>134511</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=349</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Blue%20Mountain%20State%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -196,6 +242,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Boardwalk+Empire&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BoardwalkEmpire</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Boardwalk%20Empire%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=335</mirror>
   </mirrors>
  </show>
  <show>
@@ -206,6 +253,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Bobs+Burgers&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BobsBurgers</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Bob's%20Burgers%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=357</mirror>
   </mirrors>
  </show>
  <show>
@@ -216,6 +264,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Body+Of+Proof&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BodyOfProof</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Body%20of%20Proof%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=352</mirror>
   </mirrors>
  </show>
  <show>
@@ -226,6 +275,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Bones&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Bones</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Bones%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=33</mirror>
   </mirrors>
  </show>
  <show>
@@ -254,6 +304,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Breaking+Bad&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BreakingBad</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Breaking%20Bad%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=66</mirror>
   </mirrors>
  </show>
  <show>
@@ -264,6 +315,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Breakout+Kings&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BreakoutKings</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Breakout%20Kings%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Britain's Got Talent</name>
+  <tvdbid>80727</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=210</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Britain's%20Got%20Talent%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -282,16 +341,18 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Burn+Notice&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BurnNotice</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Burn%20Notice%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=94</mirror>
   </mirrors>
  </show>
  <show>
-  <name>CSI</name>
-  <tvdbid>152441</tvdbid>
+  <name>CSI: Crime Scene Investigation</name>
+  <tvdbid>72546</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/19.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=CSI&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSI</mirror>
-   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=CSI%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=70</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=CSI:%20Crime%20Scene%20Investigation%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -302,8 +363,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=CSI:+Miami&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSIMiami</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=CSI:%20Miami%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
-   <mirror>http://showrss.karmorra.info/feeds/19.rss</mirror>
-   <mirror>http://hamsterspit.com/rss/CSI</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=68</mirror>
   </mirrors>
  </show>
  <show>
@@ -313,6 +373,7 @@
    <mirror>http://showrss.karmorra.info/feeds/21.rss</mirror>
    <mirror>http://hamsterspit.com/rss/CSINY</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=CSI:%20NY%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=69</mirror>
   </mirrors>
  </show>
  <show>
@@ -323,6 +384,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Californication&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Californication</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Californication%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=118</mirror>
   </mirrors>
  </show>
  <show>
@@ -333,6 +395,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Castle+2009&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Castle</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Castle%20(2009)%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=97</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Celebrity Rehab with Dr. Drew</name>
+  <tvdbid>81230</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=261</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Celebrity%20Rehab%20with%20Dr.%20Drew%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -361,6 +432,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Chuck&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Chuck</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Chuck%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=112</mirror>
   </mirrors>
  </show>
  <show>
@@ -390,6 +462,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Community&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Community</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Community%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=240</mirror>
   </mirrors>
  </show>
  <show>
@@ -410,6 +483,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Cops&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Cops</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Cops%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=192</mirror>
   </mirrors>
  </show>
  <show>
@@ -420,6 +494,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Cougar+Town&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CougarTown</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Cougar%20Town%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=98</mirror>
   </mirrors>
  </show>
  <show>
@@ -430,6 +505,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Covert+Affairs&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CovertAffairs</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Covert%20Affairs%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=320</mirror>
   </mirrors>
  </show>
  <show>
@@ -450,6 +526,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Criminal+Minds&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CriminalMinds</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Criminal%20Minds%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=39</mirror>
   </mirrors>
  </show>
  <show>
@@ -460,6 +537,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Curb+your+Enthusiasm&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/CurbYourEnthusiasm</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Curb%20Your%20Enthusiasm%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=321</mirror>
   </mirrors>
  </show>
  <show>
@@ -470,6 +548,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Damages&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Damages</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Damages%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=141</mirror>
   </mirrors>
  </show>
  <show>
@@ -489,6 +568,7 @@
    <mirror>http://showrss.karmorra.info/feeds/140.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Dancing+With+The+Stars&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Dancing%20With%20The%20Stars%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=133</mirror>
   </mirrors>
  </show>
  <show>
@@ -498,6 +578,7 @@
    <mirror>http://showrss.karmorra.info/feeds/78.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Deadliest+Catch&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Deadliest%20Catch%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=225</mirror>
   </mirrors>
  </show>
  <show>
@@ -508,6 +589,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Desperate+Housewives&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DesperateHousewives</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Desperate%20Housewives%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=21</mirror>
   </mirrors>
  </show>
  <show>
@@ -518,6 +600,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Dexter&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Dexter</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Dexter%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=19</mirror>
   </mirrors>
  </show>
  <show>
@@ -528,6 +611,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Dirty+Jobs&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DirtyJobs</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Dirty%20Jobs%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=287</mirror>
   </mirrors>
  </show>
  <show>
@@ -538,6 +622,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Doctor+Who+(2005)&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DoctorWho_2005</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Doctor%20Who%20(2005)%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=209</mirror>
   </mirrors>
  </show>
  <show>
@@ -548,6 +633,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Doctor+Who+Confidential&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DoctorWhoConfidential</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Doctor%20Who%20Confidential%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=208</mirror>
   </mirrors>
  </show>
  <show>
@@ -558,6 +644,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Drop+Dead+Diva&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/DropDeadDiva</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Drop%20Dead%20Diva%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=291</mirror>
   </mirrors>
  </show>
  <show>
@@ -578,6 +665,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Entourage&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Entourage</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Entourage%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=72</mirror>
   </mirrors>
  </show>
  <show>
@@ -598,6 +686,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Eureka&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Eureka</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Eureka%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=109</mirror>
   </mirrors>
  </show>
  <show>
@@ -636,6 +725,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Family+Guy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/FamilyGuy</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Family%20Guy%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=37</mirror>
   </mirrors>
  </show>
  <show>
@@ -656,6 +746,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Flashpoint&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Flashpoint</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Flashpoint%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=322</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Foyle's War</name>
+  <tvdbid>78837</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=216</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Foyle's%20War%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -684,6 +783,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Fringe&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Fringe</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Fringe%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=30</mirror>
   </mirrors>
  </show>
  <show>
@@ -694,6 +794,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Futurama&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Futurama</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Futurama%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=142</mirror>
   </mirrors>
  </show>
  <show>
@@ -704,6 +805,31 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Game+of+Thrones&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GameOfThrones</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Game%20of%20Thrones%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=360</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Gene Simmons: Family Jewels</name>
+  <tvdbid>79406</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=213</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Gene%20Simmons:%20Family%20Jewels%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ghost Hunters</name>
+  <tvdbid>77949</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=137</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Ghost%20Hunters%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ghost Hunters International</name>
+  <tvdbid>81120</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=199</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Ghost%20Hunters%20International%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -714,6 +840,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Glee&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Glee</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Glee%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=74</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Good Eats</name>
+  <tvdbid>73067</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=264</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Good%20Eats%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -724,6 +859,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Gossip+Girl&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GossipGirl</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Gossip%20Girl%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=35</mirror>
   </mirrors>
  </show>
  <show>
@@ -734,6 +870,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Greys+Anatomy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GreysAnatomy</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Grey's%20Anatomy%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=24</mirror>
   </mirrors>
  </show>
  <show>
@@ -763,6 +900,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Harrys+Law&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HarrysLaw</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Harry's%20Law%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=354</mirror>
   </mirrors>
  </show>
  <show>
@@ -782,6 +920,7 @@
    <mirror>http://showrss.karmorra.info/feeds/306.rss</mirror>
    <mirror>http://hamsterspit.com/rss/HawaiiFiveO_2010</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hawaii%20Five-0%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=332</mirror>
   </mirrors>
  </show>
  <show>
@@ -792,6 +931,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Hawthorne&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hawthorne</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hawthorne%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=296</mirror>
   </mirrors>
  </show>
  <show>
@@ -801,6 +941,7 @@
    <mirror>http://showrss.karmorra.info/feeds/120.rss</mirror>
    <mirror>http://hamsterspit.com/rss/HellsKitchen</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hell's%20Kitchen%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=299</mirror>
   </mirrors>
  </show>
  <show>
@@ -811,6 +952,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Hiccups&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hiccups</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hiccups%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=230</mirror>
   </mirrors>
  </show>
  <show>
@@ -821,6 +963,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Hot+in+Cleveland&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HotinCleveland</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hot%20in%20Cleveland%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=306</mirror>
   </mirrors>
  </show>
  <show>
@@ -830,6 +973,7 @@
    <mirror>http://showrss.karmorra.info/feeds/36.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=House&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=House%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=23</mirror>
   </mirrors>
  </show>
  <show>
@@ -840,6 +984,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=How+I+Met+Your+Mother&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/HowIMetYourMother</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=How%20I%20Met%20Your%20Mother%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=47</mirror>
   </mirrors>
  </show>
  <show>
@@ -869,6 +1014,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Hung&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hung</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hung%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=99</mirror>
   </mirrors>
  </show>
  <show>
@@ -879,6 +1025,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Hustle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Hustle</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Hustle%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ideal</name>
+  <tvdbid>74345</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=282</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Ideal%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -897,6 +1051,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=In+Plain+Sight&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/InPlainSight</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=In%20Plain%20Sight%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=174</mirror>
   </mirrors>
  </show>
  <show>
@@ -910,6 +1065,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Iron Chef America</name>
+  <tvdbid>74325</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=176</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Iron%20Chef%20America%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>It's Always Sunny in Philadelphia</name>
   <tvdbid>75805</tvdbid>
   <mirrors>
@@ -917,6 +1080,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Its+Always+Sunny+in+Philadelphia&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ItsAlwaysSunnyinPhiladelphia</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=It's%20Always%20Sunny%20in%20Philadelphia%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=323</mirror>
   </mirrors>
  </show>
  <show>
@@ -929,6 +1093,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Jersey Shore</name>
+  <tvdbid>127351</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=315</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Jersey%20Shore%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Justified</name>
   <tvdbid>134241</tvdbid>
   <mirrors>
@@ -936,6 +1108,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Justified&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Justified</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Justified%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=274</mirror>
   </mirrors>
  </show>
  <show>
@@ -954,6 +1127,15 @@
    <mirror>http://showrss.karmorra.info/feeds/165.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Kitchen+Nightmares&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Kitchen%20Nightmares%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=238</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ladies of Letters</name>
+  <tvdbid>87341</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=217</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Ladies%20of%20Letters%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1003,6 +1185,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Leverage&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Leverage</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Leverage%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=288</mirror>
   </mirrors>
  </show>
  <show>
@@ -1023,6 +1206,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Lost+Girl&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/LostGirl</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Lost%20Girl%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=344</mirror>
   </mirrors>
  </show>
  <show>
@@ -1042,6 +1226,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Luther&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Luther</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Luther%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=278</mirror>
   </mirrors>
  </show>
  <show>
@@ -1077,6 +1262,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Mad+Men&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MadMen</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Mad%20Men%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=316</mirror>
   </mirrors>
  </show>
  <show>
@@ -1087,6 +1273,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Make+It+or+Break+It&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MakeItOrBreakIt</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Make%20It%20or%20Break%20It%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=300</mirror>
   </mirrors>
  </show>
  <show>
@@ -1126,6 +1313,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Memphis+Beat&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MemphisBeat</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Memphis%20Beat%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=317</mirror>
   </mirrors>
  </show>
  <show>
@@ -1136,6 +1324,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Merlin&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Merlin</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Merlin%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=95</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Metalocalypse</name>
+  <tvdbid>79563</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=169</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Metalocalypse%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1156,6 +1353,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Mike+and+Molly&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/MikeandMolly</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Mike%20Molly%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=339</mirror>
   </mirrors>
  </show>
  <show>
@@ -1185,6 +1383,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Modern+Family&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ModernFamily</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Modern%20Family%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=77</mirror>
   </mirrors>
  </show>
  <show>
@@ -1204,6 +1403,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Mythbusters&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Mythbusters</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Mythbusters%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=14</mirror>
   </mirrors>
  </show>
  <show>
@@ -1214,6 +1414,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=NCIS&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NCIS</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=NCIS%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=31</mirror>
   </mirrors>
  </show>
  <show>
@@ -1224,6 +1425,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=NCIS+Los+Angeles&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NCISLosAngeles</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=NCIS:%20Los%20Angeles%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=32</mirror>
   </mirrors>
  </show>
  <show>
@@ -1280,6 +1482,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Nikita&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Nikita</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Nikita%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=333</mirror>
   </mirrors>
  </show>
  <show>
@@ -1290,6 +1493,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Nurse+Jackie&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/NurseJackie</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Nurse%20Jackie%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=231</mirror>
   </mirrors>
  </show>
  <show>
@@ -1300,6 +1504,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=One+Tree+Hill&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/OneTreeHill</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=One%20Tree%20Hill%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=42</mirror>
   </mirrors>
  </show>
  <show>
@@ -1310,6 +1515,14 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Onion+News+Network&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/OnionNewsNetwork</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Onion%20News%20Network%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Outnumbered</name>
+  <tvdbid>80592</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=138</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Outnumbered%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1330,6 +1543,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Parenthood+2010&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Parenthood_2010</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Parenthood%20(2010)%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=132</mirror>
   </mirrors>
  </show>
  <show>
@@ -1340,6 +1554,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Parks+and+Recreation&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ParksandRecreation</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Parks%20and%20Recreation%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=250</mirror>
   </mirrors>
  </show>
  <show>
@@ -1368,6 +1583,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Pioneer One</name>
+  <tvdbid>170551</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=290</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Pioneer%20One%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Portlandia</name>
   <tvdbid>213221</tvdbid>
   <mirrors>
@@ -1385,6 +1608,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Pretty+Little+Liars&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/PrettyLittleLiars</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Pretty%20Little%20Liars%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=295</mirror>
   </mirrors>
  </show>
  <show>
@@ -1405,6 +1629,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Private+Practice&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/PrivatePractice</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Private%20Practice%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=44</mirror>
   </mirrors>
  </show>
  <show>
@@ -1415,6 +1640,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Project+Runway&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ProjectRunway</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Project%20Runway%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=90</mirror>
   </mirrors>
  </show>
  <show>
@@ -1425,6 +1651,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Psych&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Psych</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Psych%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=81</mirror>
   </mirrors>
  </show>
  <show>
@@ -1435,6 +1662,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Psychoville&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Psychoville</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Psychoville%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=273</mirror>
   </mirrors>
  </show>
  <show>
@@ -1455,6 +1683,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Raising+Hope&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RaisingHope</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Raising%20Hope%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=325</mirror>
   </mirrors>
  </show>
  <show>
@@ -1474,6 +1703,7 @@
    <mirror>http://showrss.karmorra.info/feeds/118.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Rescue+Me&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rescue%20Me%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=308</mirror>
   </mirrors>
  </show>
  <show>
@@ -1492,6 +1722,15 @@
    <mirror>http://showrss.karmorra.info/feeds/289.rss</mirror>
    <mirror>http://hamsterspit.com/rss/RizzoliandIsles</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rizzoli%20Isles%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=346</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Rob Dyrdek's Fantasy Factory</name>
+  <tvdbid>85038</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=314</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rob%20Dyrdek's%20Fantasy%20Factory%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -1502,6 +1741,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Robot+Chicken&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RobotChicken</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Robot%20Chicken%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=152</mirror>
   </mirrors>
  </show>
  <show>
@@ -1512,6 +1752,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Rookie+Blue&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RookieBlue</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rookie%20Blue%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=297</mirror>
   </mirrors>
  </show>
  <show>
@@ -1522,6 +1763,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Royal+Pains&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RoyalPains</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Royal%20Pains%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=285</mirror>
   </mirrors>
  </show>
  <show>
@@ -1532,6 +1774,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Rules+Of+Engagement&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RulesofEngagement</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Rules%20of%20Engagement%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=228</mirror>
   </mirrors>
  </show>
  <show>
@@ -1570,6 +1813,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Saturday+Night+Live&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SaturdayNightLive</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Saturday%20Night%20Live%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=130</mirror>
   </mirrors>
  </show>
  <show>
@@ -1582,6 +1826,7 @@
    <mirror>http://hamsterspit.com/rss/Shameless</mirror>
    <mirror>http://hamsterspit.com/rss/Shameless_US</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Shameless&amp;userName=vtv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=248</mirror>
   </mirrors>
  </show>
  <show>
@@ -1612,6 +1857,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Skins&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Skins</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Skins%20-US&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=134</mirror>
   </mirrors>
  </show>
  <show>
@@ -1622,6 +1868,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=So+You+Think+You+Can+Dance&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SoYouThinkYouCanDance</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=So%20You%20Think%20You%20Can%20Dance%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=309</mirror>
   </mirrors>
  </show>
  <show>
@@ -1632,6 +1879,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Sons+of+Anarchy&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SonsofAnarchy</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Sons%20of%20Anarchy%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=108</mirror>
   </mirrors>
  </show>
  <show>
@@ -1642,6 +1890,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=South+Park&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SouthPark</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=South%20Park%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=11</mirror>
   </mirrors>
  </show>
  <show>
@@ -1700,6 +1949,7 @@
    <mirror>http://showrss.karmorra.info/feeds/61.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Star+Wars+The+Clone+Wars&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Star%20Wars:%20The%20Clone%20Wars%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=22</mirror>
   </mirrors>
  </show>
  <show>
@@ -1717,6 +1967,7 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Strike+Back&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Strike%20Back%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=283</mirror>
   </mirrors>
  </show>
  <show>
@@ -1734,6 +1985,7 @@
    <mirror>http://showrss.karmorra.info/feeds/62.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Supernatural&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Supernatural%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=25</mirror>
   </mirrors>
  </show>
  <show>
@@ -1743,6 +1995,7 @@
    <mirror>http://showrss.karmorra.info/feeds/90.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Survivor&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Survivor%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=115</mirror>
   </mirrors>
  </show>
  <show>
@@ -1773,6 +2026,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Amazing+Race&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/AmazingRace</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Amazing%20Race%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=58</mirror>
   </mirrors>
  </show>
  <show>
@@ -1782,6 +2036,7 @@
    <mirror>http://showrss.karmorra.info/feeds/172.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Apprentice&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Apprentice%20-UK%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=239</mirror>
   </mirrors>
  </show>
  <show>
@@ -1802,6 +2057,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Big+Bang+Theory&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/BigBangTheory</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Big%20Bang%20Theory%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=13</mirror>
   </mirrors>
  </show>
  <show>
@@ -1841,6 +2097,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Cleveland+Show&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ClevelandShow</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Cleveland%20Show%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=117</mirror>
   </mirrors>
  </show>
  <show>
@@ -1850,6 +2107,7 @@
    <mirror>http://showrss.karmorra.info/feeds/14.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Closer&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Closer%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=341</mirror>
   </mirrors>
  </show>
  <show>
@@ -1899,6 +2157,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Glades&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Glades</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Glades%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=319</mirror>
   </mirrors>
  </show>
  <show>
@@ -1909,6 +2168,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Good+Wife&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/GoodWife</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Good%20Wife%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=75</mirror>
   </mirrors>
  </show>
  <show>
@@ -1919,6 +2179,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+IT+Crowd&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/ITCrowd</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20IT%20Crowd%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=102</mirror>
   </mirrors>
  </show>
  <show>
@@ -1939,6 +2200,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+League&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/League</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20League%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=340</mirror>
   </mirrors>
  </show>
  <show>
@@ -1949,6 +2211,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Life+and+Times+of+Tim&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/LifeandTimesofTim</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Life%20Times%20of%20Tim%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=202</mirror>
   </mirrors>
  </show>
  <show>
@@ -1987,6 +2250,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Mentalist&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Mentalist</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Mentalist%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=16</mirror>
   </mirrors>
  </show>
  <show>
@@ -1997,6 +2261,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Middle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Middle</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Middle%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=207</mirror>
   </mirrors>
  </show>
  <show>
@@ -2017,6 +2282,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Office&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Office_US</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Office%20(US)%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=96</mirror>
   </mirrors>
  </show>
  <show>
@@ -2037,6 +2303,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Ricky+Gervais+Show&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/RickyGervaisShow</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Ricky%20Gervais%20Show%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=203</mirror>
   </mirrors>
  </show>
  <show>
@@ -2057,6 +2324,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Secret+Life+of+the+American+Teenager&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/SecretLifeoftheAmericanTeenager</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Secret%20Life%20of%20the%20American%20Teenager%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=286</mirror>
   </mirrors>
  </show>
  <show>
@@ -2067,6 +2335,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Simpsons&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Simpsons</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Simpsons%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=43</mirror>
   </mirrors>
  </show>
  <show>
@@ -2077,6 +2346,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Ultimate+Fighter&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UltimateFighter</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Ultimate%20Fighter%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=266</mirror>
   </mirrors>
  </show>
  <show>
@@ -2097,6 +2367,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+Vampire+Diaries&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/VampireDiaries</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Vampire%20Diaries%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=29</mirror>
   </mirrors>
  </show>
  <show>
@@ -2124,6 +2395,7 @@
    <mirror>http://showrss.karmorra.info/feeds/318.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Walking+Dead&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20Walking%20Dead%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=343</mirror>
   </mirrors>
  </show>
  <show>
@@ -2134,6 +2406,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=The+X+Factor&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/XFactor</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=The%20X%20Factor%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=252</mirror>
   </mirrors>
  </show>
  <show>
@@ -2153,6 +2426,15 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Chef&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TopChef</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Top%20Chef%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=175</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Chef Masters</name>
+  <tvdbid>98821</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=177</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Top%20Chef%20Masters%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -2162,6 +2444,15 @@
    <mirror>http://showrss.karmorra.info/feeds/117.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Gear&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Top%20Gear%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=258</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Shot</name>
+  <tvdbid>165841</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=293</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Top%20Shot%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
@@ -2172,6 +2463,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Torchwood&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Torchwood</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Torchwood%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=303</mirror>
   </mirrors>
  </show>
  <show>
@@ -2190,6 +2482,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Treme&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Treme</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Treme%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=123</mirror>
   </mirrors>
  </show>
  <show>
@@ -2200,6 +2493,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=True+Blood&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TrueBlood</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=True%20Blood%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=46</mirror>
   </mirrors>
  </show>
  <show>
@@ -2210,6 +2504,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Two+and+a+Half+Men&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/TwoandaHalfMen</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Two%20and%20a%20Half%20Men%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=85</mirror>
   </mirrors>
  </show>
  <show>
@@ -2220,6 +2515,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Ugly+Americans&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UglyAmericans</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Ugly%20Americans%20eztv&amp;userName=eztv&amp;_id=1e5e5ce05d10f37a30dcc45cd32a01fc&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=194</mirror>
   </mirrors>
  </show>
  <show>
@@ -2230,6 +2526,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Underbelly&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Underbelly</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Underbelly%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=125</mirror>
   </mirrors>
  </show>
  <show>
@@ -2240,6 +2537,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Undercover+Boss+US&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/UndercoverBoss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Undercover%20Boss%20(US)%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=131</mirror>
   </mirrors>
  </show>
  <show>
@@ -2258,6 +2556,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Warehouse+13&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Warehouse13</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Warehouse%2013%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=107</mirror>
   </mirrors>
  </show>
  <show>
@@ -2277,6 +2576,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Weeds&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/Weeds</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Weeds%20eztv&amp;userName=eztv&amp;_id=e2bcfec671b35e60bef9c40f7e962e73&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=87</mirror>
   </mirrors>
  </show>
  <show>
@@ -2287,6 +2587,7 @@
    <mirror>http://ezrss.it/search/index.php?show_name=White+Collar&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://hamsterspit.com/rss/WhiteCollar</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=White%20Collar%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=305</mirror>
   </mirrors>
  </show>
  <show>
@@ -2314,6 +2615,14 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=Wired+Science&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Wired%20Science%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wizards of Waverly Place</name>
+  <tvdbid>80726</tvdbid>
+  <mirrors>
+   <mirror>http://bitsnoop.com/tvrss.xml?shows=88</mirror>
+   <mirror>http://pipes.yahoo.com/pipes/pipe.run?filter=Wizards%20of%20Waverly%20Place%20eztv&amp;userName=eztv&amp;_id=55dec363b8abf012f46a316a55363bc0&amp;_render=rss</mirror>
   </mirrors>
  </show>
  <show>
