@@ -1174,13 +1174,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Mad</name>
-  <tvdbid>187911</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=REMOVE%20FROM%20THE%20LIST%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Mad Dogs</name>
   <tvdbid>217071</tvdbid>
   <mirrors>
