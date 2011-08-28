@@ -612,7 +612,7 @@ end
 
 index = TVShowsIndex.new
 index.loadPreviousData
-#index.parseShowRSS
+index.parseShowRSS
 #index.parseEZRSS
 #index.parseHamsterspit
 index.parseBitSnoop
