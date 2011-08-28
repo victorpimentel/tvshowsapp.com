@@ -1392,6 +1392,14 @@
   </mirrors2>
  </show>
  <show>
+  <name>NTSF:SD:SUV</name>
+  <tvdbid>248261</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=NTSF%20SD%20SUV&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=NTSF%20SD%20SUV&amp;userName=scenebalance</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Nurse Jackie</name>
   <tvdbid>95731</tvdbid>
   <mirrors>
