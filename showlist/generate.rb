@@ -254,6 +254,7 @@ TPB_CORRECTIONS = {
   "The Daily Show with Jon Stewart" => "The Daily Show",
   "King" => "King 2HD",
   "Mad" => "REMOVE FROM THE LIST",
+  "Project Runway" => "Project Runway -AU",
   "Skins" => "Skins -US",
   "Shameless (US)" => "Shameless"
 }
@@ -291,6 +292,7 @@ TPB_USER = {
   "Ghost Hunters International" => "TvTeam",
   "Ideal" => "TvTeam",
   "Iron Chef America" => "TvTeam",
+  "Project Runway" => "TvTeam",
   "Metalocalypse" => "TvTeam",
   "Outnumbered" => "TvTeam",
   "Rob Dyrdek's Fantasy Factory" => "TvTeam",
