@@ -1729,6 +1729,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Take the Money and Run</name>
+  <tvdbid>223861</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Take%20the%20Money%20and%20Run&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Teen Wolf</name>
   <tvdbid>175001</tvdbid>
   <mirrors>
