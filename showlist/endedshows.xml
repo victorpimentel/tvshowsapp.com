@@ -13,6 +13,7 @@
  <show>5 Inch Floppy</show>
  <show>7th Heaven</show>
  <show>A Colbert Christmas The Greatest Gift of All (</show>
+ <show>A Lonely Place for Dying Part 1</show>
  <show>A Raisin In The Sun</show>
  <show>A Very British Gangster</show>
  <show>A Very British Gangster Extras</show>
@@ -46,6 +47,7 @@
  <show>According to Jim</show>
  <show>Afghanistan Drugs Guns &amp; Money</show>
  <show>Aftermath Population Zero</show>
+ <show>Al Jazeera Witness</show>
  <show>Aliens In America</show>
  <show>All of Us</show>
  <show>American Body Shop</show>
@@ -135,6 +137,8 @@
  <show>BBC Britains Secret Seas</show>
  <show>BBC British Columbia Canadas Olympic Wilderness</show>
  <show>BBC British Columbia Canadas Olympic Wilderness x</show>
+ <show>BBC British Masters</show>
+ <show>BBC Camera That Changed the World</show>
  <show>BBC Cannabis Whats the Harm</show>
  <show>BBC Castrato</show>
  <show>BBC Charles Darwin &amp; the Tree of Life</show>
@@ -164,6 +168,7 @@
  <show>BBC Darwin</show>
  <show>BBC Darwins Dangerous Idea</show>
  <show>BBC Darwins Struggle The Evolution of the Origin of Species</show>
+ <show>BBC Dave Davies Kinkdom Come</show>
  <show>BBC David Attenboroughs First Life</show>
  <show>BBC Decade of Discovery</show>
  <show>BBC Decade of Discovery x</show>
@@ -210,6 +215,7 @@
  <show>BBC Great Rift Africa s Wild Heart</show>
  <show>BBC Greek Myths Tales of Travelling Heroes</show>
  <show>BBC Greek Myths Tales of Travelling Heroes x</show>
+ <show>BBC Guilty Pleasures</show>
  <show>BBC Hadrian</show>
  <show>BBC Hardcore Profits</show>
  <show>BBC Henry VIII Patron or Plunderer</show>
@@ -217,6 +223,8 @@
  <show>BBC Henry VIII Patron or Plunderer 2of</show>
  <show>BBC Hidden Treasures of</show>
  <show>BBC History Cold Case</show>
+ <show>BBC History Cold Case Series 2</show>
+ <show>BBC History Cold Case Series 2 2of4 The York</show>
  <show>BBC Horizon</show>
  <show>BBC Horizon How Mad Are You</show>
  <show>BBC Hotel California LA from the Byrds to the Eagles</show>
@@ -228,6 +236,7 @@
  <show>BBC How Vietnam was Lost PDTV x</show>
  <show>BBC How the Celts Saved Britain</show>
  <show>BBC How to Build</show>
+ <show>BBC How to Get a Head in Sculpture</show>
  <show>BBC Human Planet</show>
  <show>BBC Human Planet extra 1 Behind The Lens</show>
  <show>BBC Human Planet extra 2 Kawan Ijen Volcano</show>
@@ -239,6 +248,9 @@
  <show>BBC Imagine 2011 The Trouble with Tolstoy 2of</show>
  <show>BBC In Loving Memory</show>
  <show>BBC In Loving Memory x</show>
+ <show>BBC India on Four Wheels</show>
+ <show>BBC India on Four Wheels 1of</show>
+ <show>BBC India on Four Wheels 2of</show>
  <show>BBC Indian Hill Railways</show>
  <show>BBC Inside the Human Body</show>
  <show>BBC Inside the Human Body Best of Series</show>
@@ -312,6 +324,7 @@
  <show>BBC Murder on the Lake</show>
  <show>BBC Murder on the Lake x</show>
  <show>BBC Museum of Life</show>
+ <show>BBC My Father was a Nazi Commandant</show>
  <show>BBC Natural History Expedition Borneo</show>
  <show>BBC Natural World</show>
  <show>BBC Natural World Whale Shark</show>
@@ -320,6 +333,7 @@
  <show>BBC Nixon in the Den PDTV x</show>
  <show>BBC OCEANS</show>
  <show>BBC Oliver Postgate A Life in Small Films PDTV x</show>
+ <show>BBC Omnibus</show>
  <show>BBC On Hannibals Trail</show>
  <show>BBC On The Streets</show>
  <show>BBC On Thin Ice</show>
@@ -361,6 +375,7 @@
  <show>BBC Rich Halls The Dirty South PDTV x</show>
  <show>BBC Richard Hammond s Invisible Worlds</show>
  <show>BBC Richard Hammonds Invisible Worlds</show>
+ <show>BBC Richard Hammonds Journey To The Centre of the Planet</show>
  <show>BBC Rick Stein &amp; the Japanese Ambassador</show>
  <show>BBC Rick Stein &amp; the Japanese Ambassador x</show>
  <show>BBC Rivers with Griff Rhys Jones</show>
@@ -377,6 +392,7 @@
  <show>BBC Secret Britain</show>
  <show>BBC Secrets of the Arabian Nights</show>
  <show>BBC Secrets of the Superbrands</show>
+ <show>BBC Seve The Legend</show>
  <show>BBC Seven Ages of Britain</show>
  <show>BBC Shangri La</show>
  <show>BBC Shangri La x</show>
@@ -388,6 +404,7 @@
  <show>BBC South Africa in Pictures x</show>
  <show>BBC South African Walks</show>
  <show>BBC South Pacific</show>
+ <show>BBC Space Shuttle The Final Mission</show>
  <show>BBC Stargazing Live</show>
  <show>BBC Stealing Shakespeare</show>
  <show>BBC Stealing Shakespeare x</show>
@@ -400,6 +417,7 @@
  <show>BBC Storyville</show>
  <show>BBC Stuart Sutcliffe The Lost Beatle</show>
  <show>BBC Sun Sex &amp; Holiday Madness PDTV x</show>
+ <show>BBC Surviving Hitler A Love Story</show>
  <show>BBC Swarm Natures Incredible Invasions</show>
  <show>BBC Synth Britannia</show>
  <show>BBC Tchaikovsky</show>
@@ -448,12 +466,14 @@
  <show>BBC The Harp</show>
  <show>BBC The History of Safari with Richard E Grant</show>
  <show>BBC The History of Safari with Richard E Grant x</show>
+ <show>BBC The Horizon Guide Moon</show>
  <show>BBC The Hottest Place on Earth</show>
  <show>BBC The Incredible Human Journey</show>
  <show>BBC The Joy of Stats</show>
  <show>BBC The Last Nazis</show>
  <show>BBC The Life &amp; Death of a Mobile Phone</show>
  <show>BBC The Life &amp; Times of El Nino</show>
+ <show>BBC The Life of Muhammad</show>
  <show>BBC The Lighthouse Stevensons</show>
  <show>BBC The Link Uncovering Our Earliest Ancestor</show>
  <show>BBC The Lost World of Tibet</show>
@@ -661,37 +681,44 @@
  <show>Ch4 Best Undressed PDTV x</show>
  <show>Ch4 Bettany Hughes The Ancient Worlds</show>
  <show>Ch4 Britain s Islamic Republic</show>
+ <show>Ch4 Catastrophe Series One</show>
  <show>Ch4 Churchills Darkest Decision</show>
  <show>Ch4 Civilization Is the West History</show>
  <show>Ch4 Cleopatra</show>
  <show>Ch4 Concordes Last Flight</show>
  <show>Ch4 Crime &amp; Punishment</show>
+ <show>Ch4 Cutting Edge</show>
  <show>Ch4 Dambusters Building the Bouncing Bomb</show>
  <show>Ch4 Dispaches</show>
  <show>Ch4 Dispaches 2010 Kids Dont Count</show>
  <show>Ch4 Dispatches</show>
+ <show>Ch4 Empire How Britain Made the Modern World</show>
  <show>Ch4 Genius of Britain</show>
  <show>Ch4 Gladiator Back From the Dead</show>
  <show>Ch4 Gordon Ramsay Shark Bait</show>
  <show>Ch4 Hurricane Katrina Caught on Camera</show>
  <show>Ch4 Inside Incredible Athletes</show>
  <show>Ch4 Inside Natures Giants Series 2</show>
+ <show>Ch4 Machines Time Forgot</show>
  <show>Ch4 Making the Monkees</show>
  <show>Ch4 Mutiny The True Story of the Red October</show>
  <show>Ch4 Our Drugs War</show>
  <show>Ch4 Sex Bomb</show>
  <show>Ch4 Slumming It</show>
+ <show>Ch4 The Amy Winehouse Story</show>
  <show>Ch4 The Ascent of Money</show>
  <show>Ch4 The Battle Of Hood &amp; Bismarck</show>
  <show>Ch4 The Battle of Hood &amp; Bismark 1of</show>
  <show>Ch4 The Battle of Hood &amp; Bismark 2of</show>
  <show>Ch4 The Boys of H Company PDTV x</show>
+ <show>Ch4 The Crucified Soldier</show>
  <show>Ch4 The Elephant Life after Death</show>
  <show>Ch4 The Great Global Warming Swindle</show>
  <show>Ch4 The Great Global Warming Swindle EXTRAS</show>
  <show>Ch4 The Joy of Teen Sex</show>
  <show>Ch4 The Last Days of the Raj</show>
  <show>Ch4 The Lost Legions of Varus</show>
+ <show>Ch4 The Mystery of the Nevada Triangle</show>
  <show>Ch4 The Real Kings Speech</show>
  <show>Ch4 The Untold Battle of Britain</show>
  <show>Ch4 The Untold Battle of Trafalgar</show>
@@ -702,6 +729,7 @@
  <show>Ch4 Unreported World 2011</show>
  <show>Ch5 Deep Sea Divers PDTV x</show>
  <show>Ch5 Extreme Fishing with Robson Green Series 2</show>
+ <show>Ch5 Extreme Fishing with Robson Green Series 3</show>
  <show>Ch5 Piers Morgans World Cup South Africa</show>
  <show>Ch5 Tutankhamun The Mystery Revealed</show>
  <show>Ch5 Volcanic Ash The Ticking Timebomb PDTV x</show>
@@ -732,6 +760,7 @@
  <show>Comanche Moon E01</show>
  <show>Comanche Moon E02</show>
  <show>Comanche Moon E03</show>
+ <show>Come Fly With Me 2010</show>
  <show>Comedy Central Last Laugh</show>
  <show>Comedy Central Presents Dan Cummins</show>
  <show>Comedy Central Presents Jo Koy</show>
@@ -763,6 +792,7 @@
  <show>Cupid</show>
  <show>Cupid 2009</show>
  <show>D D Video The Royal International Air Tattoo RIAT</show>
+ <show>DC Shackletons South with James Cracknell</show>
  <show>Da Vinci Seeking the Truth</show>
  <show>Dancing With The Stars Special US Judges All Time Top 10</show>
  <show>Dancing With The Stars USA</show>
@@ -851,6 +881,7 @@
  <show>Discovery Ch Race Across America</show>
  <show>Discovery Ch Scandals of the Ancient World Egypt</show>
  <show>Discovery Ch Secrets of the Pyramids</show>
+ <show>Discovery Ch Submarines Sharks Of Steel</show>
  <show>Discovery Ch Through the Wormhole</show>
  <show>Discovery Ch Whale Wars Season 3</show>
  <show>Discovery Channel</show>
@@ -986,9 +1017,11 @@
  <show>Discovery When Animals Strike x</show>
  <show>Discovery Whistlers Twin Peaks x</show>
  <show>Discovery Who Sank the Titanic x</show>
+ <show>Discovery Wings Clash of Wings</show>
  <show>Discovery Wings Firestorm in Dresden The Bloody 100th Bomb Group</show>
  <show>Discovery Wings Flying Coffins The First World War in the Air</show>
  <show>Discovery Wings Great Planes B 26 Marauder</show>
+ <show>Discovery Wings Great Planes Convair B 36 Peacemaker</show>
  <show>Discovery Wings Great Planes Lockheed Constellation</show>
  <show>Discovery Wings Harrier</show>
  <show>Discovery Wings of the Red Star The Great Patriotic War x</show>
@@ -1102,6 +1135,7 @@
  <show>HBO Gasland</show>
  <show>HC Alexanders Greatest Battle PDTV x</show>
  <show>HC Cromwell Gods Executioner</show>
+ <show>HC Desperate Crossing The Untold Story of the Mayflower</show>
  <show>HC God vs Satan The Final Battle</show>
  <show>HC Surviving the Battle</show>
  <show>HC The</show>
@@ -1150,12 +1184,18 @@
  <show>History Ch How the Earth Was Made Complete Season 1</show>
  <show>History Ch How the Earth Was Made Complete Season 2</show>
  <show>History Ch How the Earth Was Made Extra Inside the Volcano</show>
+ <show>History Ch How the States Got Their Shapes</show>
+ <show>History Ch Jurassic Fight Club Season One</show>
  <show>History Ch Life After People Season 2</show>
  <show>History Ch Life after People Season 1</show>
+ <show>History Ch Mega Disasters Collection One</show>
  <show>History Ch Roman Invasion of Britain</show>
+ <show>History Ch Swamp People Season One</show>
  <show>History Ch The Egyptian Book of the Dead</show>
  <show>History Ch The Universe Season Five</show>
+ <show>History Ch Underwater Universe Season 1</show>
  <show>History Ch Underwater Universe Special</show>
+ <show>History Ch Who Really Discovered America</show>
  <show>History Channel Ancient Aliens</show>
  <show>History Channel Ape to Man</show>
  <show>History Channel Conspiracy The Robert Kennedy Assassination</show>
@@ -1194,6 +1234,7 @@
  <show>Human Weapon</show>
  <show>Hunt the Kaisers Cruisers</show>
  <show>Hyperdrive</show>
+ <show>I Just Want My Pants Back</show>
  <show>I Pity The Fool</show>
  <show>IMAX Bugs! A Rainforest Adventure x</show>
  <show>IMAX Volcanoes Of The Deep Sea</show>
@@ -1202,6 +1243,7 @@
  <show>ITV Ancient Lives Extra</show>
  <show>ITV Baboons with Bill Bailey</show>
  <show>ITV Billy Connollys Journey to the Edge of the World</show>
+ <show>ITV Chasing Legends</show>
  <show>ITV David Suchet on the Orient Express x</show>
  <show>ITV Fishermans Friends</show>
  <show>ITV Gazzas Tears The Night That Changed Football</show>
@@ -1221,6 +1263,7 @@
  <show>ITV Martin Clunes Man to Manta</show>
  <show>ITV Martin Clunes Man to Manta x</show>
  <show>ITV Men Brewing Badly World Cup 2010</show>
+ <show>ITV Natures Fury</show>
  <show>ITV On the Orient Express</show>
  <show>ITV Paul McCartney &amp; Wings Band on the Run</show>
  <show>ITV Perspectives</show>
@@ -1314,6 +1357,7 @@
  <show>Krod Mandoon</show>
  <show>Kyle XY</show>
  <show>LA Ink</show>
+ <show>LEGO Star Wars The Padawan Menace</show>
  <show>LWT The UB40 Story Of Reggae x</show>
  <show>Lab Rats</show>
  <show>Ladies of Letters</show>
@@ -1465,7 +1509,9 @@
  <show>NFL Football</show>
  <show>NFL Super Bowl XLII</show>
  <show>NFL Super Bowl XLIII</show>
+ <show>NG Earth Investigated Ancient Mariners</show>
  <show>NG Historys Hardest Prison</show>
+ <show>NG Is It Real Russian Bigfoot</show>
  <show>NGC Air Crash Investigation Mid Air Collision</show>
  <show>NHK A Rain Story x</show>
  <show>NHK Elephants Having Tales to Tell</show>
@@ -1480,6 +1526,7 @@
  <show>NOVA Master of the Killer Ants</show>
  <show>NOVA Secrets of the Parthenon</show>
  <show>NOVA Sputnik Declassified</show>
+ <show>Naked Science Man Made Disasters</show>
  <show>Nanking</show>
  <show>NatGeo Incredible Human Machine</show>
  <show>National Geographic 42 Ways to Kill Hitler</show>
@@ -1493,6 +1540,7 @@
  <show>National Geographic Ancient Asteroid Apocalypse</show>
  <show>National Geographic Ancient Graves Voices of the Dead</show>
  <show>National Geographic Ancient Megastructures Collection</show>
+ <show>National Geographic Ancient Sea Monsters</show>
  <show>National Geographic Ancient X Files</show>
  <show>National Geographic Ape Genius</show>
  <show>National Geographic Ape Man Search for the First Human</show>
@@ -1522,9 +1570,13 @@
  <show>National Geographic Crystal Skull Legend</show>
  <show>National Geographic Darwins Secret Notebooks</show>
  <show>National Geographic Death Of The Universe</show>
+ <show>National Geographic Desert Seas</show>
+ <show>National Geographic Destroyed By Nature</show>
  <show>National Geographic Dinosaur Hunters</show>
+ <show>National Geographic Doomsday Earth Mega Tsunami</show>
  <show>National Geographic Dwarfism</show>
  <show>National Geographic Earth Investigated Human Extinction</show>
+ <show>National Geographic Earth Investigated Killer Lakes</show>
  <show>National Geographic Earth Investigated Planets from Hell</show>
  <show>National Geographic Earth Investigated Stone Age Apocalypse</show>
  <show>National Geographic Earths Evil Twin</show>
@@ -1591,7 +1643,10 @@
  <show>National Geographic Making History</show>
  <show>National Geographic Martian Robots</show>
  <show>National Geographic Mega Quake</show>
+ <show>National Geographic Megafactories Apache Helicopter</show>
+ <show>National Geographic Megafactories Heineken</show>
  <show>National Geographic Megafactories IKEA</show>
+ <show>National Geographic Megafactories LEGO</show>
  <show>National Geographic Megastructures Collection</show>
  <show>National Geographic Megastructures World Island Wonder</show>
  <show>National Geographic Monster of the Milky Way</show>
@@ -1618,7 +1673,9 @@
  <show>National Geographic Nevada Triangle Steve Fossett Mystery</show>
  <show>National Geographic Obamas White House</show>
  <show>National Geographic Octopus Volcano</show>
+ <show>National Geographic Parallel Universes</show>
  <show>National Geographic Preventing Armageddon</show>
+ <show>National Geographic Pricing the Priceless</show>
  <show>National Geographic Prison Nation</show>
  <show>National Geographic Prostitution The Oldest Trade</show>
  <show>National Geographic Reptiles</show>
@@ -1626,6 +1683,7 @@
  <show>National Geographic Riddles of the Bible Season 1</show>
  <show>National Geographic Riddles of the Bible Season 2</show>
  <show>National Geographic Riddles of the Dead Diagnosing Darwin</show>
+ <show>National Geographic Robot Soldiers</show>
  <show>National Geographic Rome Revealed</show>
  <show>National Geographic Royal Maya Massacre</show>
  <show>National Geographic Science of Gigantism</show>
@@ -1648,6 +1706,7 @@
  <show>National Geographic Strange Love</show>
  <show>National Geographic Super Diamonds</show>
  <show>National Geographic Super Pride</show>
+ <show>National Geographic Super Weed</show>
  <show>National Geographic Talibanistan Land of Terror</show>
  <show>National Geographic The Changing Ape</show>
  <show>National Geographic The Devils Bible</show>
@@ -1667,9 +1726,12 @@
  <show>National Geographic Ultimate Car Factories Series2</show>
  <show>National Geographic Ultimate Factories Collection</show>
  <show>National Geographic Valley Of The Kings</show>
+ <show>National Geographic Why Planes Crash Brace for Impact</show>
  <show>National Geographic Wicked Pirate City</show>
  <show>National Geographic Wild Russia</show>
  <show>National Geographic Wild Sex</show>
+ <show>National Geographic Witch Hunters Bible</show>
+ <show>National Geographic Witchcraft Myths &amp; Legends</show>
  <show>National Geographic Worlds Biggest Bomb</show>
  <show>National Geographic Worlds Biggest Cave</show>
  <show>National Geographic Worlds Deadliest Animals Amazon</show>
@@ -1679,6 +1741,7 @@
  <show>National Geographic Worlds Largest Cruise Ship</show>
  <show>National Geographic X ray Earth</show>
  <show>National Geographuic Romes Greatest Battles</show>
+ <show>National Georaphic Megafactories Swedish Super Car</show>
  <show>National geographic Death of the Earth</show>
  <show>National geographic Vampire Forensics</show>
  <show>Natural History NZ X Force Extreme Adventures Sailing The Sydney to Hobart Race</show>
@@ -2257,6 +2320,7 @@
  <show>Ultimate Poker Challenge</show>
  <show>Under the Spell of Horses</show>
  <show>Underbelly A Tale of Two Cities</show>
+ <show>Underbelly Razor</show>
  <show>Underbelly The Golden Mile</show>
  <show>Undercovers</show>
  <show>Unhitched</show>

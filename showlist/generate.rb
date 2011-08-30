@@ -53,6 +53,7 @@ FIX_SHOW = {
   "Teen Wolf (2011)" => "Teen Wolf",
   "The Office" => "The Office (US)",
   "The Daily Show" => "The Daily Show with Jon Stewart",
+  "The Hour UK 2011" => "The Hour (2011)",
   "The Killing" => "The Killing (2011)",
   "The Lying Game (2011)" => "The Lying Game",
   "Thundercats" => "Thundercats (2011)",
@@ -615,9 +616,9 @@ end
 index = TVShowsIndex.new
 index.loadPreviousData
 index.parseShowRSS
-#index.parseEZRSS
+index.parseEZRSS
 #index.parseHamsterspit
-index.parseBitSnoop
+#index.parseBitSnoop
 index.addCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS
