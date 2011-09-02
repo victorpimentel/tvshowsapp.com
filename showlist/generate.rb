@@ -265,6 +265,7 @@ TPB_USER = {
   "Shameless (US)" => "vtv",
   "The Daily Show with Jon Stewart" => "vtv",
   "The Colbert Report" => "vtv",
+  "The Good Wife" => "vtv",
   "Torchwood" => "vtv",
   "Rizzoli & Isles" => "vtv",
   "New Tricks" => "vtv",
