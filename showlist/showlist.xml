@@ -453,6 +453,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Crematorio</name>
+  <tvdbid>237081</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Crematorio&amp;userName=hero14</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Criminal Minds</name>
   <tvdbid>75710</tvdbid>
   <mirrors>
@@ -1158,6 +1165,13 @@
    <mirror>http://showrss.karmorra.info/feeds/313.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Mike+and+Molly&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Mike%20Molly%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Miranda</name>
+  <tvdbid>123721</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Miranda%20hdtv&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
