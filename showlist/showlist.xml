@@ -89,14 +89,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Angry Boys</name>
-  <tvdbid>244351</tvdbid>
-  <mirrors>
-   <mirror>http://ezrss.it/search/index.php?show_name=Angry+Boys&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Angry%20Boys%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Archer (2009)</name>
   <tvdbid>110381</tvdbid>
   <mirrors>
@@ -374,6 +366,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Chemistry</name>
+  <tvdbid>251405</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Chemistry%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Chuck</name>
   <tvdbid>80348</tvdbid>
   <mirrors>
@@ -505,6 +504,14 @@
    <mirror>http://showrss.karmorra.info/feeds/78.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Deadliest+Catch&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Deadliest%20Catch%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Death Valley</name>
+  <tvdbid>249905</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Death%20Valley%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Death%20Valley&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -794,15 +801,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Hawthorne</name>
-  <tvdbid>95741</tvdbid>
-  <mirrors>
-   <mirror>http://showrss.karmorra.info/feeds/186.rss</mirror>
-   <mirror>http://ezrss.it/search/index.php?show_name=Hawthorne&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Hawthorne%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Hell's Kitchen</name>
   <tvdbid>74897</tvdbid>
   <mirrors>
@@ -881,6 +879,13 @@
    <mirror>http://showrss.karmorra.info/feeds/174.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Hustle&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Hustle%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>I Just Want My Pants Back</name>
+  <tvdbid>251406</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=I%20Just%20Want%20My%20Pants%20Back%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1472,6 +1477,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Revenge</name>
+  <tvdbid>248837</tvdbid>
+  <mirrors>
+    <mirror>http://tvshowsapp.com/feed/?filter=Revenge%20eztv&amp;userName=eztv</mirror>
+    <mirror>http://tvshowsapp.com/feed/?filter=Revenge&amp;userName=politux</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Rizzoli &amp; Isles</name>
   <tvdbid>161461</tvdbid>
   <mirrors>
@@ -1840,6 +1853,13 @@
    <mirror>http://showrss.karmorra.info/feeds/82.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Daily+Show&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Daily%20Show%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Field Of Blood</name>
+  <tvdbid>248620</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Field%20Of%20Blood%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2271,6 +2291,13 @@
    <mirror>http://ezrss.it/search/index.php?show_name=Wilfred&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)&amp;userName=scenebalance</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wild Boys</name>
+  <tvdbid>251453</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wild%20Boys%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>

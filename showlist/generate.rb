@@ -298,6 +298,7 @@ TPB_USER = {
   "Metalocalypse" => "TvTeam",
   "Outnumbered" => "TvTeam",
   "Rob Dyrdek's Fantasy Factory" => "TvTeam",
+  "Take the Money and Run" => "TvTeam",
   "Top Chef Masters" => "TvTeam",
   "Top Shot" => "TvTeam",
   "Wizards of Waverly Place" => "TvTeam"
@@ -617,7 +618,7 @@ end
 index = TVShowsIndex.new
 index.loadPreviousData
 index.parseShowRSS
-index.parseEZRSS
+#index.parseEZRSS
 #index.parseHamsterspit
 #index.parseBitSnoop
 index.addCustomFeeds
