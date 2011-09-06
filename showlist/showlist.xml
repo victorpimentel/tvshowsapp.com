@@ -1964,6 +1964,7 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Lying+Game&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Lying%20Game%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Lying%20Game&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
