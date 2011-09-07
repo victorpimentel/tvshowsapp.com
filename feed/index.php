@@ -4,7 +4,7 @@ header('Content-Type: application/rss+xml; charset=ISO-8859-1');
 
 ob_start();   // start the output buffer
 
-$cachetime = 6 * 60 * 60; // 6 hours
+$cachetime = 2 * 60 * 60; // 2 hours
 
 // filter=Eureka&userName=eztv
 if ($_SERVER['QUERY_STRING']!='') {
