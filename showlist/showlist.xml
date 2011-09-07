@@ -518,7 +518,6 @@
   <tvdbid>249905</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Death%20Valley%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Death%20Valley&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -685,7 +684,6 @@
   <tvdbid>163571</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Friends%20with%20Benefits%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Friends%20with%20Benefits&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -704,7 +702,6 @@
    <mirror>http://showrss.karmorra.info/feeds/276.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Futurama&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Futurama%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Futurama&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -1054,7 +1051,6 @@
    <mirror>http://showrss.karmorra.info/feeds/278.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Louie&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Louie%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Louie&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -1250,8 +1246,6 @@
   <tvdbid>248261</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=NTSF%20SD%20SUV&amp;userName=TvTeam</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=NTSF%20SD%20SUV&amp;userName=scenebalance</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=NTSF:SD:SUV%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1425,7 +1419,6 @@
    <mirror>http://showrss.karmorra.info/feeds/157.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Project+Runway&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Project%20Runway%20-AU&amp;userName=TvTeam</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Project%20Runway%20-AU&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
@@ -1593,7 +1586,7 @@
    <mirror>http://showrss.karmorra.info/feeds/326.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Shameless&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Shameless+US&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20US%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1910,7 +1903,6 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Hour+UK+2011&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Hour%20(2011)%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Hour%20(2011)&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1964,7 +1956,6 @@
   <mirrors>
    <mirror>http://ezrss.it/search/index.php?show_name=The+Lying+Game&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Lying%20Game%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Lying%20Game&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2148,7 +2139,6 @@
   <name>Top Chef: Just Desserts</name>
   <tvdbid>186171</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef:%20Just%20Desserts&amp;userName=TvTeam</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef:%20Just%20Desserts%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
@@ -2298,7 +2288,6 @@
    <mirror>http://showrss.karmorra.info/feeds/362.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Wilfred&amp;show_name_exact=true&amp;mode=rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>
