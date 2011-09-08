@@ -1294,7 +1294,7 @@
   <name>Miranda</name>
   <tvdbid>123721</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Miranda%20hdtv&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Miranda&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2585,7 +2585,7 @@
   <name>Young Justice</name>
   <tvdbid>192061</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Young%20Justice%20hdtv&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Young%20Justice%20-web&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
 </shows>
