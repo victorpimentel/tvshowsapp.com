@@ -2079,6 +2079,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Glee Project</name>
+  <tvdbid>221391</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Glee%20Project&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Good Wife</name>
   <tvdbid>95451</tvdbid>
   <mirrors>
