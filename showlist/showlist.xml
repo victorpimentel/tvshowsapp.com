@@ -2125,7 +2125,7 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/100.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Chef&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20-Masters%20-Desserts%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2139,7 +2139,7 @@
   <name>Top Chef: Just Desserts</name>
   <tvdbid>186171</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef:%20Just%20Desserts%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef:%20Just%20Desserts&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
