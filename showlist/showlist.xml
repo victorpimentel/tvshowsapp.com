@@ -2148,7 +2148,21 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/117.rss</mirror>
    <mirror>http://ezrss.it/search/index.php?show_name=Top+Gear&amp;show_name_exact=true&amp;mode=rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20-US%20-Australia%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Gear Australia</name>
+  <tvdbid>83234</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20Australia&amp;userName=tonyisaac</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Gear (US)</name>
+  <tvdbid>199051</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20US&amp;userName=wilimaw</mirror>
   </mirrors>
  </show>
  <show>
