@@ -488,6 +488,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Crownies</name>
+  <tvdbid>249811</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Crownies&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Curb Your Enthusiasm</name>
   <tvdbid>76203</tvdbid>
   <mirrors>
@@ -1679,6 +1686,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Spirited</name>
+  <tvdbid>184951</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Spirited&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Spooks</name>
   <tvdbid>78890</tvdbid>
   <mirrors>
@@ -1773,6 +1787,13 @@
   <tvdbid>164091</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Terra%20Nova%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Almighty Johnsons</name>
+  <tvdbid>229981</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Almighty%20Johnsons&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
