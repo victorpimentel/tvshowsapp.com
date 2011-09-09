@@ -575,6 +575,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Downton Abbey</name>
+  <tvdbid>193131</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Downton%20Abbey%20-Hero&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Drop Dead Diva</name>
   <tvdbid>95771</tvdbid>
   <mirrors>
