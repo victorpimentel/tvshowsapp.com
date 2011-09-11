@@ -2084,6 +2084,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Soup</name>
+  <tvdbid>82483</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Soup&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Ultimate Fighter</name>
   <tvdbid>75382</tvdbid>
   <mirrors>
