@@ -60,6 +60,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Allen Gregory</name>
+  <tvdbid>249081</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Allen%20Gregory%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <mirrors>
@@ -602,6 +609,13 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/159.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Eastbound%20Down%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Enlightened</name>
+  <tvdbid>197101</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Enlightened%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1408,7 +1422,7 @@
   <name>Person of Interest</name>
   <tvdbid>248742</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Person%20of%20Interest%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Person%20of%20Interest%20-2007%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
