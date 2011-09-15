@@ -1051,7 +1051,7 @@
   <tvdbid>75088</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/248.rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Late%20Show%20with%20David%20Letterman%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=David%20Letterman%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1848,6 +1848,13 @@
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/290.rss</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Big%20C%20-Bang%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Body Farm</name>
+  <tvdbid>251676</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Body%20Farm%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
