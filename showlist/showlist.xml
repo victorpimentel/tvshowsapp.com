@@ -1964,6 +1964,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Increasingly Poor Decisions of Todd Margaret</name>
+  <tvdbid>140681</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Increasingly%20Poor%20Decisions%20of%20Todd%20Margaret&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The IT Crowd</name>
   <tvdbid>79216</tvdbid>
   <mirrors>
