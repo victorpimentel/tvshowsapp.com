@@ -573,6 +573,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Doc Martin</name>
+  <tvdbid>79285</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Doc%20Martin&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Doctor Who (2005)</name>
   <tvdbid>78804</tvdbid>
   <mirrors>
@@ -785,6 +792,13 @@
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Gran%20Reserva%20-dvdrip&amp;userName=carambolas</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Gran%20Reserva%20-dvdrip&amp;userName=Mois20</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Grand Designs</name>
+  <tvdbid>79264</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Grand%20Designs%20-Australia&amp;userName=scenebalance</mirror>
   </mirrors>
  </show>
  <show>

@@ -142,7 +142,6 @@ FIX_SHOW = {
   "Hows Your News" => "REMOVE FROM THE LIST",
   "iCarly" => "REMOVE FROM THE LIST",
   "In Hamrs Way" => "REMOVE FROM THE LIST",
-  "The Increasingly Poor Decisions of Todd Margaret" => "REMOVE FROM THE LIST",
   "Inked" => "REMOVE FROM THE LIST",
   "Inside The Actors Studio" => "REMOVE FROM THE LIST",
   "James May's Man Lab" => "REMOVE FROM THE LIST",
