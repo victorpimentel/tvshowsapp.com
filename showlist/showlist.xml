@@ -705,10 +705,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Free Agents</name>
+  <name>Free Agents (US)</name>
   <tvdbid>248942</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Free%20Agents%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Free%20Agents%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -800,6 +800,13 @@
   <tvdbid>248736</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Grimm%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>H8R</name>
+  <tvdbid>249491</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=H8R&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
