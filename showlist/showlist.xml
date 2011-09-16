@@ -1758,6 +1758,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Storm Chasers</name>
+  <tvdbid>83498</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Storm%20Chasers&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Strike Back</name>
   <tvdbid>148581</tvdbid>
   <mirrors>
