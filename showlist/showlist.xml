@@ -1642,6 +1642,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Shameless</name>
+  <tvdbid>78846</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20-US%20&amp;userName=sceneline</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Shameless (US)</name>
   <tvdbid>161511</tvdbid>
   <mirrors>
