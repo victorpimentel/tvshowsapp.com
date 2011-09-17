@@ -1279,7 +1279,7 @@
   <tvdbid>72108</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/47.rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=NCIS%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=NCIS%20-Angeles%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1287,7 +1287,7 @@
   <tvdbid>95441</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/207.rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=NCIS:%20Los%20Angeles%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=NCIS:%20Los%20Angeles%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1346,7 +1346,7 @@
   <tvdbid>164301</tvdbid>
   <mirrors>
    <mirror>http://showrss.karmorra.info/feeds/297.rss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Nikita%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Nikita%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
