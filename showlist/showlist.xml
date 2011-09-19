@@ -403,7 +403,7 @@
   <name>Comedy Central Presents</name>
   <tvdbid>74337</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Comedy%20Central%20Presents%20-pdtv&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Comedy%20Central%20Presents%20-pdtv%20-S13*%20-S14*&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
