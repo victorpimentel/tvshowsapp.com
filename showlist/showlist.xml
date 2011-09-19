@@ -1045,13 +1045,6 @@
   </mirrors>
  </show>
  <show>
-  <name>MTV Movie Awards</name>
-  <tvdbid>80203</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=MTV%20Movie%20Awards%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Mad Dogs</name>
   <tvdbid>217071</tvdbid>
   <mirrors>
