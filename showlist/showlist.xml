@@ -400,6 +400,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Comedy Central Presents</name>
+  <tvdbid>74337</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Comedy%20Central%20Presents%20-pdtv&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Community</name>
   <tvdbid>94571</tvdbid>
   <mirrors>
