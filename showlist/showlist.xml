@@ -130,7 +130,7 @@
   <name>Are You There, Vodka? It's Me, Chelsea</name>
   <tvdbid>248813</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Are%20You%20There,%20Vodka%20Its%20Me,%20Chelsea%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Are%20You%20There,%20Vodka?%20Its%20Me,%20Chelsea%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -575,13 +575,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Entourage</name>
-  <tvdbid>74543</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Entourage%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Episodes</name>
   <tvdbid>123581</tvdbid>
   <mirrors>
@@ -656,13 +649,6 @@
   <tvdbid>248942</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Free%20Agents%20(US)%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Friends with Benefits</name>
-  <tvdbid>163571</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Friends%20with%20Benefits%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -947,6 +933,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Jimmy Kimmel Live</name>
+  <tvdbid>71998</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Jimmy%20Kimmel&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Justified</name>
   <tvdbid>134241</tvdbid>
   <mirrors>
@@ -979,6 +972,13 @@
   <tvdbid>248834</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Last%20Man%20Standing%20-1996%20-2008%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Late Night with Jimmy Fallon</name>
+  <tvdbid>85355</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Jimmy%20Fallon&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1251,7 +1251,7 @@
   <name>Once Upon A Time (2011)</name>
   <tvdbid>248835</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Once%20%Upon%A%Time%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Once%20Upon%20A%20Time%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1349,7 +1349,7 @@
   <name>Prime Suspect</name>
   <tvdbid>248905</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Prime%20%Suspect%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Prime%20Suspect%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1409,13 +1409,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Rescue Me</name>
-  <tvdbid>73741</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Rescue%20Me%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Rev</name>
   <tvdbid>172361</tvdbid>
   <mirrors>
@@ -1426,15 +1419,15 @@
   <name>Revenge</name>
   <tvdbid>248837</tvdbid>
   <mirrors>
-    <mirror>http://tvshowsapp.com/feed/?filter=Revenge%20eztv&amp;userName=eztv</mirror>
-    <mirror>http://tvshowsapp.com/feed/?filter=Revenge&amp;userName=politux</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Revenge%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Revenge&amp;userName=politux</mirror>
   </mirrors>
  </show>
  <show>
   <name>Ringer</name>
   <tvdbid>248868</tvdbid>
   <mirrors>
-    <mirror>http://tvshowsapp.com/feed/?filter=Ringer%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ringer%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1512,13 +1505,14 @@
   <tvdbid>78846</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20-US%20&amp;userName=sceneline</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20-US&amp;userName=sceneline</mirror>
   </mirrors>
  </show>
  <show>
   <name>Shameless (US)</name>
   <tvdbid>161511</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20US%20vtv&amp;userName=vtv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20(US)%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1596,13 +1590,6 @@
   <tvdbid>78890</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Spooks%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Sports Show with Norm Macdonald</name>
-  <tvdbid>246451</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Sports%20Show%20with%20Norm%20Macdonald%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1830,17 +1817,17 @@
   </mirrors>
  </show>
  <show>
-  <name>The Increasingly Poor Decisions of Todd Margaret</name>
-  <tvdbid>140681</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Increasingly%20Poor%20Decisions%20of%20Todd%20Margaret&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The IT Crowd</name>
   <tvdbid>79216</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20IT%20Crowd%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Increasingly Poor Decisions of Todd Margaret</name>
+  <tvdbid>140681</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Increasingly%20Poor%20Decisions%20of%20Todd%20Margaret&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1900,13 +1887,6 @@
   </mirrors>
  </show>
  <show>
-  <name>The Nine Lives of Chloe King</name>
-  <tvdbid>247774</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Nine%20Lives%20of%20Chloe%20King%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The Office (US)</name>
   <tvdbid>73244</tvdbid>
   <mirrors>
@@ -1918,13 +1898,6 @@
   <tvdbid>248830</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Playboy%20Club%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>The Protector</name>
-  <tvdbid>248929</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Protector%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2029,7 +2002,7 @@
   <name>The X Factor (US)</name>
   <tvdbid>230121</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20X%20Factor%20US%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20X%20Factor%20(US)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2068,17 +2041,17 @@
   </mirrors>
  </show>
  <show>
+  <name>Top Gear (US)</name>
+  <tvdbid>199051</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20(US)&amp;userName=wilimaw</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Top Gear Australia</name>
   <tvdbid>83234</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20Australia&amp;userName=tonyisaac</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Top Gear (US)</name>
-  <tvdbid>199051</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Gear%20US&amp;userName=wilimaw</mirror>
   </mirrors>
  </show>
  <show>
@@ -2208,13 +2181,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Wilfred (US)</name>
-  <tvdbid>239761</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Wild Boys</name>
   <tvdbid>251453</tvdbid>
   <mirrors>
@@ -2222,10 +2188,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Wired Science</name>
-  <tvdbid>80708</tvdbid>
+  <name>Wilfred (US)</name>
+  <tvdbid>239761</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Wired%20Science%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
