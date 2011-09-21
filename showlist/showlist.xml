@@ -2090,6 +2090,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Tosh.0</name>
+  <tvdbid>97731</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Tosh%200&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Treme</name>
   <tvdbid>84946</tvdbid>
   <mirrors>
