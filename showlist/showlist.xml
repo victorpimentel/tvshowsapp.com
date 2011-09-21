@@ -1908,6 +1908,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Only Way Is Essex</name>
+  <tvdbid>196981</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Only%20Way%20Is%20Essex%20-dvdrip&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Playboy Club</name>
   <tvdbid>248830</tvdbid>
   <mirrors>
