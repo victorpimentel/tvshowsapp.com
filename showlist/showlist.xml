@@ -2006,6 +2006,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Republic of Doyle</name>
+  <tvdbid>133251</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Republic%20of%20Doyle&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Ricky Gervais Show</name>
   <tvdbid>142581</tvdbid>
   <mirrors>
