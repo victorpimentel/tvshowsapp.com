@@ -141,6 +141,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Argumental</name>
+  <tvdbid>83597</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Argumental&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Army Wives</name>
   <tvdbid>80231</tvdbid>
   <mirrors>
@@ -821,6 +828,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Have I Got News For You</name>
+  <tvdbid>74281</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Have%20I%20Got%20News%20For%20You&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Haven</name>
   <tvdbid>158661</tvdbid>
   <mirrors>
@@ -933,6 +947,13 @@
   </mirrors>
  </show>
  <show>
+  <name>IRT Deadliest Roads</name>
+  <tvdbid>194271</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=IRT%20Deadliest%20Roads&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Ideal</name>
   <tvdbid>74345</tvdbid>
   <mirrors>
@@ -965,13 +986,6 @@
   <tvdbid>74325</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Iron%20Chef%20America&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>IRT Deadliest Roads</name>
-  <tvdbid>194271</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=IRT%20Deadliest%20Roads&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1269,6 +1283,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Never Mind The Buzzcocks</name>
+  <tvdbid>78051</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Never%20Mind%20The%20Buzzcocks&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>New Girl</name>
   <tvdbid>248682</tvdbid>
   <mirrors>
@@ -1294,6 +1315,13 @@
   <tvdbid>164301</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Nikita%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Not Going Out</name>
+  <tvdbid>80411</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Not%20Going%20Out&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1472,6 +1500,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Republic of Doyle</name>
+  <tvdbid>133251</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Republic%20of%20Doyle&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Rev</name>
   <tvdbid>172361</tvdbid>
   <mirrors>
@@ -1547,6 +1582,13 @@
   <tvdbid>82881</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rush%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Russell Howard's Good News</name>
+  <tvdbid>120541</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Russell%20Howards%20Good%20News&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1995,56 +2037,56 @@
   <name>The Real Housewives of Atlanta</name>
   <tvdbid>84159</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Atlanta&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Atlanta&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of Beverly Hills</name>
   <tvdbid>196741</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Beverly%20Hills&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Beverly%20Hills&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of DC</name>
   <tvdbid>170151</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20DC&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20DC&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of Miami</name>
   <tvdbid>228691</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Miami&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Miami&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of New Jersey</name>
   <tvdbid>89831</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20Jersey&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20Jersey&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of New York City</name>
   <tvdbid>84669</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20York%20City&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20York%20City&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Real Housewives of Orange County</name>
   <tvdbid>80117</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Orange%20County&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Orange%20County&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
-  <name>Republic of Doyle</name>
-  <tvdbid>133251</tvdbid>
+  <name>The Real Hustle</name>
+  <tvdbid>79565</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Republic%20of%20Doyle&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Hustle&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2153,24 +2195,24 @@
   </mirrors>
  </show>
  <show>
-  <name>Thundercats (2011)</name>
-  <tvdbid>241431</tvdbid>
+  <name>This Is Not My Life</name>
+  <tvdbid>179351</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Thundercats%20(2011)%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Not%20My%20Life&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
-  <name>This is Jinsy</name>
+  <name>This Is Jinsy</name>
   <tvdbid>150231</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Jinsy&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
-  <name>This Is Not My Life</name>
-  <tvdbid>179351</tvdbid>
+  <name>Thundercats (2011)</name>
+  <tvdbid>241431</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Not%20My%20Life&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Thundercats%20(2011)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2289,7 +2331,7 @@
   <name>Unforgettable</name>
   <tvdbid>248861</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Unforgettable%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Unforgettable%20-2010%20-2008%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2332,6 +2374,13 @@
   <tvdbid>108611</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=White%20Collar%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>White Van Man (2011)</name>
+  <tvdbid>242801</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=White%20Van%20Man%20(2011)&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2381,6 +2430,13 @@
   <tvdbid>249318</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Worlds%20Crazy%20Fools%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Would I Lie To You?</name>
+  <tvdbid>82548</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Would%20I%20Lie%20To%20You?&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
