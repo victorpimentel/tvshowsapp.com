@@ -8,6 +8,13 @@
   </mirrors>
  </show>
  <show>
+  <name>16 and Pregnant</name>
+  <tvdbid>126011</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=16%20and%20Pregnant&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>2 Broke Girls</name>
   <tvdbid>248741</tvdbid>
   <mirrors>
@@ -194,6 +201,13 @@
   <tvdbid>196921</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Human%20(US)%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bethenny Ever After</name>
+  <tvdbid>247541</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bethenny%20Ever%20After&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1346,6 +1360,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Police Women of Broward County</name>
+  <tvdbid>112161</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Police%20Women%20of%20Broward%20County&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Portlandia</name>
   <tvdbid>213221</tvdbid>
   <mirrors>
@@ -1719,6 +1740,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Bad Girls Club</name>
+  <tvdbid>134161</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Bad%20Girls%20Club&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Big Bang Theory</name>
   <tvdbid>80379</tvdbid>
   <mirrors>
@@ -1873,6 +1901,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Little Couple</name>
+  <tvdbid>98481</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Little%20Couple&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Lying Game</name>
   <tvdbid>234461</tvdbid>
   <mirrors>
@@ -1919,6 +1954,55 @@
   <tvdbid>248830</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Playboy%20Club%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of Atlanta</name>
+  <tvdbid>84159</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Atlanta&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of Beverly Hills</name>
+  <tvdbid>196741</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Beverly%20Hills&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of DC</name>
+  <tvdbid>170151</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20DC&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of Miami</name>
+  <tvdbid>228691</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Miami&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of New Jersey</name>
+  <tvdbid>89831</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20Jersey&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of New York City</name>
+  <tvdbid>84669</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20New%20York%20City&amp;username=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Real Housewives of Orange County</name>
+  <tvdbid>80117</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Housewives%20of%20Orange%20County&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>

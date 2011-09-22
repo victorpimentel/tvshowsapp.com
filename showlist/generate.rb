@@ -249,6 +249,8 @@ TPB_CORRECTIONS = {
   "CSI: Crime Scene Investigation" => "CSI -miami -ny -new",
   "CSI: NY" => "CSI New York",
   "The Daily Show with Jon Stewart" => "The Daily Show",
+  "Dancing With The Stars" => "Dancing With The Stars -AU",
+  "Dancing With The Stars (Australia)" => "Dancing With The Stars AU",
   "Downton Abbey" => "Downton Abbey -Hero",
   "The Firm" => "The Firm -dvdrip",
   "The Game" => "The Game -Lying -Plan",
@@ -269,12 +271,14 @@ TPB_CORRECTIONS = {
   "NCIS" => "NCIS -Angeles",
   "NTSF:SD:SUV" => "NTSF SD SUV",
   "Once Upon A Time (2011)" => "Once Upon A Time",
+  "The Only Way Is Essex" => "The Only Way Is Essex -dvdrip",
   "Parenthood (2010)" => "Parenthood",
   "Person of Interest" => "Person of Interest -2007",
   "Project Runway" => "Project Runway -AU",
   "The River (2011)" => "The River -Murders",
   "Top Chef" => "Top Chef -Masters -Desserts",
   "Top Gear" => "Top Gear -US -Australia",
+  "Tosh.0" => "Tosh 0",
   "Shameless" => "Shameless -US",
   "Shut Up!" => "Shut Up",
   "Skins" => "Skins -US",
@@ -312,12 +316,16 @@ TPB_USER = {
   "Web Therapy" => "vtv",
   "Wilfred (US)" => "vtv",
 
+  "16 and Pregnant" => "TvTeam",
   "The Almighty Johnsons" => "TvTeam",
   "Are We There Yet?" => "TvTeam",
   "Army Wives" => "TvTeam",
+  "The Bad Girls Club" => "TvTeam",
+  "Bethenny Ever After" => "TvTeam",
   "Blue Mountain State" => "TvTeam",
   "Britain's Got Talent" => "TvTeam",
   "Celebrity Rehab with Dr. Drew" => "TvTeam",
+  "Childrens Hospital" => "TvTeam",
   "Comedy Central Presents" => "TvTeam",
   "Crownies" => "TvTeam",
   "Doc Martin" => "TvTeam",
@@ -331,10 +339,13 @@ TPB_USER = {
   "Iron Chef America" => "TvTeam",
   "Jimmy Kimmel Live" => "TvTeam",
   "Late Night with Jimmy Fallon" => "TvTeam",
+  "The Little Couple" => "TvTeam",
   "Metalocalypse" => "TvTeam",
   "Miranda" => "TvTeam",
   "NTSF:SD:SUV" => "TvTeam",
+  "The Only Way Is Essex" => "TvTeam",
   "Outnumbered" => "TvTeam",
+  "Police Women of Broward County" => "TvTeam",
   "Project Runway" => "TvTeam",
   "Rob Dyrdek's Fantasy Factory" => "TvTeam",
   "Spirited" => "TvTeam",
@@ -344,6 +355,7 @@ TPB_USER = {
   "Top Chef Masters" => "TvTeam",
   "Top Chef: Just Desserts" => "TvTeam",
   "Top Shot" => "TvTeam",
+  "Tosh.0" => "TvTeam",
   "Up All Night" => "TvTeam",
   "Wizards of Waverly Place" => "TvTeam",
   "Young Justice" => "TvTeam",
@@ -676,6 +688,7 @@ index.loadPreviousData
 #index.parseEZRSS
 #index.parseHamsterspit
 #index.parseBitSnoop
+ARGV.map {|s| index.addShow Show.new(s)}
 index.addCustomFeeds
 index.dumpShowsToRSS
 index.dumpEndedShowsToRSS
