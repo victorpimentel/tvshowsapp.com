@@ -211,6 +211,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Billy Connolly's Route 66</name>
+  <tvdbid>251909</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Billy%20Connollys%20Route%2066&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Black Gold</name>
   <tvdbid>82297</tvdbid>
   <mirrors>
@@ -884,6 +891,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Hulk Hogan's Micro Championship Wrestling</name>
+  <tvdbid>251901</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Hulk%20Hogans%20MCW&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Human Target</name>
   <tvdbid>76857</tvdbid>
   <mirrors>
@@ -951,6 +965,13 @@
   <tvdbid>74325</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Iron%20Chef%20America&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>IRT Deadliest Roads</name>
+  <tvdbid>194271</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=IRT%20Deadliest%20Roads&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2139,6 +2160,20 @@
   </mirrors>
  </show>
  <show>
+  <name>This is Jinsy</name>
+  <tvdbid>150231</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Jinsy&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>This Is Not My Life</name>
+  <tvdbid>179351</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Not%20My%20Life&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Top Chef</name>
   <tvdbid>79313</tvdbid>
   <mirrors>
@@ -2254,7 +2289,7 @@
   <name>Unforgettable</name>
   <tvdbid>248861</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Unforgettable%20-2010%20-2008%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Unforgettable%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
