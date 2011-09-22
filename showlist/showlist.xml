@@ -687,6 +687,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Fresh Meat</name>
+  <tvdbid>251889</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Fresh%20Meat%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Fringe</name>
   <tvdbid>82066</tvdbid>
   <mirrors>
@@ -1807,6 +1814,13 @@
   <tvdbid>71256</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Daily%20Show%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Fades</name>
+  <tvdbid>251539</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Fades%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
