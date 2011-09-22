@@ -1792,7 +1792,14 @@
   <name>The Amazing Race</name>
   <tvdbid>77666</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20-AU%20-Australia%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Amazing Race Australia</name>
+  <tvdbid>248618</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20AU&amp;username=TvTeam</mirror>
   </mirrors>
  </show>
  <show>

@@ -239,6 +239,8 @@ FIX_SHOW = {
 }
 
 TPB_CORRECTIONS = {
+  "The Amazing Race" => "The Amazing Race -AU -Australia",
+  "The Amazing Race Australia" => "The Amazing Race AU",
   "The Apprentice" => "The Apprentice -UK",
   "Being Human" => "Being Human -US",
   "Big Brother" => "Big Brother US",
@@ -284,9 +286,7 @@ TPB_CORRECTIONS = {
   "Shut Up!" => "Shut Up",
   "Unforgettable" => "Unforgettable -2010 -2008",
   "Skins" => "Skins -US",
-  "White Van Man (2011)" => "TvTeam",
   "Whitney" => "Whitney -Cummings",
-  "Would I Lie To You?" => "TvTeam",
   "The X Factor" => "The X Factor -US",
   "Young Justice" => "Young Justice -web"
 }
@@ -321,6 +321,7 @@ TPB_USER = {
 
   "16 and Pregnant" => "TvTeam",
   "The Almighty Johnsons" => "TvTeam",
+  "The Amazing Race Australia" => "TvTeam",
   "Are We There Yet?" => "TvTeam",
   "Argumental" => "TvTeam",
   "Army Wives" => "TvTeam",
@@ -381,6 +382,7 @@ TPB_USER = {
   "Up All Night" => "TvTeam",
   "White Van Man (2011)" => "TvTeam",
   "Wizards of Waverly Place" => "TvTeam",
+  "Would I Lie To You?" => "TvTeam",
   "Young Justice" => "TvTeam",
 
   "Batman: The Brave & the Bold" => "despo1ler",
