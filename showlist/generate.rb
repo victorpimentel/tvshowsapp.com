@@ -253,6 +253,7 @@ TPB_CORRECTIONS = {
   "The Daily Show with Jon Stewart" => "The Daily Show",
   "Dancing With The Stars" => "Dancing With The Stars -AU",
   "Dancing With The Stars (Australia)" => "Dancing With The Stars AU",
+  "Dirty Money" => "Dirty Money -Sexy",
   "Downton Abbey" => "Downton Abbey -Hero",
   "The Firm" => "The Firm -dvdrip",
   "The Game" => "The Game -Lying -Plan",
@@ -709,10 +710,10 @@ end
 
 index = TVShowsIndex.new
 index.loadPreviousData
-#index.parseShowRSS
-#index.parseEZRSS
+index.parseShowRSS
+index.parseEZRSS
 #index.parseHamsterspit
-#index.parseBitSnoop
+index.parseBitSnoop
 ARGV.map {|s| index.addShow Show.new(s)}
 index.addCustomFeeds
 index.dumpShowsToRSS

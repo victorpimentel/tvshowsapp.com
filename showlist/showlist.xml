@@ -144,7 +144,7 @@
   <name>Argumental</name>
   <tvdbid>83597</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Argumental&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Argumental&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -575,6 +575,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Dirty Money</name>
+  <tvdbid>85147</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Dirty%20Money%20-Sexy%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Doc Martin</name>
   <tvdbid>79285</tvdbid>
   <mirrors>
@@ -831,7 +838,7 @@
   <name>Have I Got News For You</name>
   <tvdbid>74281</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Have%20I%20Got%20News%20For%20You&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Have%20I%20Got%20News%20For%20You&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -853,13 +860,6 @@
   <tvdbid>74897</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hells%20Kitchen%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Hiccups</name>
-  <tvdbid>142001</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Hiccups%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1286,7 +1286,7 @@
   <name>Never Mind The Buzzcocks</name>
   <tvdbid>78051</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Never%20Mind%20The%20Buzzcocks&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Never%20Mind%20The%20Buzzcocks&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1321,7 +1321,7 @@
   <name>Not Going Out</name>
   <tvdbid>80411</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Not%20Going%20Out&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Not%20Going%20Out&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1518,7 +1518,6 @@
   <tvdbid>248837</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Revenge%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Revenge&amp;userName=politux</mirror>
   </mirrors>
  </show>
  <show>
@@ -1588,7 +1587,7 @@
   <name>Russell Howard's Good News</name>
   <tvdbid>120541</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Russell%20Howards%20Good%20News&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Russell%20Howards%20Good%20News&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1609,7 +1608,6 @@
   <name>Shameless</name>
   <tvdbid>78846</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20-US%20&amp;userName=sceneline</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20-US&amp;userName=sceneline</mirror>
   </mirrors>
  </show>
@@ -1799,7 +1797,7 @@
   <name>The Amazing Race Australia</name>
   <tvdbid>248618</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20AU&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Amazing%20Race%20AU&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2093,7 +2091,7 @@
   <name>The Real Hustle</name>
   <tvdbid>79565</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Hustle&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Real%20Hustle&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2202,17 +2200,17 @@
   </mirrors>
  </show>
  <show>
-  <name>This Is Not My Life</name>
-  <tvdbid>179351</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Not%20My%20Life&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
   <name>This Is Jinsy</name>
   <tvdbid>150231</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Jinsy&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>This Is Not My Life</name>
+  <tvdbid>179351</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20Not%20My%20Life&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2387,7 +2385,7 @@
   <name>White Van Man (2011)</name>
   <tvdbid>242801</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=White%20Van%20Man%20(2011)&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=White%20Van%20Man%20(2011)&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2443,7 +2441,7 @@
   <name>Would I Lie To You?</name>
   <tvdbid>82548</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Would%20I%20Lie%20To%20You?&amp;username=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Would%20I%20Lie%20To%20You?&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>

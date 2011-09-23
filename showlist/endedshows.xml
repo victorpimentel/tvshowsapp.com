@@ -47,6 +47,7 @@
  <show>According to Jim</show>
  <show>Afghanistan Drugs Guns &amp; Money</show>
  <show>Aftermath Population Zero</show>
+ <show>Al Jazeera People &amp; Power</show>
  <show>Al Jazeera Witness</show>
  <show>Aliens In America</show>
  <show>All of Us</show>
@@ -95,6 +96,7 @@
  <show>BBC A Life Without Work 1of</show>
  <show>BBC A Life Without Work 2of</show>
  <show>BBC A Scot in the Arctic x</show>
+ <show>BBC A Year at Kew</show>
  <show>BBC Absolute Zero</show>
  <show>BBC Afghanistan</show>
  <show>BBC African Railway</show>
@@ -145,6 +147,7 @@
  <show>BBC Charles Darwin &amp; the Tree of Life</show>
  <show>BBC Charles Rennie Mackintosh The Modern Man</show>
  <show>BBC Chemistry A Volatile History</show>
+ <show>BBC Chilean Miners 17 Days Buried Alive 468p</show>
  <show>BBC Chopin The Women Behind the Music</show>
  <show>BBC Chopin The Women Behind the Music x</show>
  <show>BBC Christina A Medieval Life</show>
@@ -266,6 +269,7 @@
  <show>BBC James Mays Toy Stories The Great Train Race</show>
  <show>BBC Jane Goodall Beauty &amp; the Beasts PDTV x</show>
  <show>BBC Jean Sibelius</show>
+ <show>BBC Jig The Great Irish Dance Off 468p</show>
  <show>BBC Jimmys Christmas Food Factory</show>
  <show>BBC Jimmys Farm Series 1</show>
  <show>BBC Jimmys Farm Series 1 Extra Back on Jimmys Farm Specail June</show>
@@ -333,6 +337,7 @@
  <show>BBC Newcastle on Film</show>
  <show>BBC Nixon in the Den PDTV x</show>
  <show>BBC OCEANS</show>
+ <show>BBC Ocean Giants</show>
  <show>BBC Oliver Postgate A Life in Small Films PDTV x</show>
  <show>BBC Omnibus</show>
  <show>BBC On Hannibals Trail</show>
@@ -341,6 +346,7 @@
  <show>BBC Opera Italia</show>
  <show>BBC Operation Crossbow</show>
  <show>BBC Operation Mincemeat</show>
+ <show>BBC Our World</show>
  <show>BBC Our World Brazils Child Prostitutes</show>
  <show>BBC Oz &amp; Hugh Raise the Bar</show>
  <show>BBC Panorama</show>
@@ -557,6 +563,7 @@
  <show>BBC Wonder s of the Solar System</show>
  <show>BBC Wonders of the Solar System</show>
  <show>BBC Wonders of the Universe</show>
+ <show>BBC Wonderstuff</show>
  <show>BBC Wootton Bassett The Town That Remembers</show>
  <show>BBC World War Two</show>
  <show>BBC Yellowstone</show>
@@ -699,13 +706,16 @@
  <show>Ch4 Gordon Ramsay Shark Bait</show>
  <show>Ch4 Hurricane Katrina Caught on Camera</show>
  <show>Ch4 Inside Incredible Athletes</show>
+ <show>Ch4 Inside Natures Giants</show>
  <show>Ch4 Inside Natures Giants Series 2</show>
  <show>Ch4 Machines Time Forgot</show>
  <show>Ch4 Making the Monkees</show>
+ <show>Ch4 Murdoch The Mogul Who Screwed the Ne</show>
  <show>Ch4 Mutiny The True Story of the Red October</show>
  <show>Ch4 Our Drugs War</show>
  <show>Ch4 Sex Bomb</show>
  <show>Ch4 Slumming It</show>
+ <show>Ch4 Stephen Frys</show>
  <show>Ch4 The Amy Winehouse Story</show>
  <show>Ch4 The Ascent of Money</show>
  <show>Ch4 The Battle Of Hood &amp; Bismarck</show>
@@ -989,6 +999,7 @@
  <show>Discovery Sunrise Earth Polar Bears</show>
  <show>Discovery Sunrise Earth San Francisco Tai Chi x</show>
  <show>Discovery Sunrise Earth Sunrise Seal Colony x</show>
+ <show>Discovery Sunrise Earth Viewers Choice Great Barrier Reef</show>
  <show>Discovery Sunrise Earth Wildflower Elk x</show>
  <show>Discovery The Beauty of Snakes x</show>
  <show>Discovery The Blue Realm</show>
@@ -1175,6 +1186,7 @@
  <show>Heroes of Aviation</show>
  <show>Heroes of Aviation 03of10 World War</show>
  <show>Heroes ofation</show>
+ <show>Hiccups</show>
  <show>Hidden Palms</show>
  <show>His Dark Materials Book 1 Northern Lights</show>
  <show>His Dark Materials Book 2 The Subtle Knife</show>
@@ -1398,6 +1410,8 @@
  <show>Level3 E223</show>
  <show>Level3 E224</show>
  <show>Level3 E225</show>
+ <show>Level3 E228</show>
+ <show>Level3 E229</show>
  <show>Lie to Me</show>
  <show>Lie to me</show>
  <show>Life</show>
@@ -1574,6 +1588,7 @@
  <show>National Geographic Crystal Skull Legend</show>
  <show>National Geographic Darwins Secret Notebooks</show>
  <show>National Geographic Death Of The Universe</show>
+ <show>National Geographic DeepSea Under the Pole</show>
  <show>National Geographic Desert Seas</show>
  <show>National Geographic Destroyed By Nature</show>
  <show>National Geographic Dinosaur Hunters</show>
@@ -1597,6 +1612,7 @@
  <show>National Geographic Explorer Electronic Armageddon x</show>
  <show>National Geographic Explorer Talibanistan</show>
  <show>National Geographic Explorer Talibanistan HDTV x</show>
+ <show>National Geographic Extreme Lives Prison Love</show>
  <show>National Geographic Extreme Railway Qinghai Tibet Railway</show>
  <show>National Geographic Flying Sky Monsters</show>
  <show>National Geographic Ghost Ship Resurrection</show>
@@ -1615,10 +1631,12 @@
  <show>National Geographic Hidden Worlds Underground Rome</show>
  <show>National Geographic Hitler &amp; the Occult</show>
  <show>National Geographic How Life Began</show>
+ <show>National Geographic How to Build a Volcano</show>
  <show>National Geographic Hubbles Final Frontier</show>
  <show>National Geographic Hunt for Aliens</show>
  <show>National Geographic Hunt for the Abominable Snowman</show>
  <show>National Geographic Hunt for the Lost Ark</show>
+ <show>National Geographic Hunters of the Lost World</show>
  <show>National Geographic Icons of Power Catherine the Great x</show>
  <show>National Geographic Icons of Power Henry VIII x</show>
  <show>National Geographic Icons of Power Napoleon x</show>
@@ -1636,6 +1654,7 @@
  <show>National Geographic Kingdom of the Blue Whale</show>
  <show>National Geographic Knights Templar Warriors of God</show>
  <show>National Geographic Life of Oceans</show>
+ <show>National Geographic Lightning Strike</show>
  <show>National Geographic Living on Mars</show>
  <show>National Geographic Lost Mines of King Solomon</show>
  <show>National Geographic Lost Mummies of Papua New Guinea</show>
@@ -1731,6 +1750,7 @@
  <show>National Geographic Ultimate Factories Collection</show>
  <show>National Geographic Valley Of The Kings</show>
  <show>National Geographic Why Planes Crash Brace for Impact</show>
+ <show>National Geographic Why Planes Crash Fire In The Sky</show>
  <show>National Geographic Wicked Pirate City</show>
  <show>National Geographic Wild Russia</show>
  <show>National Geographic Wild Sex</show>
@@ -1856,6 +1876,7 @@
  <show>Rescue Me (2004)</show>
  <show>Respectable</show>
  <show>Reunion</show>
+ <show>Revelation of the Pyramids</show>
  <show>Rich &amp; Reckless</show>
  <show>Riding US Route 1</show>
  <show>Rise of the Video Game</show>
@@ -1954,7 +1975,9 @@
  <show>Six Degrees</show>
  <show>Skins (US)</show>
  <show>Skins US</show>
+ <show>Sky Futurama Welcome to the World of Tomorrow</show>
  <show>Sky Ross Kemp Middle East</show>
+ <show>Sky Shakespeares Globe</show>
  <show>Sky Special The Simpsons Movie</show>
  <show>Sky The World Wild Vet Series1</show>
  <show>Sky Vet Adventures Series2</show>
@@ -1987,6 +2010,7 @@
  <show>Stargate SG 1 The Ark Of Truth</show>
  <show>Stargate Universe</show>
  <show>Stargate: SG-1</show>
+ <show>Stephen Frys</show>
  <show>Steve Irwin A Tribute To The Crocodile Hunter</show>
  <show>Studio 60 on the Sunset Strip</show>
  <show>Stunt Junkies</show>
@@ -2029,6 +2053,7 @@
  <show>Terry Pratchetts HogFather Part 2</show>
  <show>Terry Pratchetts The Colour Of Magic Part1</show>
  <show>Terry Pratchetts The Colour Of Magic Part2</show>
+ <show>Thames Television Crime Inc</show>
  <show>Thank God Youre Here AU</show>
  <show>Thank God Youre Here US</show>
  <show>The 33rd Annual Peoples Choice Awards</show>
@@ -2082,6 +2107,7 @@
  <show>The Class</show>
  <show>The Cleaner</show>
  <show>The Closer (2005)</show>
+ <show>The Code</show>
  <show>The Colbert Report 08 Aug 07 (</show>
  <show>The Colbert Report 08 Jan 08 (</show>
  <show>The Colbert Report 16 May 07 (</show>
@@ -2114,6 +2140,7 @@
  <show>The End of the Line</show>
  <show>The Event</show>
  <show>The Ex List</show>
+ <show>The Field Of Blood</show>
  <show>The First Emperor The Man Who Made China</show>
  <show>The Forgotten</show>
  <show>The Forgotten 2009</show>
@@ -2165,6 +2192,7 @@
  <show>The Lost Room Part 2 (</show>
  <show>The Lost Room Part 3 (</show>
  <show>The Making Of Modern Australia</show>
+ <show>The Man Who Crossed Hitler</show>
  <show>The Map Makers</show>
  <show>The Map Makers 1of3 Discovery The Waldseemuller Map</show>
  <show>The Map Makers 2of3 Religion The Mercator Atlas</show>
@@ -2354,6 +2382,7 @@
  <show>Wallace &amp; Gromit A Matter Of Loaf &amp; Death</show>
  <show>Waste Land</show>
  <show>Water Life</show>
+ <show>We Live in Public</show>
  <show>Welcome to The Captain</show>
  <show>Whale Dreamers DVD x</show>
  <show>What About Brian</show>
