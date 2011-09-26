@@ -345,20 +345,10 @@ hr{
 	-moz-box-shadow:0 1px 3px rgba(0,0,0,0.5);
 	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
 	box-shadow:0 1px 3px rgba(0,0,0,0.5);
-	-moz-transition:all 0.1s ease-out;
-	-o-transition:all 0.1s ease-out;
-	-webkit-transition:all 0.1s ease-out;
-	-ms-transition:all 0.1s ease-out;
-	transition:all 0.1s ease-out;
 }
 #screenshots a:hover img{
 	border:solid 6px #87a;
 	border:solid 6px rgba(255,255,255,0.5);
-	-moz-transform: scale(1.05);
-	-o-transform: scale(1.05);
-	-webkit-transform: scale(1.05);
-	-ms-transform: scale(1.05);
-	transform: scale(1.05);
 }
 #screenshots a:active img,
 #screenshots a:focus img{
