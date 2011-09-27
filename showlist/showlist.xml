@@ -1557,6 +1557,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Rove LA</name>
+  <tvdbid>252107</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Rove%20LA&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Royal Pains</name>
   <tvdbid>92411</tvdbid>
   <mirrors>
