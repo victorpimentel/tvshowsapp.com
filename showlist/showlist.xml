@@ -517,6 +517,7 @@
   <tvdbid>80367</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Damages&amp;userName=fredyr</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Damages&amp;userName=Masterzilla</mirror>
   </mirrors>
  </show>
  <show>
@@ -2307,6 +2308,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Transformers Prime</name>
+  <tvdbid>205901</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Transformers%20Prime&amp;userName=despo1ler</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Treme</name>
   <tvdbid>84946</tvdbid>
   <mirrors>
@@ -2430,6 +2438,13 @@
   <tvdbid>239761</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Wilfred%20(US)%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wipeout (US)</name>
+  <tvdbid>82226</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Wipeout%20(US)&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
