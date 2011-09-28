@@ -2153,6 +2153,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Sing-Off</name>
+  <tvdbid>128861</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Sing%20Off&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Soup</name>
   <tvdbid>82483</tvdbid>
   <mirrors>
