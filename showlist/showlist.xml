@@ -1600,6 +1600,13 @@
   </mirrors>
  </show>
  <show>
+  <name>SLiDE</name>
+  <tvdbid>251158</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=SLiDE&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Sanctuary</name>
   <tvdbid>80159</tvdbid>
   <mirrors>
@@ -2487,6 +2494,13 @@
   <tvdbid>192061</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Young%20Justice%20-web&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>iCarly</name>
+  <tvdbid>82493</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=iCarly&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
 </shows>
