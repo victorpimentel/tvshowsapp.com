@@ -21,15 +21,28 @@ if (file_exists($cachefile) && (time() - $cachetime < filemtime($cachefile)) && 
   exit;
 }
 
-$ch = curl_init("http://pipes.yahoo.com/pipes/pipe.run?_id=c6003d4834d77b0fdde620ce38c848ad&_render=rss&".$_SERVER['QUERY_STRING']);
+$normal_pipe = "c6003d4834d77b0fdde620ce38c848ad";
+$strict_pipe = "e382304dd89b1aa3fbd9beae4764986a";
+
+if ($_GET['strict']) {
+  $pipe = $strict_pipe;
+} else {
+  $pipe = $normal_pipe;
+}
+
+$ch = curl_init("http://pipes.yahoo.com/pipes/pipe.run?_id=".$pipe."&_render=rss&".$_SERVER['QUERY_STRING']);
 
 curl_exec($ch);
 curl_close($ch);
 
-$fp = fopen($cachefile, 'w'); // open the cache file for writing
+// Do not cache if we wanted to flush it
+if (!$_GET['flush']) {
+  $fp = fopen($cachefile, 'w'); // open the cache file for writing
 
-fwrite($fp, ob_get_contents()); // save the contents of output buffer to the file
-fclose($fp); // close the file
+  fwrite($fp, ob_get_contents()); // save the contents of output buffer to the file
+  fclose($fp); // close the file
+}
+
 ob_end_flush(); // Send the output to the browser
 
 ?>
