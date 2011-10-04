@@ -5,10 +5,11 @@ header('Content-Type: application/rss+xml; charset=ISO-8859-1');
 ob_start();   // start the output buffer
 
 $cachetime = 2 * 60 * 60; // 2 hours
+$flush = false;
 
 // filter=Eureka&userName=eztv
 if ($_SERVER['QUERY_STRING']!='') {
-  $cachefile = dirname($_SERVER['SCRIPT_FILENAME']).'/cache/cache_'.md5($_SERVER['QUERY_STRING']).".xml";
+  $cachefile = dirname($_SERVER['SCRIPT_FILENAME']).'/cache/cache_'.md5(str_replace('&flush=1', '', $_SERVER['QUERY_STRING'])).'.xml';
 } else {
   echo "Nothing to see here";
   exit;
@@ -35,13 +36,10 @@ $ch = curl_init("http://pipes.yahoo.com/pipes/pipe.run?_id=".$pipe."&_render=rss
 curl_exec($ch);
 curl_close($ch);
 
-// Do not cache if we wanted to flush it
-if (!$_GET['flush']) {
-  $fp = fopen($cachefile, 'w'); // open the cache file for writing
+$fp = fopen($cachefile, 'w'); // open the cache file for writing
 
-  fwrite($fp, ob_get_contents()); // save the contents of output buffer to the file
-  fclose($fp); // close the file
-}
+fwrite($fp, ob_get_contents()); // save the contents of output buffer to the file
+fclose($fp); // close the file
 
 ob_end_flush(); // Send the output to the browser
 
