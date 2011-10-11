@@ -408,6 +408,13 @@
   </mirrors>
  </show>
  <show>
+  <name>China, IL</name>
+  <tvdbid>251507</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=China%20IL&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Childrens Hospital</name>
   <tvdbid>139941</tvdbid>
   <mirrors>
