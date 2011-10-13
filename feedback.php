@@ -8,11 +8,20 @@
 
 <p>This page not intended for humans. Thanks for playing, though.</p>
 
-<?php   
+<?php
+
 if (array_key_exists('feedback', $_REQUEST)) {
   $feedbackType = $_REQUEST['feedbackType'];
   $appName = $_REQUEST['appName'];
   $appVersion = $_REQUEST['version'];
+
+  if ($feedbackType == 'BUG') {
+    $feedbackEmail = 'tender2+c680c334090f7818084091fc315fab112f57e08cc@tenderapp.com';
+  } else if ($feedbackType == 'SUPPORT') {
+    $feedbackEmail = 'tender2+c2868c7ea4c4dbfdbc3ebdbe2f4f61193b813f15f@tenderapp.com';
+  } else {
+    $feedbackEmail = 'tender2+c1f0fe10c8ace6de7dc2f8a852551231dc42cba39@tenderapp.com';
+  }
 
   // if they choose not to give us their email, I will use my own
   // if I left the email blank it would come from 
@@ -30,20 +39,28 @@ if (array_key_exists('feedback', $_REQUEST)) {
     $name = 'Unknown Submitter';
   }
   $feedback = $_REQUEST['feedback'];
+
+  $feedback = str_replace('What went wrong? Please explain what were you doing and, if possible, the steps to recreate the problem.', '', $feedback);
+  $feedback = str_replace('How can we help you?', '', $feedback);
+  $feedback = str_replace('If you want to request a new show, please check that it is currently airing and that EZTV releases it regularly. If you want to add another show that it is not on EZTV, please follow these instructions (también en español).', '', $feedback);
+  $feedback = str_replace('What feature would you like to see implemented or improved?', '', $feedback);
+
   $bundleID = $_REQUEST['bundleID'];
   $systemProfile = $_REQUEST['systemProfile'];
 
-  $headers = 'From: ' . $email . "\r\n" .
-        'Reply-To: ' . $email . "\r\n" .
+  $headers = "From: admin@tvshowsapp.com\r\n" .
+        "Reply-To: admin@tvshowsapp.com\\r\n" .
         'X-Mailer: PHP/' . phpversion();
 
-  $msg .= "$name writes:\n\n";
-  $msg .= "$feedback\n";
-  $msg .= "\n--------\n\n";
-  $msg .= "Bundle ID: $bundleID\n";
-  $msg .= "System Profile: $systemProfile\n";
+  $msg .= "\n\n---------- Forwarded message ----------\n";
+  $msg .= "From: \"$name\" <$email>\n";
+  $msg .= "To: support@tvshowsapp.com\n\n\n";
+  $msg .= "$feedback\n\n";
+  $msg .= "$name\n";
+//  $msg .= "\n--------\n\n";
+//  $msg .= "System Profile: $systemProfile\n";
 
-  mail("support@tvshowsapp.com", "[$feedbackType] $appName $appVersion", $msg, $headers);
+  mail($feedbackEmail, "Fwd: $appName $appVersion - $name", $msg, $headers);
 }
 ?>
 
