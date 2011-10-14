@@ -360,6 +360,7 @@ hr{
 \*------------------------------------*/
 #social {
 	min-height: 310px;
+	margin-bottom: 20px;
 }
 .twtr-widget {
 	margin: 0 0 20px;
@@ -370,7 +371,8 @@ hr{
 }
 .twtr-hd,
 .twtr-ft,
-.twtr-user {
+.twtr-user,
+.twtr-tweet em {
 	display: none !important;
 }
 .twtr-bd {
@@ -448,6 +450,7 @@ hr{
 }
 #tumblr li:nth-child(10) {
 	font-size: 0.7em;
+	opacity: 0.55;
 }
 
 /*------------------------------------*\

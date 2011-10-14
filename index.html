@@ -98,7 +98,7 @@
 
   <aside id="social" class="grids">
     <div id="tweets" class="grid grid-8">
-      <h2 id="tweets-title">Our Awesome Users Love TVShows!</h2>
+      <h2 id="tweets-title">Our Awesome Users Love TVShows! <a href="http://twitter.com/#!/TVShows2/favorites">»</a></h2>
       <script src="http://widgets.twimg.com/j/2/widget.js"></script>
       <script>
         new TWTR.Widget({
@@ -169,7 +169,7 @@
         t('blog-link', 'Blog', 'Visita el blog de TVShows');
         t('notes-link', 'Cambios', 'Lee los últimos cambios en TVShows');
         t('twitter-link', 'Twitter', 'Síguenos en Twitter');
-        t('contrib-link', 'Contribuye', '¡Ayúdanos a mantener TVShows!');
+        t('contrib-link', 'Contribuye', '¡Ayúdanos a mantener TVShows! <a href="http://twitter.com/#!/TVShows2/favorites">»</a>');
         t('github-link', 'Código', 'Ve el código fuente en GitHub');
         t('wiki-link', 'Soporte', 'Aprende todo sobre TVShows');
         t('contact-link', 'Contacto', 'Envíanos tu opinión');
@@ -197,6 +197,15 @@
         t('license-link', 'GPL3 2011', 'Licencia de TVShows');
       }
 
+    });
+
+    // Add support link
+    head.ready('dom', function() {
+      Tender = {
+        hideToggle: true,
+        widgetToggles: [document.getElementById('contact-link')]
+      }
+      head.js('https://tvshows.tenderapp.com/tender_widget.js');
     });
 
     // Add link to Shimmer for logged admins
