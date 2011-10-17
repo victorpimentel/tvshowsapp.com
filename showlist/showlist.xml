@@ -1509,6 +1509,15 @@
   </mirrors>
  </show>
  <show>
+  <name>Regular Show</name>
+  <tvdbid>188401</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Regular%20Show&amp;userName=iqeiqe</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Regular%20Show&amp;userName=shimigami777</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Regular%20Show&amp;userName=iqeiqe</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Republic of Doyle</name>
   <tvdbid>133251</tvdbid>
   <mirrors>
@@ -1772,6 +1781,13 @@
   <tvdbid>76733</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Survivor%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Sym-Bionic Titan</name>
+  <tvdbid>190511</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Sym-Bionic%20Titan&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2048,6 +2064,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Millionaire Matchmaker</name>
+  <tvdbid>85425</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Millionaire%20Matchmaker&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Office (US)</name>
   <tvdbid>73244</tvdbid>
   <mirrors>
@@ -2178,6 +2201,13 @@
   <tvdbid>82483</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Soup&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Super Hero Squad Show</name>
+  <tvdbid>113901</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Super%20Hero%20Squad%20Show&amp;userName=despo1ler</mirror>
   </mirrors>
  </show>
  <show>
