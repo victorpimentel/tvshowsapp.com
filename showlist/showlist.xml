@@ -1736,6 +1736,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Spy (2011)</name>
+  <tvdbid>252115</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Spy%20(2011)&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Star Wars: The Clone Wars</name>
   <tvdbid>83268</tvdbid>
   <mirrors>
@@ -2524,6 +2531,13 @@
   <tvdbid>211751</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Workaholics%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Work of Art: The Next Great Artist</name>
+  <tvdbid>170911</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Work%20of%20Art:%20The%20Next%20Great%20Artist&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
