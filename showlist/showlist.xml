@@ -88,7 +88,7 @@
   <name>American Horror Story</name>
   <tvdbid>250487</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=American%20Horror%20Story%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=American%20Horror%20Story%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -873,10 +873,17 @@
   </mirrors>
  </show>
  <show>
+  <name>Hidden</name>
+  <tvdbid>252418</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Hidden%20-Houses%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Homeland</name>
   <tvdbid>247897</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Homeland%20-2010%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Homeland%20-2010%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
