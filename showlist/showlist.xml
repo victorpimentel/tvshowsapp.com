@@ -1827,6 +1827,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Time Team</name>
+  <tvdbid>73096</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Time%20Team&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Almighty Johnsons</name>
   <tvdbid>229981</tvdbid>
   <mirrors>
