@@ -2257,7 +2257,6 @@
   <name>The Walking Dead</name>
   <tvdbid>153021</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Walking%20Dead%20vtv&amp;userName=vtv</mirror>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Walking%20Dead%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
