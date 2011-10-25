@@ -1020,6 +1020,13 @@
   </mirrors>
  </show>
  <show>
+  <name>James May's Man Lab</name>
+  <tvdbid>202351</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=James%20Mays%20Man%20Lab%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Jersey Shore</name>
   <tvdbid>127351</tvdbid>
   <mirrors>
