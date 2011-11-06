@@ -409,17 +409,17 @@
   </mirrors>
  </show>
  <show>
-  <name>China, IL</name>
-  <tvdbid>251507</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=China%20IL&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Childrens Hospital</name>
   <tvdbid>139941</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Childrens%20Hospital&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>China, IL</name>
+  <tvdbid>251507</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=China%20IL&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -810,13 +810,6 @@
   </mirrors>
  </show>
  <show>
-  <name>H8R</name>
-  <tvdbid>249491</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=H8R&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Happily Divorced</name>
   <tvdbid>248330</tvdbid>
   <mirrors>
@@ -866,17 +859,17 @@
   </mirrors>
  </show>
  <show>
-  <name>Hell's Kitchen</name>
-  <tvdbid>74897</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Hells%20Kitchen%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Hell On Wheels</name>
   <tvdbid>212961</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Hell%20On%20Wheels%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Hell's Kitchen</name>
+  <tvdbid>74897</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Hells%20Kitchen%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -912,13 +905,6 @@
   <tvdbid>75760</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=How%20I%20Met%20Your%20Mother%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>How To Be A Gentleman</name>
-  <tvdbid>248930</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=How%20To%20Be%20A%20Gentleman%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1020,17 +1006,17 @@
   </mirrors>
  </show>
  <show>
-  <name>Jay Leno</name>
-  <tvdbid>70336</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Jay%20Leno%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>James May's Man Lab</name>
   <tvdbid>202351</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=James%20Mays%20Man%20Lab%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Jay Leno</name>
+  <tvdbid>70336</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Jay%20Leno%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1192,13 +1178,6 @@
   <tvdbid>168621</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Melissa%20Joey%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Memphis Beat</name>
-  <tvdbid>157621</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Memphis%20Beat%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1437,6 +1416,13 @@
   <tvdbid>239851</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Penn%20Teller%20Fool%20Us%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Penn &amp; Teller Tell a Lie</name>
+  <tvdbid>251756</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Penn%20Teller%20Tell%20a%20Lie%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1743,13 +1729,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Spooks</name>
-  <tvdbid>78890</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Spooks%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Spy (2011)</name>
   <tvdbid>252115</tvdbid>
   <mirrors>
@@ -1761,13 +1740,6 @@
   <tvdbid>83268</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Star%20Wars:%20The%20Clone%20Wars%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>State of Georgia</name>
-  <tvdbid>248448</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=State%20of%20Georgia%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1813,13 +1785,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Sym-Bionic Titan</name>
-  <tvdbid>190511</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Sym-Bionic%20Titan&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Switched at Birth</name>
   <tvdbid>247773</tvdbid>
   <mirrors>
@@ -1845,13 +1810,6 @@
   <tvdbid>164091</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Terra%20Nova%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Time Team</name>
-  <tvdbid>73096</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Time%20Team&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1975,13 +1933,6 @@
   </mirrors>
  </show>
  <show>
-  <name>The Fixer</name>
-  <tvdbid>81499</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Fixer%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The Game</name>
   <tvdbid>79636</tvdbid>
   <mirrors>
@@ -2010,17 +1961,17 @@
   </mirrors>
  </show>
  <show>
-  <name>The Hour (2011)</name>
-  <tvdbid>248503</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Hour%20(2011)%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The IT Crowd</name>
   <tvdbid>79216</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20IT%20Crowd%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Hour (2011)</name>
+  <tvdbid>248503</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Hour%20(2011)%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2325,6 +2276,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Time Team</name>
+  <tvdbid>73096</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Time%20Team&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Top Chef</name>
   <tvdbid>79313</tvdbid>
   <mirrors>
@@ -2542,17 +2500,17 @@
   </mirrors>
  </show>
  <show>
-  <name>Workaholics</name>
-  <tvdbid>211751</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Workaholics%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Work of Art: The Next Great Artist</name>
   <tvdbid>170911</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Work%20of%20Art:%20The%20Next%20Great%20Artist&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Workaholics</name>
+  <tvdbid>211751</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Workaholics%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2567,6 +2525,13 @@
   <tvdbid>82548</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Would%20I%20Lie%20To%20You?&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Young Apprentice</name>
+  <tvdbid>253041</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Young%20Apprentice%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
