@@ -367,6 +367,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Call Me Fitz</name>
+  <tvdbid>191101</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Call%20Me%20Fitz&amp;userName=iamgreat</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Castle (2009)</name>
   <tvdbid>83462</tvdbid>
   <mirrors>
