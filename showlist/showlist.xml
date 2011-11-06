@@ -873,6 +873,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Hell On Wheels</name>
+  <tvdbid>212961</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Hell%20On%20Wheels%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Hidden</name>
   <tvdbid>252418</tvdbid>
   <mirrors>
@@ -1234,8 +1241,6 @@
   <tvdbid>124051</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Misfits%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Misfits%20-Webrip&amp;userName=psspss</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=Misfits&amp;userName=Maxis42</mirror>
   </mirrors>
  </show>
  <show>
