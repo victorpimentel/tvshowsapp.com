@@ -185,6 +185,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Beavis and Butt-Head</name>
+  <tvdbid>75863</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Beavis%20and%20Butt-Head%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Bedlam</name>
   <tvdbid>220801</tvdbid>
   <mirrors>
