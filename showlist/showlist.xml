@@ -1659,6 +1659,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Scooby-Doo! Mystery Incorporated</name>
+  <tvdbid>174681</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Scooby%20Doo%20Mystery%20Incorporated&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Shameless</name>
   <tvdbid>78846</tvdbid>
   <mirrors>
