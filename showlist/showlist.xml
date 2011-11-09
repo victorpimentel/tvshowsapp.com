@@ -1659,6 +1659,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Scare Tactics</name>
+  <tvdbid>79263</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Scare%20Tactics&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Scooby-Doo! Mystery Incorporated</name>
   <tvdbid>174681</tvdbid>
   <mirrors>
