@@ -27,7 +27,7 @@
   <nav>
     <ul class="nav centred">
       <li><a title="Visita el blog de TVShows" href="http://blog.tvshowsapp.com">Blog</a></li>
-      <li><a title="Aprende todo sobre TVShows" href="http://support.tvshowsapp.com">Support</a></li>
+      <li><a title="Aprende todo sobre TVShows" href="http://support.tvshowsapp.com">Soporte</a></li>
       <li><a title="Lee los últimos cambios en TVShows" href="notes.html">Cambios</a></li>
       <li><a title="Síguenos en Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
       <li><a title="¡Ayúdanos a mantener TVShows!" href="docs/#Contribute">Contribuye</a></li>

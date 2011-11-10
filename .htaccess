@@ -498,3 +498,5 @@ RewriteRule ^TVShows_2.0b5.zip/?$ shimmer/?download&appName=TVShows&appVersion=3
 RewriteRule ^TVShows_2.0b6.zip/?$ shimmer/?download&appName=TVShows&appVersion=395&%{QUERY_STRING}
 RewriteRule ^TVShows-(.+).zip/?$ shimmer/?download&appName=TVShows&appVersion=$1&%{QUERY_STRING}
 
+AddLanguage en .en
+AddLanguage es .es
