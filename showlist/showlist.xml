@@ -2052,6 +2052,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Looney Tunes Show (2011)</name>
+  <tvdbid>248368</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Looney%20Tunes%20Show&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Lying Game</name>
   <tvdbid>234461</tvdbid>
   <mirrors>
