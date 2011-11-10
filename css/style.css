@@ -409,7 +409,7 @@ hr{
 	list-style: none;
 	text-align: center;
 }
-#tumblr a {
+#tumblr ul a {
 	color: #E0DB34 !important;
 }
 #tumblr li:nth-child(1) {

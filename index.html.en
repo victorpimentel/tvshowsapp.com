@@ -27,7 +27,7 @@
   <nav>
     <ul class="nav centred">
       <li><a id="blog-link" title="Visit the blog" href="http://blog.tvshowsapp.com">Blog</a></li>
-      <li><a id="wiki-link" title="Learn everything about TVShows" href="http://support.tvshowsapp.com/">Support</a></li>
+      <li><a id="wiki-link" title="Learn everything about TVShows" href="http://support.tvshowsapp.com">Support</a></li>
       <li><a id="notes-link" title="See the release notes" href="notes.html">What's new</a></li>
       <li><a id="twitter-link" title="Follow us on Twitter" href="http://twitter.com/TVShows2">Twitter</a></li>
       <li><a id="contrib-link" title="Help us keep TVShows on track!" href="docs/#Contribute">Contribute</a></li>
@@ -63,12 +63,12 @@
     <div id="howto" class="grid grid-4">
       <h2 id="howto-title">How To Use It?</h2>
       <ul class="unindented">
-        <li id="howto-list1">Download a torrent application such as <a href="http://www.transmissionbt.com/">Transmission</a>.</li>
+        <li id="howto-list1">Download a torrent application such as <a href="http://www.transmissionbt.com">Transmission</a>.</li>
         <li id="howto-list2">Open TVShows.</li>
         <li id="howto-list3">Subscribe to your shows.</li>
         <li id="howto-list4">Close and forget TVShows.</li>
       </ul>
-      <p id="howto-then">Next time a <a href="http://showrss.karmorra.info/">new episode is aired</a>, your torrent application will download the video file automatically.</p>
+      <p id="howto-then">Next time a <a href="http://showrss.karmorra.info">new episode is aired</a>, your torrent application will download the video file automatically.</p>
     </div>
     <div id="screenshots" class="grid grid-8">
       <h2 id="screenshots-title">Screenshots</h2>
@@ -132,7 +132,7 @@
       </script>
     </div>
     <div id="tumblr" class="grid grid-8">
-      <h2 id="tumblr-title">Latest Entries In Our Blog</h2>
+      <h2 id="tumblr-title">Latest Entries In Our Blog <a href="http://blog.tvshowsapp.com">»</a></h2>
       <div id="tumblr-content"></div>
     </div>
   </aside>
@@ -145,60 +145,6 @@
   </footer>
 
   <script>
-    // Translate the page
-    head.ready('dom', function() {
-
-      // Get user language
-      var lang = navigator.browserLanguage || navigator.language;
-
-      // Translate the text and title (optional) of an element
-      var t = function(id, text, title) {
-        var el = document.getElementById(id);
-        if (el) {
-          if (text) el.innerHTML = text;
-          if (title) el.setAttribute('title', title);
-        }
-      };
-
-      // Translate to Spanish
-      if (lang.toLowerCase().indexOf('es') != -1 ||
-          lang.toLowerCase().indexOf('ca') == 0 ||
-          lang.toLowerCase().indexOf('gl') == 0 ||
-          lang.toLowerCase().indexOf('eu') == 0) {
-        document.getElementsByTagName('html')[0].setAttribute('lang', 'es');
-        t('blog-link', 'Blog', 'Visita el blog de TVShows');
-        t('notes-link', 'Cambios', 'Lee los últimos cambios en TVShows');
-        t('twitter-link', 'Twitter', 'Síguenos en Twitter');
-        t('contrib-link', 'Contribuye', '¡Ayúdanos a mantener TVShows! <a href="http://twitter.com/#!/TVShows2/favorites">»</a>');
-        t('github-link', 'Código', 'Ve el código fuente en GitHub');
-        t('wiki-link', 'Soporte', 'Aprende todo sobre TVShows');
-        t('contact-link', 'Contacto', 'Envíanos tu opinión');
-        t('desc-1', 'TVShows es la forma más sencilla de <strong>descargar automáticamente tus series favoritas</strong> en tu Mac.');
-        t('desc-2', 'Cuando se emitan nuevos episodios, tu <strong>aplicación de torrents</strong> los descargará.');
-        t('download-button', 'Descargar', 'Descarga la versión más reciente de TVShows');
-        t('donate-button', 'Donar', '¡Invítanos a una cerveza!');
-        t('howto-title', '¿Cómo se usa?');
-        t('howto-list1', 'Descarga una aplicación de torrents, ej. <a href="http://www.transmissionbt.com/">Transmission</a>.');
-        t('howto-list2', 'Abre TVShows.');
-        t('howto-list3', 'Suscríbete a tus series.');
-        t('howto-list4', 'Cierra y olvídate de TVShows.');
-        t('howto-then', 'Cuando <a href="http://showrss.karmorra.info/">emitan episodios nuevos</a>, tu aplicación de torrents los descargará automáticamente.');
-        t('screenshots-title', 'Capturas de pantalla');
-        t('subs-image', null, 'Haz click para ampliar');
-        t('pref-image', null, 'Haz click para ampliar');
-        t('addshow-image', null, 'Haz click para ampliar');
-        t('about-image', null, 'Haz click para ampliar');
-        t('about-title', 'Acerca de TVShows');
-        t('about-text1', 'TVShows es un proyecto de <a href="https://github.com/victorpimentel/TVShows">código abierto</a> para <strong>Mac</strong>, que intenta facilitarte la búsqueda de nuevos episodios.');
-        t('about-text2', 'La lista de series contiene más de 360 series en emisión, la aplicación tiene más de 30.000 usuarios activos y ha sido traducida a <a href="https://webtranslateit.com/en/projects/874-TVShows-2/project_locales" title="Afrikáans, Arábe, Catalán, Checo, Danés, Alemán, Alemán (Suiza), Griego, Inglés, Español, Estonio, Euskera, Francés, Gallego, Hebreo, Islandés, Italiano, Japonés, Noruego, Neerlandés, Polaco, Portugués (Brasil), Portugués (Portugal), Rumano, Ruso, Eslovaco, Esloveno, Sueco, Turco y Chino.">30 idiomas</a>.');
-        t('tweets-title', '¡Nuestros usuarios lo adoran!');
-        t('tumblr-title', 'Últimas entradas en el blog');
-        t('credits-link', 'Víctor Pimentel', 'Página personal del autor');
-        t('license-link', 'GPL3 2011', 'Licencia de TVShows');
-      }
-
-    });
-
     // Add support link
     head.ready('dom', function() {
       Tender = {
