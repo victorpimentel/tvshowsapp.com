@@ -985,6 +985,13 @@
   </mirrors>
  </show>
  <show>
+  <name>I'm a Celebrity: Get Me Out of Here!</name>
+  <tvdbid>71067</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Im%20a%20Celebrity%20Get%20Me%20Out%20of%20Here&amp;userName=TVTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>In Harms Way</name>
   <tvdbid>83307</tvdbid>
   <mirrors>
