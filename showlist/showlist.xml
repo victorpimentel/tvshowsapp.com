@@ -2591,6 +2591,13 @@
   </mirrors>
  </show>
  <show>
+  <name>X-Men (2011)</name>
+  <tvdbid>236061</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=X%20Men%202011&amp;userName=ettv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Young Apprentice</name>
   <tvdbid>253041</tvdbid>
   <mirrors>
