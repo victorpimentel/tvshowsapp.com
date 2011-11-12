@@ -388,6 +388,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Celebrity Juice</name>
+  <tvdbid>84041</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Celebrity%20Juice&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Celebrity Rehab with Dr. Drew</name>
   <tvdbid>81230</tvdbid>
   <mirrors>
@@ -807,6 +814,13 @@
   <tvdbid>79264</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Grand%20Designs%20-Australia&amp;userName=scenebalance</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Green Lantern: The Animated Series</name>
+  <tvdbid>251807</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Green%20Lantern%20The%20Animated%20Series%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1451,6 +1465,13 @@
   <tvdbid>248742</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Person%20of%20Interest%20-2007%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>PhoneShop</name>
+  <tvdbid>194261</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=PhoneShop&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
