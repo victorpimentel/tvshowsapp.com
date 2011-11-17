@@ -1139,6 +1139,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Life's Too Short</name>
+  <tvdbid>249698</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Lifes%20Too%20Short%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Little Mosque on the Prairie</name>
   <tvdbid>79701</tvdbid>
   <mirrors>
