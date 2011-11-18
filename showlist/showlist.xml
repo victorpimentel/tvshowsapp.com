@@ -753,6 +753,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Frozen Planet</name>
+  <tvdbid>251418</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=David%20Attenborough%20Frozen%20Planet%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Frozen%20Planet%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Futurama</name>
   <tvdbid>73871</tvdbid>
   <mirrors>
