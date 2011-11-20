@@ -171,6 +171,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Baker Boys</name>
+  <tvdbid>224901</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Baker%20Boys&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Batman: The Brave &amp; the Bold</name>
   <tvdbid>82824</tvdbid>
   <mirrors>
