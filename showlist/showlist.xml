@@ -1294,6 +1294,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Mongrels</name>
+  <tvdbid>171481</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Mongrels&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Monster Quest</name>
   <tvdbid>80828</tvdbid>
   <mirrors>
