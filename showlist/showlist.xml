@@ -923,6 +923,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Him And Her</name>
+  <tvdbid>187801</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Him%20And%20Her&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Homeland</name>
   <tvdbid>247897</tvdbid>
   <mirrors>
