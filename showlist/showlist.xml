@@ -1112,6 +1112,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Kung Fu Panda: Legends of Awesomeness</name>
+  <tvdbid>250632</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Kung%20Fu%20Panda%20Legends%20Of%20Awesomeness&amp;userName=.C_P.</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Last Comic Standing</name>
   <tvdbid>72673</tvdbid>
   <mirrors>
