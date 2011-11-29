@@ -1161,6 +1161,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Level Up</name>
+  <tvdbid>253525</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Level%20Up%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Leverage</name>
   <tvdbid>82339</tvdbid>
   <mirrors>
