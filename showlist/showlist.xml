@@ -578,6 +578,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Dave's Old Porn</name>
+  <tvdbid>252798</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Daves%20Old%20Porn&amp;userName=ettv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Deadliest Catch</name>
   <tvdbid>78957</tvdbid>
   <mirrors>
@@ -1997,6 +2004,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Cafe</name>
+  <tvdbid>253727</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Cafe&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Cleveland Show</name>
   <tvdbid>93991</tvdbid>
   <mirrors>
@@ -2095,10 +2109,24 @@
   </mirrors>
  </show>
  <show>
+  <name>The Jury (2011)</name>
+  <tvdbid>253252</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Jury%202011%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Killing (2011)</name>
   <tvdbid>210171</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Killing%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Layover</name>
+  <tvdbid>252207</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Layover&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2491,6 +2519,13 @@
   <tvdbid>72227</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Two%20and%20a%20Half%20Men%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Tyler Perry's For Better or Worse</name>
+  <tvdbid>252747</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Tyler%20Perrys%20For%20Better%20or%20Worse&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
