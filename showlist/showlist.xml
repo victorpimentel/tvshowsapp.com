@@ -248,6 +248,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Black Mirror</name>
+  <tvdbid>253463</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Black%20Mirror%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Blue Bloods</name>
   <tvdbid>164981</tvdbid>
   <mirrors>
