@@ -2410,6 +2410,13 @@
   </mirrors>
  </show>
  <show>
+  <name>This Is England</name>
+  <tvdbid>187351</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=This%20Is%20England&amp;userName=TvTeam|gfgdgrt</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>This Is Jinsy</name>
   <tvdbid>150231</tvdbid>
   <mirrors>
