@@ -1217,6 +1217,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Luck</name>
+  <tvdbid>219381</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Luck%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Luther</name>
   <tvdbid>159591</tvdbid>
   <mirrors>
