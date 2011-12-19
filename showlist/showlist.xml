@@ -972,6 +972,13 @@
   </mirrors>
  </show>
  <show>
+  <name>House Of Lies</name>
+  <tvdbid>247909</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=House%20Of%20Lies%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>How I Met Your Mother</name>
   <tvdbid>75760</tvdbid>
   <mirrors>
