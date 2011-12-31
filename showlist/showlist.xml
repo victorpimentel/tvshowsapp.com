@@ -746,6 +746,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Flying Wild Alaska</name>
+  <tvdbid>214531</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Flying%20Wild%20Alaska&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Foyle's War</name>
   <tvdbid>78837</tvdbid>
   <mirrors>
@@ -835,6 +842,13 @@
   <tvdbid>83610</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Glee%20-Encore%20-Project%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Gold Rush: Alaska</name>
+  <tvdbid>208111</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Gold%20Rush%20Alaska&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1860,6 +1874,13 @@
   <tvdbid>82696</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Sons%20of%20Anarchy%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Sons of Guns</name>
+  <tvdbid>209361</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Sons%20of%20Guns&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
