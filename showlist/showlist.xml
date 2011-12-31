@@ -810,6 +810,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Ghost Adventures</name>
+  <tvdbid>83929</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ghost%20Adventures&amp;userName=trialNerror</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Ghost Hunters</name>
   <tvdbid>77949</tvdbid>
   <mirrors>
@@ -1287,6 +1294,20 @@
   </mirrors>
  </show>
  <show>
+  <name>Match Of The Day</name>
+  <tvdbid>109411</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Match%20Of%20The%20Day%20-Two&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Match Of The Day 2</name>
+  <tvdbid>250544</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Match%20Of%20The%20Day%20Two&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Melissa &amp; Joey</name>
   <tvdbid>168621</tvdbid>
   <mirrors>
@@ -1522,6 +1543,13 @@
   <tvdbid>134451</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Paul%20Merton%20In%20Europe%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Pawn Stars</name>
+  <tvdbid>111051</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Pawn%20Stars&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
