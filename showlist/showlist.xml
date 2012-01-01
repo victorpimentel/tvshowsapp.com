@@ -669,6 +669,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Earthflight</name>
+  <tvdbid>254572</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Earthflight%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Eastbound &amp; Down</name>
   <tvdbid>82467</tvdbid>
   <mirrors>
@@ -2372,6 +2379,13 @@
   <tvdbid>248836</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20River%20-Murders%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Royal Bodyguard</name>
+  <tvdbid>254219</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Royal%20Bodyguard%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
