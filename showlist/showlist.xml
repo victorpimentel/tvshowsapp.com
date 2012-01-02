@@ -1126,6 +1126,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Jane By Design</name>
+  <tvdbid>253086</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Jane%20By%20Design%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Jay Leno</name>
   <tvdbid>70336</tvdbid>
   <mirrors>
@@ -1441,6 +1448,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Napoleon Dynamite</name>
+  <tvdbid>249363</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Napoleon%20Dynamite%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>National Geographic Extreme Universe</name>
   <tvdbid>169561</tvdbid>
   <mirrors>
@@ -1734,6 +1748,13 @@
   <tvdbid>161461</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rizzoli%20Isles%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>¡Rob!</name>
+  <tvdbid>253931</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Rob%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2134,6 +2155,13 @@
   <tvdbid>251539</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Fades%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Finder</name>
+  <tvdbid>248651</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Finder%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2599,6 +2627,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Touch (2012)</name>
+  <tvdbid>248935</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Touch%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Transformers Prime</name>
   <tvdbid>205901</tvdbid>
   <mirrors>
@@ -2659,6 +2694,13 @@
   <tvdbid>248861</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Unforgettable%20-2010%20-2008%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Unsupervised</name>
+  <tvdbid>254561</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Unsupervised%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2750,6 +2792,13 @@
   <tvdbid>80726</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Wizards%20of%20Waverly%20Place&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Work It</name>
+  <tvdbid>248843</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Work%20It%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
