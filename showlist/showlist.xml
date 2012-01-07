@@ -704,6 +704,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Eternal Law</name>
+  <tvdbid>238101</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Eternal%20Law%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Eurovision Song Contest</name>
   <tvdbid>165391</tvdbid>
   <mirrors>
@@ -1357,6 +1364,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Mickey Mouse Clubhouse</name>
+  <tvdbid>79854</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Mickey%20Mouse%20Clubhouse&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Midsomer Murders</name>
   <tvdbid>76846</tvdbid>
   <mirrors>
@@ -1410,6 +1424,13 @@
   <tvdbid>80828</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Monster%20Quest%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Mrs Brown's Boys</name>
+  <tvdbid>219631</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Mrs%20Browns%20Boys&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
