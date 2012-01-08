@@ -725,6 +725,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Extreme Makeover: Home Edition</name>
+  <tvdbid>73444</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Extreme%20Makeover%20Home%20Edition&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Fairly Legal</name>
   <tvdbid>175011</tvdbid>
   <mirrors>
@@ -1333,6 +1340,13 @@
   <tvdbid>232691</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Marcels%20Quantum%20Kitchen%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Masterchef (US)</name>
+  <tvdbid>167751</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Masterchef%20US&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2113,6 +2127,13 @@
   <tvdbid>161501</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Big%20C%20-Bang%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Biggest Loser</name>
+  <tvdbid>75166</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Biggest%20Loser&amp;userName=ettv</mirror>
   </mirrors>
  </show>
  <show>
