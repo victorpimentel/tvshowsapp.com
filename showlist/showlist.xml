@@ -78,6 +78,13 @@
   </mirrors>
  </show>
  <show>
+  <name>American Chopper: Senior vs Junior</name>
+  <tvdbid>73104</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=American%20Chopper%20Senior%20vs%20Junior&amp;userName=wilimaw</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>American Dad</name>
   <tvdbid>73141</tvdbid>
   <mirrors>
