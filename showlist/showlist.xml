@@ -136,6 +136,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Arctic Air</name>
+  <tvdbid>253905</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Arctic%20Air%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Are We There Yet?</name>
   <tvdbid>161491</tvdbid>
   <mirrors>
@@ -2288,6 +2295,13 @@
   <tvdbid>210171</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Killing%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The L.A. Complex</name>
+  <tvdbid>255045</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20LA%20Complex%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
