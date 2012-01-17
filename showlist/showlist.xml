@@ -113,15 +113,6 @@
   </mirrors>
  </show>
  <show>
-  <name>An Idiot Abroad</name>
-  <tvdbid>187071</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=An%20Idiot%20Abroad%20eztv&amp;userName=eztv</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=An%20Idiot%20Abroad&amp;userName=xxnicxx</mirror>
-   <mirror>http://tvshowsapp.com/feed/?filter=An%20Idiot%20Abroad%20-mkv&amp;userName=Ferrelas</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Apartment 23</name>
   <tvdbid>248812</tvdbid>
   <mirrors>
@@ -308,13 +299,6 @@
   <tvdbid>75682</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Bones%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Bored to Death</name>
-  <tvdbid>104641</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Bored%20to%20Death%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
