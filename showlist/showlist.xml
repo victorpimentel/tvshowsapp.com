@@ -1975,6 +1975,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Smash (2012)</name>
+  <tvdbid>248789</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Smash%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Spartacus</name>
   <tvdbid>129261</tvdbid>
   <mirrors>
