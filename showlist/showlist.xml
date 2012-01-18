@@ -2114,6 +2114,27 @@
   </mirrors>
  </show>
  <show>
+  <name>The Bachelor</name>
+  <tvdbid>134161</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Bachelor%20-UK&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Bachelor (UK)</name>
+  <tvdbid>134161</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Bachelor%20UK&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Bachelorette</name>
+  <tvdbid>71187</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Bachelorette&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Big Bang Theory</name>
   <tvdbid>80379</tvdbid>
   <mirrors>
