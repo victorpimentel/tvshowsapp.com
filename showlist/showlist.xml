@@ -141,10 +141,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Are You There, Vodka? It's Me, Chelsea</name>
+  <name>Are You There, Chelsea?</name>
   <tvdbid>248813</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Are%20You%20There,%20Vodka?%20Its%20Me,%20Chelsea%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Are%20You%20There%20Chelsea%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -292,6 +292,13 @@
   <tvdbid>167591</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Body%20of%20Proof%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bomb Girls</name>
+  <tvdbid>254378</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bomb%20Girls%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1969,7 +1976,7 @@
   <name>Spartacus</name>
   <tvdbid>129261</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Spartacus%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Spartacus%20Vengeance&amp;userName=ettv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2115,14 +2122,14 @@
  </show>
  <show>
   <name>The Bachelor</name>
-  <tvdbid>134161</tvdbid>
+  <tvdbid>70869</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Bachelor%20-UK&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
   <name>The Bachelor (UK)</name>
-  <tvdbid>134161</tvdbid>
+  <tvdbid>251277</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Bachelor%20UK&amp;userName=TvTeam</mirror>
   </mirrors>
@@ -2825,6 +2832,13 @@
   <tvdbid>242801</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=White%20Van%20Man%20(2011)&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Whitechapel</name>
+  <tvdbid>84926</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Whitechapel&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
