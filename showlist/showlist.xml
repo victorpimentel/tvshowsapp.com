@@ -190,6 +190,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Bayou Billionaires</name>
+  <tvdbid>253211</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bayou%20Billionaires&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Beaver Falls</name>
   <tvdbid>250203</tvdbid>
   <mirrors>
@@ -229,6 +236,13 @@
   <tvdbid>196921</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Human%20(US)%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bering Sea Gold</name>
+  <tvdbid>254203</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bering%20Sea%20Gold&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -667,6 +681,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Drinking Made Easy</name>
+  <tvdbid>195831</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Drinking%20Made%20Easy&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Drop Dead Diva</name>
   <tvdbid>95771</tvdbid>
   <mirrors>
@@ -1100,6 +1121,13 @@
   <tvdbid>71067</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Im%20a%20Celebrity%20Get%20Me%20Out%20of%20Here&amp;userName=TVTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Impractical Jokers</name>
+  <tvdbid>254243</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Impractical%20Jokers&amp;userName=TVTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1907,6 +1935,13 @@
   <tvdbid>161511</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Shameless%20(US)%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Shark Tank</name>
+  <tvdbid>100981</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Shark%20Tank&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
