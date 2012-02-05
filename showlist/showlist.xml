@@ -1509,6 +1509,13 @@
   </mirrors>
  </show>
  <show>
+  <name>NOVA</name>
+  <tvdbid>76119</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=NOVA%20-scienceNOW%20-Terra&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>NOVA scienceNOW</name>
   <tvdbid>81526</tvdbid>
   <mirrors>
