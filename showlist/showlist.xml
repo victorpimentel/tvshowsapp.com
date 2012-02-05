@@ -864,6 +864,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Geordie Shore</name>
+  <tvdbid>248683</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Geordie%20Shore&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Ghost Adventures</name>
   <tvdbid>83929</tvdbid>
   <mirrors>
