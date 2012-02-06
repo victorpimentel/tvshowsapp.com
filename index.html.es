@@ -89,7 +89,7 @@
     <div id="about" class="grid grid-4">
       <h2 id="about-title">Acerca de TVShows</h2>
       <p id="about-text1">TVShows es un proyecto de <a href="https://github.com/victorpimentel/TVShows">código abierto</a> para <strong>Mac</strong>, que intenta facilitarte la búsqueda de nuevos episodios.</p>
-      <p id="about-text2">La lista de series contiene más de 360 series en emisión, la aplicación tiene más de 30.000 usuarios activos y ha sido traducida a <a href="https://webtranslateit.com/en/projects/874-TVShows-2/project_locales" title="Afrikáans, Arábe, Catalán, Checo, Danés, Alemán, Alemán (Suiza), Griego, Inglés, Español, Estonio, Euskera, Francés, Gallego, Hebreo, Islandés, Italiano, Japonés, Noruego, Neerlandés, Polaco, Portugués (Brasil), Portugués (Portugal), Rumano, Ruso, Eslovaco, Esloveno, Sueco, Turco y Chino.">30 idiomas</a>.</p>
+      <p id="about-text2">La lista de series contiene más de 425 series en emisión, la aplicación tiene más de 45.000 usuarios activos y ha sido traducida a <a href="https://webtranslateit.com/en/projects/874-TVShows-2/project_locales" title="Afrikáans, Arábe, Catalán, Checo, Danés, Alemán, Alemán (Suiza), Griego, Inglés, Español, Estonio, Euskera, Francés, Gallego, Hebreo, Islandés, Italiano, Japonés, Noruego, Neerlandés, Polaco, Portugués (Brasil), Portugués (Portugal), Rumano, Ruso, Eslovaco, Esloveno, Sueco, Turco y Chino.">30 idiomas</a>.</p>
     </div>
   </div>
 
