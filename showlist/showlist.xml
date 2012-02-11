@@ -751,6 +751,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Face Off</name>
+  <tvdbid>214831</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Face%20Off&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Fairly Legal</name>
   <tvdbid>175011</tvdbid>
   <mirrors>
@@ -2064,6 +2071,20 @@
   </mirrors>
  </show>
  <show>
+  <name>Storage Wars</name>
+  <tvdbid>207621</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Storage%20Wars%20-Texas&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Storage Wars Texas</name>
+  <tvdbid>251596</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Storage%20Wars%20Texas&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Strike Back</name>
   <tvdbid>148581</tvdbid>
   <mirrors>
@@ -2629,6 +2650,13 @@
   <tvdbid>79619</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Victorias%20Secret%20Fashion%20Show%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Voice (US)</name>
+  <tvdbid>247824</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20-NL&amp;userName=ettv</mirror>
   </mirrors>
  </show>
  <show>
