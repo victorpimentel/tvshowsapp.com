@@ -505,6 +505,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Comic Book Men</name>
+  <tvdbid>254990</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Comic%20Book%20Men%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Community</name>
   <tvdbid>94571</tvdbid>
   <mirrors>
@@ -706,6 +713,13 @@
   <tvdbid>82467</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Eastbound%20Down%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Eastenders</name>
+  <tvdbid>71753</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=EE%20Walford%20Eastenders&amp;userName=tri895</mirror>
   </mirrors>
  </show>
  <show>
@@ -1886,6 +1900,13 @@
   <tvdbid>79842</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Rules%20of%20Engagement%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>RuPaul's Drag Race</name>
+  <tvdbid>85002</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=RuPaul's%20Drag%20Race%20-Untucked&amp;userName=fishcat|rainbowgeisha|gfmickel</mirror>
   </mirrors>
  </show>
  <show>
