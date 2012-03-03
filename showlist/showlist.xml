@@ -456,6 +456,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Chelsea Lately</name>
+  <tvdbid>114851</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Chelsea%20Lately&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Chemistry</name>
   <tvdbid>251405</tvdbid>
   <mirrors>
