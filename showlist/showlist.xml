@@ -1782,6 +1782,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Project Runway All Stars</name>
+  <tvdbid>253682</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Project%20Runway%20All%20Stars&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Psych</name>
   <tvdbid>79335</tvdbid>
   <mirrors>
