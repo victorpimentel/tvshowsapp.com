@@ -2373,6 +2373,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Graham Norton Show</name>
+  <tvdbid>80660</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Graham%20Norton%20Show&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The IT Crowd</name>
   <tvdbid>79216</tvdbid>
   <mirrors>
