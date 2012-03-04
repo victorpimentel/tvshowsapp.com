@@ -2933,6 +2933,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Watson &amp; Oliver</name>
+  <tvdbid>256309</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Watson%20And%20Oliver%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Web Therapy</name>
   <tvdbid>144201</tvdbid>
   <mirrors>
