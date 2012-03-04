@@ -414,6 +414,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Call The Midwife</name>
+  <tvdbid>255192</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Call%20The%20Midwife&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Castle (2009)</name>
   <tvdbid>83462</tvdbid>
   <mirrors>
