@@ -885,6 +885,13 @@
   </mirrors>
  </show>
  <show>
+  <name>GCB</name>
+  <tvdbid>248839</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=GCB%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Game of Thrones</name>
   <tvdbid>121361</tvdbid>
   <mirrors>
