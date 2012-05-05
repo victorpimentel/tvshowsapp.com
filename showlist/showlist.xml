@@ -120,13 +120,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Dont Trust the Bitch in Apartment 23</name>
-  <tvdbid>248812</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Dont%20Trust%20the%20Bitch%20in%20Apartment%2023%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Archer (2009)</name>
   <tvdbid>110381</tvdbid>
   <mirrors>
@@ -456,6 +449,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Check It Out! with Dr. Steve Brule</name>
+  <tvdbid>163751</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Check%20It%20Out%20with%20Dr%20Steve%20Brule&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Chelsea Lately</name>
   <tvdbid>114851</tvdbid>
   <mirrors>
@@ -688,6 +688,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Dont Trust the Bitch in Apartment 23</name>
+  <tvdbid>248812</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Dont%20Trust%20the%20Bitch%20in%20Apartment%2023%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Downton Abbey</name>
   <tvdbid>193131</tvdbid>
   <mirrors>
@@ -706,6 +713,13 @@
   <tvdbid>95771</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Drop%20Dead%20Diva%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Duck Dynasty</name>
+  <tvdbid>256825</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Duck%20Dynasty&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1390,6 +1404,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Magic City</name>
+  <tvdbid>210961</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Magic%20City%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Man vs. Wild</name>
   <tvdbid>79545</tvdbid>
   <mirrors>
@@ -1513,6 +1534,13 @@
   <tvdbid>80828</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Monster%20Quest%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Motorcity</name>
+  <tvdbid>258233</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Motorcity&amp;userName=despo1ler</mirror>
   </mirrors>
  </show>
  <show>
@@ -2468,6 +2496,13 @@
   <tvdbid>114701</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20League%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Legend of Korra</name>
+  <tvdbid>251085</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Legend%20of%20Korra&amp;userName=.C_P.</mirror>
   </mirrors>
  </show>
  <show>
