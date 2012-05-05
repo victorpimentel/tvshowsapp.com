@@ -78,6 +78,13 @@
   </mirrors>
  </show>
  <show>
+  <name>American Guns</name>
+  <tvdbid>252571</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=American%20Guns&amp;userName=trialnerror</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>American Horror Story</name>
   <tvdbid>250487</tvdbid>
   <mirrors>
@@ -92,10 +99,24 @@
   </mirrors>
  </show>
  <show>
+  <name>American Pickers</name>
+  <tvdbid>141181</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=American%20Pickers&amp;userName=psspss</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Americas Next Top Model</name>
   <tvdbid>71721</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Americas%20Next%20Top%20Model%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ancient Aliens</name>
+  <tvdbid>101501</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Ancient%20Aliens&amp;userName=trialnerror</mirror>
   </mirrors>
  </show>
  <show>
@@ -145,6 +166,13 @@
   <tvdbid>80231</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Army%20Wives&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Attack of the Show</name>
+  <tvdbid>83643</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Attack%20of%20the%20Show&amp;userName=alexisthebest</mirror>
   </mirrors>
  </show>
  <show>
@@ -215,6 +243,13 @@
   <tvdbid>196921</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Being%20Human%20US%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bent</name>
+  <tvdbid>248950</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bent%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -611,6 +646,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Dirk Gently</name>
+  <tvdbid>213081</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Dirk%20Gently%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Dirty Jobs</name>
   <tvdbid>78904</tvdbid>
   <mirrors>
@@ -868,6 +910,20 @@
   <tvdbid>81120</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Ghost%20Hunters%20International&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Girls</name>
+  <tvdbid>220411</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Girls%20-Broke%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Giuliana and Bill</name>
+  <tvdbid>162451</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Giuliana%20and%20Bill&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -1180,10 +1236,31 @@
   </mirrors>
  </show>
  <show>
+  <name>Judge Judy</name>
+  <tvdbid>71221</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Judge%20Judy&amp;userName=mdprosser</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Keeping Up With The Kardashians</name>
+  <tvdbid>80725</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Keeping%20Up%20With%20the%20Kardashians&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Key &amp; Peele</name>
+  <tvdbid>255325</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Key%20and%20Peele%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>King (2011)</name>
   <tvdbid>246281</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=King%202011%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=King%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1401,6 +1478,13 @@
   <tvdbid>124051</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Misfits%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Missing (2012)</name>
+  <tvdbid>248797</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Missing%202012%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2121,6 +2205,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Avengers: Earth's Mightiest Heroes</name>
+  <tvdbid>192171</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Avengers%20Earths%20Mightiest%20Heroes&amp;userName=despo1ler</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Bad Girls Club</name>
   <tvdbid>134161</tvdbid>
   <mirrors>
@@ -2230,6 +2321,20 @@
   <tvdbid>71256</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Daily%20Show%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Dead Files</name>
+  <tvdbid>252133</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Dead%20Files&amp;userName=ettv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Exes</name>
+  <tvdbid>253279</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Exes%20-Challenge%20-Subtitulado%20-NL&amp;userName=ettv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2415,6 +2520,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Pauly D Project</name>
+  <tvdbid>257491</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Pauly%20D%20Project&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Real Housewives of Atlanta</name>
   <tvdbid>84159</tvdbid>
   <mirrors>
@@ -2478,7 +2590,7 @@
   </mirrors>
  </show>
  <show>
-  <name>The River (2011)</name>
+  <name>The River (2012)</name>
   <tvdbid>248836</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20River%20-Murders%20eztv&amp;userName=eztv</mirror>
@@ -2625,6 +2737,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Through the Wormhole</name>
+  <tvdbid>168571</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Through%20the%20Wormhole&amp;userName=ettv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Thundercats (2011)</name>
   <tvdbid>241431</tvdbid>
   <mirrors>
@@ -2642,7 +2761,21 @@
   <name>Top Chef</name>
   <tvdbid>79313</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20-Masters%20-Desserts%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20-Masters%20-Canada%20-Desserts%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Chef Canada</name>
+  <tvdbid>246941</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20Canada&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Top Chef Just Desserts</name>
+  <tvdbid>186171</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20Just%20Desserts&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2650,13 +2783,6 @@
   <tvdbid>98821</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef%20Masters&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Top Chef: Just Desserts</name>
-  <tvdbid>186171</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Top%20Chef:%20Just%20Desserts&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2758,6 +2884,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Unchained Reaction</name>
+  <tvdbid>256404</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Unchained%20Reaction%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Underbelly</name>
   <tvdbid>81346</tvdbid>
   <mirrors>
@@ -2804,6 +2937,13 @@
   <tvdbid>84676</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Warehouse%2013%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Waterloo Road</name>
+  <tvdbid>80763</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Waterloo%20Road&amp;userName=TvTeam</mirror>
   </mirrors>
  </show>
  <show>
@@ -2916,6 +3056,13 @@
   <tvdbid>236061</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=X%20Men%202011&amp;userName=ettv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>X-Play</name>
+  <tvdbid>72806</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=X%20Play&amp;userName=alexisthebest</mirror>
   </mirrors>
  </show>
  <show>
