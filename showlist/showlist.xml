@@ -120,10 +120,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Apartment 23</name>
+  <name>Dont Trust the Bitch in Apartment 23</name>
   <tvdbid>248812</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Apartment%2023%20eztv&amp;userName=eztv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=Dont%20Trust%20the%20Bitch%20in%20Apartment%2023%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1959,6 +1959,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Scandal (2012)</name>
+  <tvdbid>248841</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Scandal%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Scare Tactics</name>
   <tvdbid>79263</tvdbid>
   <mirrors>
@@ -1998,6 +2005,13 @@
   <tvdbid>176941</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Sherlock%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Silent Witness</name>
+  <tvdbid>76355</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Silent%20Witness%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
