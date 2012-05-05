@@ -50,24 +50,10 @@
   </mirrors>
  </show>
  <show>
-  <name>Against the Wall</name>
-  <tvdbid>249881</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Against%20the%20Wall%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Alcatraz</name>
   <tvdbid>248646</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Alcatraz%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Allen Gregory</name>
-  <tvdbid>249081</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Allen%20Gregory%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -183,13 +169,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Batman: The Brave &amp; the Bold</name>
-  <tvdbid>82824</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Batman:%20The%20Brave%20the%20Bold&amp;userName=despo1ler</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Bayou Billionaires</name>
   <tvdbid>253211</tvdbid>
   <mirrors>
@@ -278,13 +257,6 @@
   <tvdbid>164981</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Blue%20Bloods%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Blue Mountain State</name>
-  <tvdbid>134511</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Blue%20Mountain%20State%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -442,20 +414,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Chaos (2011)</name>
-  <tvdbid>227761</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Chaos%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Charlie's Angels (2011)</name>
-  <tvdbid>241531</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Charlies%20Angels%202011%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Chase (2010)</name>
   <tvdbid>163541</tvdbid>
   <mirrors>
@@ -488,13 +446,6 @@
   <tvdbid>251507</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=China%20IL&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Chuck</name>
-  <tvdbid>80348</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Chuck%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -772,13 +723,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Extreme Makeover: Home Edition</name>
-  <tvdbid>73444</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Extreme%20Makeover%20Home%20Edition&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Face Off</name>
   <tvdbid>214831</tvdbid>
   <mirrors>
@@ -846,13 +790,6 @@
   <tvdbid>164041</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Franklin%20Bash%20vtv&amp;userName=vtv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Free Agents (US)</name>
-  <tvdbid>248942</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Free%20Agents%20US%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1117,20 +1054,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Human Target</name>
-  <tvdbid>76857</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Human%20Target%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Hung</name>
-  <tvdbid>82091</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Hung%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Hustle</name>
   <tvdbid>73028</tvdbid>
   <mirrors>
@@ -1362,13 +1285,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Luck</name>
-  <tvdbid>219381</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Luck%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Luther</name>
   <tvdbid>159591</tvdbid>
   <mirrors>
@@ -1394,13 +1310,6 @@
   <tvdbid>95751</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Make%20It%20or%20Break%20It%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Man Up!</name>
-  <tvdbid>248840</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Man%20Up%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1649,13 +1558,6 @@
   </mirrors>
  </show>
  <show>
-  <name>One Tree Hill</name>
-  <tvdbid>72158</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=One%20Tree%20Hill%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Onion News Network</name>
   <tvdbid>85342</tvdbid>
   <mirrors>
@@ -1765,13 +1667,6 @@
   <tvdbid>146711</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Pretty%20Little%20Liars%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Prime Suspect</name>
-  <tvdbid>248905</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Prime%20Suspect%20vtv&amp;userName=vtv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2190,13 +2085,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Terra Nova</name>
-  <tvdbid>164091</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Terra%20Nova%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The Almighty Johnsons</name>
   <tvdbid>229981</tvdbid>
   <mirrors>
@@ -2415,13 +2303,6 @@
   </mirrors>
  </show>
  <show>
-  <name>The Increasingly Poor Decisions of Todd Margaret</name>
-  <tvdbid>140681</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Increasingly%20Poor%20Decisions%20of%20Todd%20Margaret&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The Jonathan Ross Show</name>
   <tvdbid>251527</tvdbid>
   <mirrors>
@@ -2461,13 +2342,6 @@
   <tvdbid>114701</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20League%20eztv&amp;userName=eztv</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>The Life &amp; Times of Tim</name>
-  <tvdbid>83130</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Life%20Times%20of%20Tim%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2538,13 +2412,6 @@
   <tvdbid>196981</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Only%20Way%20Is%20Essex%20-dvdrip&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>The Playboy Club</name>
-  <tvdbid>248830</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Playboy%20Club%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -3014,20 +2881,6 @@
   <tvdbid>82226</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Wipeout%20US&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Wizards of Waverly Place</name>
-  <tvdbid>80726</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Wizards%20of%20Waverly%20Place&amp;userName=TvTeam</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Work It</name>
-  <tvdbid>248843</tvdbid>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=Work%20It%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
