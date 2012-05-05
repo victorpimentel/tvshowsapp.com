@@ -2303,6 +2303,13 @@
   </mirrors>
  </show>
  <show>
+  <name>The Client List</name>
+  <tvdbid>255266</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Client%20List%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Closer</name>
   <tvdbid>74875</tvdbid>
   <mirrors>
