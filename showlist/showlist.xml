@@ -120,6 +120,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Anthony Bourdain: No Reservations</name>
+  <tvdbid>79668</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Anthony%20Bourdain%20No%20Reservations&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Archer (2009)</name>
   <tvdbid>110381</tvdbid>
   <mirrors>
