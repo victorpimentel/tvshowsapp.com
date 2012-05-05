@@ -2933,6 +2933,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Veep</name>
+  <tvdbid>237831</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Veep%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Warehouse 13</name>
   <tvdbid>84676</tvdbid>
   <mirrors>
