@@ -519,6 +519,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Common Law (2012)</name>
+  <tvdbid>253982</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Common%20Law%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Community</name>
   <tvdbid>94571</tvdbid>
   <mirrors>
@@ -530,6 +537,13 @@
   <tvdbid>194751</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Conan%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Continuum</name>
+  <tvdbid>258171</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Continuum%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -727,6 +741,13 @@
   <tvdbid>256825</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Duck%20Dynasty&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Duets</name>
+  <tvdbid>258558</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Duets%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1369,6 +1390,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Longmire</name>
+  <tvdbid>253491</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Longmire%20vtv&amp;userName=vtv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Lost Girl</name>
   <tvdbid>182061</tvdbid>
   <mirrors>
@@ -1457,6 +1485,13 @@
   <tvdbid>168621</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Melissa%20Joey%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Men at Work</name>
+  <tvdbid>258618</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Men%20at%20Work%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -1768,6 +1803,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Planet Earth Live</name>
+  <tvdbid>258788</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Planet%20Earth%20Live%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Police Women of Broward County</name>
   <tvdbid>112161</tvdbid>
   <mirrors>
@@ -1991,6 +2033,13 @@
   <tvdbid>76177</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Saturday%20Night%20Live%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Saving Hope</name>
+  <tvdbid>256111</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Saving%20Hope%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2916,6 +2965,13 @@
   <tvdbid>84946</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Treme%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Tron Uprising</name>
+  <tvdbid>258480</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Tron%20Uprising%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
