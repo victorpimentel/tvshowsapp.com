@@ -2800,10 +2800,25 @@
   </mirrors>
  </show>
  <show>
+  <name>The Voice (AU)</name>
+  <tvdbid>258204</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20AU&amp;userName=TvTeam</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20Australia&amp;userName=tonyisaac</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Voice (UK)</name>
+  <tvdbid>257313</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20UK&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Voice (US)</name>
   <tvdbid>247824</tvdbid>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20-NL&amp;userName=ettv</mirror>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Voice%20-NL%20-AU%20-UK&amp;userName=ettv</mirror>
   </mirrors>
  </show>
  <show>
