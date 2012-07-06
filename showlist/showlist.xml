@@ -120,6 +120,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Anger Management</name>
+  <tvdbid>253350</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Anger%20Management%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Anthony Bourdain: No Reservations</name>
   <tvdbid>79668</tvdbid>
   <mirrors>
@@ -379,6 +386,13 @@
   </mirrors>
  </show>
  <show>
+  <name>Bunheads</name>
+  <tvdbid>257377</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Bunheads%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Burn Notice</name>
   <tvdbid>80270</tvdbid>
   <mirrors>
@@ -600,6 +614,13 @@
   <tvdbid>76203</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=Curb%20Your%20Enthusiasm%20eztv&amp;userName=eztv</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Dallas (2012)</name>
+  <tvdbid>242521</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=Dallas%202012%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
@@ -2615,6 +2636,13 @@
   <tvdbid>85425</tvdbid>
   <mirrors>
    <mirror>http://tvshowsapp.com/feed/?filter=The%20Millionaire%20Matchmaker&amp;userName=TvTeam</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Newsroom (2012)</name>
+  <tvdbid>256227</tvdbid>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feed/?filter=The%20Newsroom%202012%20eztv&amp;userName=eztv</mirror>
   </mirrors>
  </show>
  <show>
