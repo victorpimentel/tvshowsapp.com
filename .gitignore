@@ -1,1 +1,4 @@
 /feed/cache/*.xml
+/feeds/cache/*.xml
+/feeds/log/*.log
+/feeds/config/database.yml
