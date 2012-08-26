@@ -1,0 +1,6 @@
+development:
+    adapter:    mysql
+    host:       yourhost.com
+    username:   yourusername
+    password:   yourpassword
+    database:   yourdatabase

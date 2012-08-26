@@ -1,0 +1,36 @@
+valid_uploaders:
+    - eztv
+    - vtv
+    - ettv
+    - ultratorrents
+    - tvteam
+    - sceneline
+    - scenebalance
+    - dibyatpb
+    - trialnerror
+    - tonyisaac
+    - .c_p.
+    - despo1ler
+    - alexisthebest
+    - charlieisnumberone
+
+min_size: 50000
+
+tpb_generic_search_sd: "http://thepiratebay.se/browse/205"
+tpb_generic_search_hd: "http://thepiratebay.se/browse/208"
+eztv_generic_search: "http://eztv.it/"
+
+tpb_search: "http://thepiratebay.se/search/{term}/0/3/205,208"
+term_placeholder: "{term}"
+
+tpb_user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1171.0 Safari/537.1"
+
+tvdb_search: "http://www.thetvdb.com/api/GetSeries.php?seriesname={name}"
+tvdb_details: "http://www.thetvdb.com/data/series/{id}/en.xml"
+name_placeholder: "{name}"
+id_placeholder: "{id}"
+
+showlist_file: "../showlist/showlist.xml"
+feed_url: "http://tvshowsapp.com/feeds/{term}.xml"
+
+debug: true
