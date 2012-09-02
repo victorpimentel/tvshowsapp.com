@@ -46,8 +46,8 @@
       <div id="buttons" class="grids">
         <p id="download" class="grid grid-4">
           <a id="download-button" title="Descarga la versión más reciente de TVShows" href="TVShows.zip" role="button" tabindex="1" class="grid-4">Descargar</a>
-          <small>2.0b12 (Universal)</small>
-          <small>Leopard, Snow Leopard <em>&amp;</em> Lion</small>
+          <small>2.0 (Universal)</small>
+          <small>Leopard, Snow Leopard, Lion <em>&amp;</em> Mountain Lion</small>
         </p>
         <p id="donate" class="grid grid-3">
           <a id="donate-button" title="¡Invítanos a una cerveza!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=2PARRGESKRQJ6&amp;item_name=TVShows2&amp;item_number=TVShows2&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button" tabindex="2" class="grid-3">Donate</a>
@@ -139,7 +139,7 @@
   <footer>
     <ul class="nav centred">
       <li><a id="credits-link" title="Página personal del autor" href="http://victorpimentel.com">Víctor Pimentel</a></li>
-      <li><a id="license-link" title="Licencia de TVShows" href="http://www.gnu.org/licenses/gpl.html">GPL3 2011</a></li>
+      <li><a id="license-link" title="Licencia de TVShows" href="http://www.gnu.org/licenses/gpl.html">GPL3 2012</a></li>
     </ul>
   </footer>
 
