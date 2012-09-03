@@ -49,14 +49,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Alcatraz</name>
-  <tvdbid>248646</tvdbid>
-  <added>Sun Jun 17 03:58:41 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Alcatraz.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -441,14 +433,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Breakout Kings</name>
-  <tvdbid>219341</tvdbid>
-  <added>Sun Jun 17 03:58:41 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Breakout%20Kings.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Britain's Got Talent</name>
   <tvdbid>80727</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -601,6 +585,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Comedians In Cars Getting Coffee</name>
+  <tvdbid>260845</tvdbid>
+  <added>Sun Sep 02 18:23:44 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Comedians%20In%20Cars%20Getting%20Coffee.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Comedy Central Presents</name>
   <tvdbid>74337</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -649,11 +641,27 @@
   </mirrors>
  </show>
  <show>
+  <name>Copper</name>
+  <tvdbid>257939</tvdbid>
+  <added>Sun Sep 02 18:50:56 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Copper.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Cops</name>
   <tvdbid>74709</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Cops.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Coronation Street</name>
+  <tvdbid>71565</tvdbid>
+  <added>Mon Sep 03 21:30:41 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Coronation%20Street.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -825,14 +833,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Dirk Gently</name>
-  <tvdbid>213081</tvdbid>
-  <added>Sun Jun 17 03:58:41 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Dirk%20Gently.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Dirty Jobs</name>
   <tvdbid>78904</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -862,14 +862,6 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Doctor%20Who%202005.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Doctor Who Confidential</name>
-  <tvdbid>79298</tvdbid>
-  <added>Sun Jun 17 03:58:41 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Doctor%20Who%20Confidential.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -966,14 +958,6 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Eternal%20Law.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Eureka</name>
-  <tvdbid>79334</tvdbid>
-  <added>Sun Jun 17 03:58:41 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Eureka.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1185,6 +1169,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Good Cop</name>
+  <tvdbid>261144</tvdbid>
+  <added>Sun Sep 02 18:05:35 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Good%20Cop.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Gossip Girl</name>
   <tvdbid>80547</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1334,14 +1326,6 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Hot%20in%20Cleveland.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>House</name>
-  <tvdbid>73255</tvdbid>
-  <added>Sun Jun 17 03:58:42 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/House.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1646,14 +1630,6 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Leverage.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Life's Too Short</name>
-  <tvdbid>249698</tvdbid>
-  <added>Sun Jun 17 03:58:42 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Lifes%20Too%20Short.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2062,14 +2038,6 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Packed%20To%20The%20Rafters.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>Pan Am</name>
-  <tvdbid>247361</tvdbid>
-  <added>Sun Jun 17 03:58:42 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Pan%20Am.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3193,14 +3161,6 @@
   </mirrors>
  </show>
  <show>
-  <name>The Ricky Gervais Show</name>
-  <tvdbid>142581</tvdbid>
-  <added>Sun Jun 17 03:58:43 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/The%20Ricky%20Gervais%20Show.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>The River (2012)</name>
   <tvdbid>248836</tvdbid>
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
@@ -3665,6 +3625,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Vegas (2012)</name>
+  <tvdbid>259091</tvdbid>
+  <added>Sun Sep 02 18:20:13 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Vegas%20-CSI.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Warehouse 13</name>
   <tvdbid>84676</tvdbid>
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
@@ -3790,6 +3758,30 @@
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Would%20I%20Lie%20To%20You.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>WWE Friday Night SmackDown</name>
+  <tvdbid>75640</tvdbid>
+  <added>Sun Sep 02 18:56:16 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/WWE%20Friday%20Night%20SmackDown.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>WWE Monday Night RAW</name>
+  <tvdbid>76779</tvdbid>
+  <added>Sun Sep 02 19:02:04 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/WWE%20Monday%20Night%20RAW.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>WWE NXT</name>
+  <tvdbid>144541</tvdbid>
+  <added>Sun Sep 02 19:04:42 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/WWE%20NXT.xml</mirror>
   </mirrors>
  </show>
  <show>
