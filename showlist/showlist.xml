@@ -425,6 +425,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Big Brother After Dark</name>
+  <tvdbid>81491</tvdbid>
+  <added>Sun Sep 30 15:27:29 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Big%20Brother%20US%20After%20Dark.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Billy Connolly's Route 66</name>
   <tvdbid>251909</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
