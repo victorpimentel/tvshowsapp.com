@@ -73,14 +73,6 @@
   </mirrors>
  </show>
  <show>
-  <name>A Gifted Man</name>
-  <tvdbid>248875</tvdbid>
-  <added>Sun Jun 17 03:58:40 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/A%20Gifted%20Man.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -542,6 +534,14 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Breaking%20In.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Brickleberry</name>
+  <tvdbid>259569</tvdbid>
+  <added>Thu Oct 04 13:22:45 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Brickleberry.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1401,6 +1401,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Gravity Falls</name>
+  <tvdbid>259972</tvdbid>
+  <added>Thu Oct 04 13:21:24 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Gravity%20Falls.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Green Lantern: The Animated Series</name>
   <tvdbid>251807</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1537,6 +1545,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Horizon</name>
+  <tvdbid>74379</tvdbid>
+  <added>Thu Oct 04 13:29:04 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Horizon.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Hot in Cleveland</name>
   <tvdbid>162071</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1601,11 +1617,11 @@
   </mirrors>
  </show>
  <show>
-  <name>Hustle</name>
-  <tvdbid>73028</tvdbid>
-  <added>Sun Jun 17 03:58:42 +0200 2012</added>
+  <name>Hunted</name>
+  <tvdbid>259702</tvdbid>
+  <added>Thu Oct 04 15:03:07 +0200 2012</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Hustle.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Hunted.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1662,14 +1678,6 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/In%20Harms%20Way.xml</mirror>
-  </mirrors>
- </show>
- <show>
-  <name>In Plain Sight</name>
-  <tvdbid>82155</tvdbid>
-  <added>Sun Jun 17 03:58:42 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/In%20Plain%20Sight.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2689,14 +2697,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Sanctuary</name>
-  <tvdbid>80159</tvdbid>
-  <added>Sun Jun 17 03:58:43 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Sanctuary.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Saturday Night Live</name>
   <tvdbid>76177</tvdbid>
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
@@ -3014,6 +3014,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Teen%20Wolf.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Teenage Mutant Ninja Turtles (2012)</name>
+  <tvdbid>261451</tvdbid>
+  <added>Thu Oct 04 13:26:04 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Teenage%20Mutant%20Ninja%20Turtles%202012.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3534,6 +3542,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Only%20Way%20Is%20Essex%20-dvdrip.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Paradise</name>
+  <tvdbid>262585</tvdbid>
+  <added>Thu Oct 04 15:01:59 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Paradise.xml</mirror>
   </mirrors>
  </show>
  <show>
