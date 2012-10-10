@@ -4193,14 +4193,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Weeds</name>
-  <tvdbid>74845</tvdbid>
-  <added>Sun Jun 17 03:58:44 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Weeds.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Whale Wars</name>
   <tvdbid>83682</tvdbid>
   <added>Sun Sep 30 13:56:39 +0200 2012</added>
