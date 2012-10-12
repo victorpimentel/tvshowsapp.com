@@ -137,6 +137,14 @@
   </mirrors>
  </show>
  <show>
+  <name>American Restoration</name>
+  <tvdbid>199011</tvdbid>
+  <added>Sat Oct 13 00:33:12 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/American%20Restoration.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Americas Next Top Model</name>
   <tvdbid>71721</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -1041,6 +1049,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Dragons: Riders of Berk</name>
+  <tvdbid>261202</tvdbid>
+  <added>Sat Oct 13 00:29:30 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Dragons%20Riders%20of%20Berk.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Drinking Made Easy</name>
   <tvdbid>195831</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -1166,6 +1182,14 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Family%20Guy.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Fast N' Loud</name>
+  <tvdbid>259393</tvdbid>
+  <added>Sat Oct 13 00:32:26 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Fast%20N%20Loud.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1501,7 +1525,7 @@
   <tvdbid>164541</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Hawaii%20Five-0.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Hawaii%20Five%200.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1702,6 +1726,14 @@
   <added>Sun Sep 30 14:56:14 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Inside%20MMA.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Inspector George Gently</name>
+  <tvdbid>80226</tvdbid>
+  <added>Sat Oct 13 00:36:49 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/George%20Gently.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2550,6 +2582,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Real%20Time%20with%20Bill%20Maher.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Red Dwarf</name>
+  <tvdbid>71326</tvdbid>
+  <added>Sat Oct 13 00:25:57 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Red%20Dwarf.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3742,6 +3782,14 @@
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Vampire%20Diaries.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Vanilla Ice Project</name>
+  <tvdbid>200241</tvdbid>
+  <added>Sat Oct 13 00:33:58 +0200 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Vanilla%20Ice%20Project.xml</mirror>
   </mirrors>
  </show>
  <show>
