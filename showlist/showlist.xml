@@ -1113,6 +1113,14 @@
   </mirrors>
  </show>
  <show>
+  <name>El Barco</name>
+  <tvdbid>223111</tvdbid>
+  <added>Sun Oct 28 23:26:06 +0100 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/El%20Barco.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Elementary</name>
   <tvdbid>255316</tvdbid>
   <added>Sun Sep 30 12:23:27 +0200 2012</added>
@@ -1569,6 +1577,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Hispania</name>
+  <tvdbid>201511</tvdbid>
+  <added>Sun Oct 28 23:31:27 +0100 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Hispania%20La%20Leyenda.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Homeland</name>
   <tvdbid>247897</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1878,6 +1894,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Kung%20Fu%20Panda%20Legends%20Of%20Awesomeness.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>La que se avecina</name>
+  <tvdbid>82753</tvdbid>
+  <added>Sun Oct 28 23:24:16 +0100 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/La%20que%20se%20avecina.xml</mirror>
   </mirrors>
  </show>
  <show>
