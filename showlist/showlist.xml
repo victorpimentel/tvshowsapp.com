@@ -1289,6 +1289,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Gand&#237;a Shore</name>
+  <tvdbid>263294</tvdbid>
+  <added>Sun Oct 28 23:17:56 +0100 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Gandia%20Shore.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Gates</name>
   <tvdbid>261481</tvdbid>
   <added>Sat Aug 25 21:11:46 +0200 2012</added>
