@@ -1089,6 +1089,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Dynamo: Magician Impossible</name>
+  <tvdbid>250136</tvdbid>
+  <added>Tue Nov 13 18:32:44 +0100 2012</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Dynamo%20Magician%20Impossible.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Earthflight</name>
   <tvdbid>254572</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
