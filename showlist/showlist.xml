@@ -73,6 +73,22 @@
   </mirrors>
  </show>
  <show>
+  <name>A Touch of Cloth</name>
+  <tvdbid>260750</tvdbid>
+  <added>Sun Mar 10 20:13:02 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/A%20Touch%20of%20Cloth.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Adventure Time</name>
+  <tvdbid>152831</tvdbid>
+  <added>Sun Mar 10 20:14:05 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Adventure%20Time.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Alphas</name>
   <tvdbid>210841</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -150,6 +166,14 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Americas%20Next%20Top%20Model.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Amish Mafia</name>
+  <tvdbid>264416</tvdbid>
+  <added>Sun Mar 10 20:18:59 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Amish%20Mafia.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -281,6 +305,14 @@
   </mirrors>
  </show>
  <show>
+  <name>AX Men</name>
+  <tvdbid>81578</tvdbid>
+  <added>Sun Mar 10 20:22:46 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/AX%20Men.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>&#161;Rob!</name>
   <tvdbid>253931</tvdbid>
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
@@ -313,11 +345,35 @@
   </mirrors>
  </show>
  <show>
+  <name>Bang Goes the Theory</name>
+  <tvdbid>107471</tvdbid>
+  <added>Sun Mar 10 20:29:40 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Bang%20Goes%20the%20Theory.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Banshee</name>
+  <tvdbid>259765</tvdbid>
+  <added>Sun Mar 10 20:30:47 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Banshee.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Bar Rescue</name>
   <tvdbid>250071</tvdbid>
   <added>Sun Sep 30 13:44:54 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Bar%20Rescue.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bates Motel</name>
+  <tvdbid>262414</tvdbid>
+  <added>Sun Mar 10 20:05:57 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Bates%20Motel.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -641,6 +697,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Charlie Brookers Weekly Wipe</name>
+  <tvdbid>265369</tvdbid>
+  <added>Sun Mar 10 20:35:13 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Charlie%20Brookers%20Weekly%20Wipe.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Chase (2010)</name>
   <tvdbid>163541</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -817,6 +881,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Cracked</name>
+  <tvdbid>260947</tvdbid>
+  <added>Sun Mar 10 19:59:59 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Cracked.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Craig Ferguson</name>
   <tvdbid>73387</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -873,6 +945,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Cuckoo</name>
+  <tvdbid>262558</tvdbid>
+  <added>Sun Mar 10 20:36:44 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Cuckoo.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Cult</name>
   <tvdbid>258540</tvdbid>
   <added>Sun Sep 30 12:21:22 +0200 2012</added>
@@ -886,6 +966,14 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Curb%20Your%20Enthusiasm.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Da Vinci's Demons</name>
+  <tvdbid>259669</tvdbid>
+  <added>Sun Mar 10 20:07:48 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Da%20Vincis%20Demons.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -966,6 +1054,14 @@
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Death%20Valley.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Defiance</name>
+  <tvdbid>255326</tvdbid>
+  <added>Sun Mar 10 20:38:55 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Defiance.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1217,6 +1313,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Femme Fatales</name>
+  <tvdbid>249164</tvdbid>
+  <added>Sun Mar 10 20:41:54 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Femme%20Fatales.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Fifth Gear</name>
   <tvdbid>78998</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -1409,6 +1513,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Golden Boy (2013)</name>
+  <tvdbid>259093</tvdbid>
+  <added>Sun Mar 10 20:44:40 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Golden%20Boy.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Good Cop</name>
   <tvdbid>261144</tvdbid>
   <added>Sun Sep 02 18:05:35 +0200 2012</added>
@@ -1513,6 +1625,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Hard Knocks</name>
+  <tvdbid>76765</tvdbid>
+  <added>Sun Mar 10 20:46:14 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Hard%20Knocks.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Harry's Law</name>
   <tvdbid>163581</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1550,6 +1670,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Hawaii%20Five%200.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Heartland (CA)</name>
+  <tvdbid>82701</tvdbid>
+  <added>Sun Mar 10 19:42:37 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Heartland%20CA.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1673,6 +1801,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Hunderby</name>
+  <tvdbid>261711</tvdbid>
+  <added>Sun Mar 10 20:58:09 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Hunderby.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Hunted</name>
   <tvdbid>259702</tvdbid>
   <added>Thu Oct 04 15:03:07 +0200 2012</added>
@@ -1710,6 +1846,14 @@
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/iCarly.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ice Road Truckers</name>
+  <tvdbid>80273</tvdbid>
+  <added>Sun Mar 10 21:01:17 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Ice%20Road%20Truckers.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1833,6 +1977,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Jessie (2011)</name>
+  <tvdbid>252312</tvdbid>
+  <added>Sun Mar 10 21:03:38 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Jessie%202011.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Jimmy Kimmel Live</name>
   <tvdbid>71998</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1894,6 +2046,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Kitchen%20Nightmares.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Kroll Show</name>
+  <tvdbid>265387</tvdbid>
+  <added>Sun Mar 10 19:50:08 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Kroll%20Show.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1966,6 +2126,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Law%20Order%20UK.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Legit (2013)</name>
+  <tvdbid>264450</tvdbid>
+  <added>Sun Mar 10 21:06:05 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Legit.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2233,11 +2401,43 @@
   </mirrors>
  </show>
  <show>
+  <name>Monday Mornings</name>
+  <tvdbid>258884</tvdbid>
+  <added>Sun Mar 10 21:10:37 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Monday%20Mornings.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Mongrels</name>
   <tvdbid>171481</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Mongrels.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Moone Boy</name>
+  <tvdbid>260871</tvdbid>
+  <added>Sun Mar 10 21:08:51 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Moone%20Boy.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Moonshiners</name>
+  <tvdbid>253695</tvdbid>
+  <added>Sun Mar 10 21:11:49 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Moonshiners.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Motive</name>
+  <tvdbid>262569</tvdbid>
+  <added>Sun Mar 10 19:52:20 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Motive.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2249,11 +2449,35 @@
   </mirrors>
  </show>
  <show>
+  <name>Mr. Selfridge</name>
+  <tvdbid>261633</tvdbid>
+  <added>Sun Mar 10 21:13:32 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Mr%20Selfridge.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Mrs Brown's Boys</name>
   <tvdbid>219631</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Mrs%20Browns%20Boys.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Murdoch Mysteries</name>
+  <tvdbid>81670</tvdbid>
+  <added>Sun Mar 10 21:16:43 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Murdoch%20Mysteries.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>My Little Pony: Friendship Is Magic</name>
+  <tvdbid>212171</tvdbid>
+  <added>Sun Mar 10 21:19:22 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/My%20Little%20Pony%20Friendship%20Is%20Magic.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2417,6 +2641,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Orphan Black</name>
+  <tvdbid>260315</tvdbid>
+  <added>Sun Mar 10 21:21:34 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Orphan%20Black.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Outnumbered</name>
   <tvdbid>80592</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -2561,6 +2793,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Prisoners Wives</name>
+  <tvdbid>255677</tvdbid>
+  <added>Sun Mar 10 21:23:16 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Prisoners%20Wives.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Private Practice</name>
   <tvdbid>80542</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -2601,11 +2841,27 @@
   </mirrors>
  </show>
  <show>
+  <name>Punk'd</name>
+  <tvdbid>72268</tvdbid>
+  <added>Sun Mar 10 21:25:26 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Punkd.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>QI</name>
   <tvdbid>72716</tvdbid>
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/QI.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Rab C Nesbitt</name>
+  <tvdbid>70706</tvdbid>
+  <added>Sun Mar 10 21:26:53 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Rab%20C%20Nesbitt.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2694,6 +2950,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Ringer.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ripper Street</name>
+  <tvdbid>260485</tvdbid>
+  <added>Sun Mar 10 21:29:39 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Ripper%20Street.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2830,6 +3094,14 @@
   <added>Sun Jun 17 23:55:54 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Secrets%20Of%20Our%20Living%20Planet.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Seed</name>
+  <tvdbid>265731</tvdbid>
+  <added>Sun Mar 10 19:36:12 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Seed.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3033,6 +3305,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Strictly Come Dancing</name>
+  <tvdbid>83127</tvdbid>
+  <added>Sun Mar 10 21:32:48 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Strictly%20Come%20Dancing.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Strike Back</name>
   <tvdbid>148581</tvdbid>
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
@@ -3054,6 +3334,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Suits.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Sullivan &amp; Son</name>
+  <tvdbid>253457</tvdbid>
+  <added>Sun Mar 10 21:34:25 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Sullivan%20and%20Son.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3126,6 +3414,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Amazing%20Race%20AU.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Americans (2013)</name>
+  <tvdbid>261690</tvdbid>
+  <added>Sun Mar 10 20:17:22 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Americans%202013.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4057,6 +4353,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Transporter</name>
+  <tvdbid>248962</tvdbid>
+  <added>Sun Mar 10 19:57:26 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Transporter%20The%20Series.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Treme</name>
   <tvdbid>84946</tvdbid>
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
@@ -4161,6 +4465,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Under the Dome</name>
+  <tvdbid>264492</tvdbid>
+  <added>Sun Mar 10 19:55:19 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Under%20the%20Dome.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Underbelly</name>
   <tvdbid>81346</tvdbid>
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
@@ -4182,6 +4494,14 @@
   <added>Sun Jun 17 23:55:12 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Undercover%20Stings.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Underemployed</name>
+  <tvdbid>261832</tvdbid>
+  <added>Sun Mar 10 21:38:03 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Underemployed.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4225,6 +4545,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Utopia</name>
+  <tvdbid>264991</tvdbid>
+  <added>Sun Mar 10 19:43:51 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Utopia.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Veep</name>
   <tvdbid>237831</tvdbid>
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
@@ -4241,11 +4569,35 @@
   </mirrors>
  </show>
  <show>
+  <name>Vexed</name>
+  <tvdbid>182601</tvdbid>
+  <added>Sun Mar 10 21:39:35 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Vexed.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Vikings</name>
+  <tvdbid>260449</tvdbid>
+  <added>Sun Mar 10 19:34:31 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Vikings.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Walking And Talking</name>
   <tvdbid>259818</tvdbid>
   <added>Sun Sep 30 13:54:19 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Walking%20And%20Talking.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wallander</name>
+  <tvdbid>82505</tvdbid>
+  <added>Sun Mar 10 20:11:45 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Wallander.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4278,6 +4630,14 @@
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Web%20Therapy.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Wedding Band</name>
+  <tvdbid>261765</tvdbid>
+  <added>Sun Mar 10 21:41:04 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Wedding%20Band.xml</mirror>
   </mirrors>
  </show>
  <show>
