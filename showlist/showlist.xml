@@ -1753,6 +1753,14 @@
   </mirrors>
  </show>
  <show>
+  <name>House of Cards (2013)</name>
+  <tvdbid>262980</tvdbid>
+  <added>Sun Mar 10 22:21:41 +0100 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/House%20of%20Cards%202013.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>House Of Lies</name>
   <tvdbid>247909</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
