@@ -561,6 +561,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Big Brother Canada</name>
+  <tvdbid>261106</tvdbid>
+  <added>Mon May 06 01:43:48 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Big%20Brother%20Canada.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Big Brother US</name>
   <tvdbid>76706</tvdbid>
   <added>Sun May 05 16:04:28 +0200 2013</added>
@@ -2725,7 +2733,7 @@
   <tvdbid>164501</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Mike%20Molly.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Mike%20and%20Molly.xml</mirror>
   </mirrors>
  </show>
  <show>
