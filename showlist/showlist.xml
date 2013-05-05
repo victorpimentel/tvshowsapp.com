@@ -913,6 +913,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Cold Case</name>
+  <tvdbid>72167</tvdbid>
+  <added>Mon May 06 01:48:07 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Cold%20Case.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Combat Hospital</name>
   <tvdbid>248799</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
