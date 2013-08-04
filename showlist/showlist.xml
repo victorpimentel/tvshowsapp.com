@@ -105,6 +105,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Alpha House</name>
+  <tvdbid>269008</tvdbid>
+  <added>Sun Aug 04 17:53:06 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Alpha%20House.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>America's Got Talent</name>
   <tvdbid>79490</tvdbid>
   <added>Sun Sep 30 14:05:19 +0200 2012</added>
@@ -273,6 +281,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Attack on Titan</name>
+  <tvdbid>267440</tvdbid>
+  <added>Sun Aug 04 18:21:06 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Attack%20on%20Titan.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Austin City Limits</name>
   <tvdbid>71649</tvdbid>
   <added>Sun Sep 30 13:34:19 +0200 2012</added>
@@ -302,6 +318,14 @@
   <added>Sun Mar 10 20:22:46 +0100 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/AX%20Men.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Axe Cop</name>
+  <tvdbid>268186</tvdbid>
+  <added>Sun Aug 04 18:28:29 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Axe%20Cop.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -441,6 +465,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Beware the Batman</name>
+  <tvdbid>258331</tvdbid>
+  <added>Sun Aug 04 18:15:26 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Beware%20the%20Batman.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Big Brother After Dark</name>
   <tvdbid>81491</tvdbid>
   <added>Sun Sep 30 15:27:29 +0200 2012</added>
@@ -462,6 +494,14 @@
   <added>Sun May 05 16:04:28 +0200 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Big%20Brother%20US%20-Dark.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Bikinis &amp; Boardwalks</name>
+  <tvdbid>271129</tvdbid>
+  <added>Sun Aug 04 18:26:14 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Bikinis%20and%20Boardwalks.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -649,6 +689,22 @@
   </mirrors>
  </show>
  <show>
+  <name>Camp</name>
+  <tvdbid>268653</tvdbid>
+  <added>Sun Aug 04 18:18:35 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Camp.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Capture</name>
+  <tvdbid>270027</tvdbid>
+  <added>Sun Aug 04 18:23:42 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Capture.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Castle (2009)</name>
   <tvdbid>83462</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -662,6 +718,14 @@
   <added>Wed Apr 03 23:35:12 +0200 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Catfish%20The%20TV%20Show.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Cedar Cove</name>
+  <tvdbid>263387</tvdbid>
+  <added>Sun Aug 04 18:30:13 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Cedar%20Cove.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1161,6 +1225,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Drunk History</name>
+  <tvdbid>270550</tvdbid>
+  <added>Sun Aug 04 18:27:34 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Drunk%20History.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Duck Dynasty</name>
   <tvdbid>256825</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -1441,6 +1513,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Get Out Alive (2013)</name>
+  <tvdbid>271445</tvdbid>
+  <added>Sun Aug 04 18:31:49 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Get%20Out%20Alive%202013.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Ghost Adventures</name>
   <tvdbid>83929</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1649,6 +1729,14 @@
   </mirrors>
  </show>
  <show>
+  <name>High School USA!</name>
+  <tvdbid>268187</tvdbid>
+  <added>Sun Aug 04 18:29:04 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/High%20School%20USA.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Him And Her</name>
   <tvdbid>187801</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -1742,6 +1830,14 @@
   <added>Sun Sep 30 14:24:49 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/How%20Its%20Made.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>How It's Made: Dream Cars</name>
+  <tvdbid>270898</tvdbid>
+  <added>Sun Aug 04 18:08:16 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/How%20Its%20Made%20Dream%20Cars.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -1926,6 +2022,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Jay%20Leno.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Jesse James: Outlaw Garage</name>
+  <tvdbid>258035</tvdbid>
+  <added>Sun Aug 04 18:18:17 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Jesse%20James%20Outlaw%20Garage.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2277,7 +2381,7 @@
   <tvdbid>168621</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Melissa%20Joey.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Melissa%20and%20Joey.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2497,6 +2601,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Naked and Afraid</name>
+  <tvdbid>270693</tvdbid>
+  <added>Sun Aug 04 17:54:03 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Naked%20and%20Afraid.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Nashville</name>
   <tvdbid>259055</tvdbid>
   <added>Sun Sep 30 12:40:52 +0200 2012</added>
@@ -2625,6 +2737,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Offspring</name>
+  <tvdbid>182541</tvdbid>
+  <added>Sun Aug 04 17:51:50 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Offspring.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Once Upon A Time (2011)</name>
   <tvdbid>248835</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -2646,6 +2766,22 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Onion%20News%20Network.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Operation Repo</name>
+  <tvdbid>148791</tvdbid>
+  <added>Sun Aug 04 17:58:10 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Operation%20Repo.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Orange Is the New Black</name>
+  <tvdbid>264586</tvdbid>
+  <added>Sun Aug 04 18:19:40 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Orange%20Is%20the%20New%20Black.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2769,6 +2905,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Pok&#233;mon</name>
+  <tvdbid>76703</tvdbid>
+  <added>Sun Aug 04 18:14:19 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Pokemon.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Portlandia</name>
   <tvdbid>213221</tvdbid>
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
@@ -2790,6 +2934,14 @@
   <added>Sun Jun 17 03:58:42 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Pretty%20Little%20Liars.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Princesses: Long Island</name>
+  <tvdbid>270178</tvdbid>
+  <added>Sun Aug 04 18:11:45 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Princesses%20Long%20Island.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3013,7 +3165,7 @@
   <tvdbid>161461</tvdbid>
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Rizzoli%20Isles.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Rizzoli%20and%20Isles.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3206,6 +3358,14 @@
   <added>Mon May 06 00:38:21 +0200 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Shetland.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Siberia</name>
+  <tvdbid>270019</tvdbid>
+  <added>Sun Aug 04 18:13:30 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Siberia.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -3961,6 +4121,14 @@
   </mirrors>
  </show>
  <show>
+  <name>The Mill</name>
+  <tvdbid>271859</tvdbid>
+  <added>Sun Aug 04 18:24:00 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Mill.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Millers</name>
   <tvdbid>269644</tvdbid>
   <added>Wed May 15 21:24:28 +0200 2013</added>
@@ -4302,6 +4470,14 @@
   <added>Sun Jun 17 03:58:44 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Walking%20Dead.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The White Queen</name>
+  <tvdbid>266092</tvdbid>
+  <added>Sun Aug 04 18:10:28 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20White%20Queen.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4777,6 +4953,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Wentworth</name>
+  <tvdbid>264234</tvdbid>
+  <added>Sun Aug 04 18:20:18 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Wentworth.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Whale Wars</name>
   <tvdbid>83682</tvdbid>
   <added>Sun Sep 30 13:56:39 +0200 2012</added>
@@ -4806,6 +4990,14 @@
   <added>Sun May 05 18:28:19 +0200 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Who%20Gets%20the%20Last%20Laugh.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Whose Line Is It Anyway</name>
+  <tvdbid>76808</tvdbid>
+  <added>Sun Aug 04 18:09:43 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Whose%20Line%20Is%20It%20Anyway%20US.xml</mirror>
   </mirrors>
  </show>
  <show>
