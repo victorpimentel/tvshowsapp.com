@@ -1153,6 +1153,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Crossing Lines</name>
+  <tvdbid>267970</tvdbid>
+  <added>Sun May 19 10:20:02 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Crossing%20Lines.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Crownies</name>
   <tvdbid>249811</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -1350,6 +1358,14 @@
   <added>Sun Sep 30 13:32:53 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Destination%20Truth.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Devious Maids</name>
+  <tvdbid>261802</tvdbid>
+  <added>Sat May 18 19:42:16 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Devious%20Maids.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -2518,6 +2534,14 @@
   <added>Wed May 15 21:39:09 +0200 2013</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Killer%20Women.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>King &amp; Maxwell</name>
+  <tvdbid>267988</tvdbid>
+  <added>Sun May 19 10:21:48 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/King%20And%20Maxwell.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4617,6 +4641,14 @@
   </mirrors>
  </show>
  <show>
+  <name>The Fall</name>
+  <tvdbid>258107</tvdbid>
+  <added>Sun May 19 10:24:26 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Fall.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>The Family Guide</name>
   <tvdbid>269595</tvdbid>
   <added>Wed May 15 21:45:47 +0200 2013</added>
@@ -4646,6 +4678,14 @@
   <added>Sun Sep 30 12:26:10 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Following.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Fosters (2013)</name>
+  <tvdbid>267907</tvdbid>
+  <added>Sun May 19 10:23:12 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Fosters%202013.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -4918,6 +4958,14 @@
   <added>Sun Sep 30 12:41:56 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Neighbors%202012.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Nerdist</name>
+  <tvdbid>251782</tvdbid>
+  <added>Sun May 19 10:27:31 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Nerdist.xml</mirror>
   </mirrors>
  </show>
  <show>
