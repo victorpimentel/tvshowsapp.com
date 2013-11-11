@@ -46,8 +46,8 @@
       <div id="buttons" class="grids">
         <p id="download" class="grid grid-4">
           <a id="download-button" title="Descarga la versión más reciente de TVShows" href="TVShows.zip" role="button" tabindex="1" class="grid-4">Descargar</a>
-          <small>2.0 (Universal)</small>
-          <small>Leopard, Snow Leopard, Lion <em>&amp;</em> Mountain Lion</small>
+          <small>2.1 (Universal)</small>
+          <small>Leopard, Snow Leopard, Lion, Mountain Lion <em>&amp;</em> Mavericks</small>
         </p>
         <p id="donate" class="grid grid-3">
           <a id="donate-button" title="¡Invítanos a una cerveza!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=2PARRGESKRQJ6&amp;item_name=TVShows2&amp;item_number=TVShows2&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button" tabindex="2" class="grid-3">Donate</a>
@@ -89,7 +89,7 @@
     <div id="about" class="grid grid-4">
       <h2 id="about-title">Acerca de TVShows</h2>
       <p id="about-text1">TVShows es un proyecto de <a href="https://github.com/victorpimentel/TVShows">código abierto</a> para <strong>Mac</strong>, que intenta facilitarte la búsqueda de nuevos episodios.</p>
-      <p id="about-text2">La lista de series contiene más de 550 series en emisión, la aplicación tiene más de 45.000 usuarios activos y ha sido traducida a <a href="https://webtranslateit.com/en/projects/874-TVShows-2/project_locales" title="Afrikáans, Arábe, Catalán, Checo, Danés, Alemán, Alemán (Suiza), Griego, Inglés, Español, Estonio, Euskera, Francés, Gallego, Hebreo, Islandés, Italiano, Japonés, Noruego, Neerlandés, Polaco, Portugués (Brasil), Portugués (Portugal), Rumano, Ruso, Eslovaco, Esloveno, Sueco, Turco y Chino.">30 idiomas</a>.</p>
+      <p id="about-text2">La lista de series contiene más de 700 series en emisión, la aplicación tiene más de 75.000 usuarios activos y ha sido traducida a <a href="https://webtranslateit.com/en/projects/874-TVShows-2/project_locales" title="Afrikáans, Arábe, Catalán, Checo, Danés, Alemán, Alemán (Suiza), Griego, Inglés, Español, Estonio, Euskera, Francés, Frisón, Gallego, Hebreo, Húngaro, Islandés, Italiano, Japonés, Koreano, Noruego, Neerlandés, Polaco, Portugués (Brasil), Portugués (Portugal), Rumano, Ruso, Eslovaco, Esloveno, Sueco, Turco y Chino.">33 idiomas</a>.</p>
     </div>
   </div>
 
@@ -139,7 +139,7 @@
   <footer>
     <ul class="nav centred">
       <li><a id="credits-link" title="Página personal del autor" href="http://victorpimentel.com">Víctor Pimentel</a></li>
-      <li><a id="license-link" title="Licencia de TVShows" href="http://www.gnu.org/licenses/gpl.html">GPL3 2012</a></li>
+      <li><a id="license-link" title="Licencia de TVShows" href="http://www.gnu.org/licenses/gpl.html">GPL3 2013</a></li>
     </ul>
   </footer>
 
