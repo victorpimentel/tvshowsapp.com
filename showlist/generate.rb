@@ -5,8 +5,8 @@ require 'nokogiri'
 require 'builder'
 
 DEBUG = true # Pretty output and logs
-SHOWRSS_LIST = "http://showrss.karmorra.info/?cs=feeds"
-SHOWRSS_SHOW = "http://showrss.karmorra.info/feeds/{id}.rss"
+SHOWRSS_LIST = "http://showrss.info/?cs=feeds"
+SHOWRSS_SHOW = "http://showrss.info/feeds/{id}.rss"
 EZRSS_LIST = "http://ezrss.it/shows/"
 EZRSS_SHOW = "http://ezrss.it/search/index.php?show_name={name}&show_name_exact=true&mode=rss"
 HAMSTER_LIST = "http://hamsterspit.com/shows/"
