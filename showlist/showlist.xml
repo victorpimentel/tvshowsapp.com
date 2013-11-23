@@ -929,14 +929,6 @@
   </mirrors>
  </show>
  <show>
-  <name>Crazy Ones</name>
-  <tvdbid>269643</tvdbid>
-  <added>Wed May 15 21:25:01 +0200 2013</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Crazy%20Ones.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Criminal Minds</name>
   <tvdbid>75710</tvdbid>
   <added>Sun Jun 17 03:58:41 +0200 2012</added>
@@ -2985,14 +2977,6 @@
   </mirrors>
  </show>
  <show>
-  <name>QI</name>
-  <tvdbid>72716</tvdbid>
-  <added>Sun Jun 17 03:58:43 +0200 2012</added>
-  <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/QI.xml</mirror>
-  </mirrors>
- </show>
- <show>
   <name>Rab C Nesbitt</name>
   <tvdbid>70706</tvdbid>
   <added>Sun Mar 10 21:26:53 +0100 2013</added>
@@ -3862,6 +3846,14 @@
   <added>Sun Jun 17 03:58:43 +0200 2012</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/The%20Colbert%20Report.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>The Crazy Ones</name>
+  <tvdbid>269643</tvdbid>
+  <added>Wed May 15 21:25:01 +0200 2013</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/The%20Crazy%20Ones.xml</mirror>
   </mirrors>
  </show>
  <show>
