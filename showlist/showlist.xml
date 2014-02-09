@@ -3273,6 +3273,14 @@
   </mirrors>
  </show>
  <show>
+  <name>QI</name>
+  <tvdbid>72716</tvdbid>
+  <added>Sun, 09 Feb 2014 19:58:41 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/QI.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Rab C Nesbitt</name>
   <tvdbid>70706</tvdbid>
   <added>Sun, 10 Mar 2013 21:26:53 +0100</added>
