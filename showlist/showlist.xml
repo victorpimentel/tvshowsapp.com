@@ -1873,6 +1873,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Hello Ladies</name>
+  <tvdbid>265609</tvdbid>
+  <added>Sun, 09 Feb 2014 20:28:58 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Hello%20Ladies.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Hemlock Grove</name>
   <tvdbid>259948</tvdbid>
   <added>Sun, 05 May 2013 15:32:59 +0200</added>
@@ -3310,6 +3318,14 @@
   <added>Wed, 15 May 2013 21:56:24 +0200</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Rake%20US.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Ravenswood</name>
+  <tvdbid>268126</tvdbid>
+  <added>Sun, 09 Feb 2014 20:27:37 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Ravenswood.xml</mirror>
   </mirrors>
  </show>
  <show>
@@ -5406,6 +5422,14 @@
   <added>Sun, 17 Jun 2012 03:58:44 +0200</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Wipeout%20US.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Witches of East End</name>
+  <tvdbid>267259</tvdbid>
+  <added>Sun, 09 Feb 2014 20:29:23 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Witches%20of%20East%20End.xml</mirror>
   </mirrors>
  </show>
  <show>
