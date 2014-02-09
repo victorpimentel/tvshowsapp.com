@@ -537,6 +537,14 @@
   </mirrors>
  </show>
  <show>
+  <name>Big Rig Bounty Hunters</name>
+  <tvdbid>266523</tvdbid>
+  <added>Sun, 09 Feb 2014 21:24:08 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Big%20Rig%20Bounty%20Hunters.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
   <name>Bikinis &amp; Boardwalks</name>
   <tvdbid>271129</tvdbid>
   <added>Sun, 04 Aug 2013 18:26:14 +0200</added>
@@ -1230,6 +1238,14 @@
   <added>Sun, 17 Jun 2012 03:58:41 +0200</added>
   <mirrors>
    <mirror>http://tvshowsapp.com/feeds/Dexter.xml</mirror>
+  </mirrors>
+ </show>
+ <show>
+  <name>Dirty Jobs</name>
+  <tvdbid>78904</tvdbid>
+  <added>Sun, 09 Feb 2014 21:23:29 +0100</added>
+  <mirrors>
+   <mirror>http://tvshowsapp.com/feeds/Dirty%20Jobs.xml</mirror>
   </mirrors>
  </show>
  <show>
