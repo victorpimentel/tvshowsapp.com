@@ -2681,11 +2681,11 @@
   </mirrors>
  </show>
  <show>
-  <name>Legends</name>
-  <tvdbid>85831</tvdbid>
+  <name>Legends (2014)</name>
+  <tvdbid>265074</tvdbid>
   <added>Sun, 17 Aug 2014 20:10:24 +0200</added>
   <mirrors>
-   <mirror>http://tvshowsapp.com/feeds/Legends.xml</mirror>
+   <mirror>http://tvshowsapp.com/feeds/Legends%202014.xml</mirror>
   </mirrors>
  </show>
  <show>
